@@ -1,0 +1,192 @@
+,Column Names
+0,Ticket ID
+1,> 40 Hari Kerja
+2,Admin
+3,Analisa Skill
+4,AnalisaSkils
+5,Approval Central Desc
+6,Approval Resolve  ID
+7,Approved By
+8,Approver
+9,Approver Name
+10,ApproverForResolved
+11,Assigned To
+12,Assignee
+13,Assignee Login ID
+14,AssigneeGroupLeaderID
+15,Attachment?
+16,AttachmentDone?
+17,Automatic Escalation to BRISolutions?
+18,BRISolutions
+19,Bank BRI
+20,Biaya Admin
+21,Biaya Suku Bunga
+22,Branch Code
+23,Bunga
+24,Butuh Attachment?
+25,Butuh Eskalasi ke BRISolutions?
+26,CHS Assignee
+27,Call Type
+28,Call Type ID
+29,Call Type Keyword
+30,Call Type(CallTypeTxt)
+31,CallType 8412 Flag
+32,CallType Info
+33,Channel
+34,Cicilan
+35,Coorporate
+36,CountAgeAttachmentNull
+37,Create Date
+38,Current GIC
+39,Date re-check
+40,Detail*
+41,Draft Ticket Temp
+42,Draft Ticket?
+43,Email
+44,Email Assignee
+45,Email Kabag
+46,Email Supervisor
+47,Email TL
+48,Email Wakabag
+49,Enable WSDL Settlement
+50,Fitur
+51,Fitur ID
+52,Flag Email
+53,Flag Tiket urgency
+54,FlagAutoClosedTicketAttachment
+55,Forward Assignee
+56,Full Name
+57,Fungsi
+58,Fungsi ID
+59,GIC
+60,Gateway*
+61,Hasil Kunjungan
+62,Hasil Penelitian
+63,ID Operasional
+64,Insert Tiket WSDL Flag
+65,Interval Periode
+66,Is Admin
+67,Is Waiting Approval?
+68,IsApproved?
+69,IsAttachmentDone?
+70,IsPending?
+71,JP LKPBU 2
+72,Jenis CallType
+73,Jenis Laporan
+74,Jenis Produk
+75,Jenis Produk 1 LKPBU
+76,Jenis Produk 2 LKPBU
+77,Jenis Transaksi LKPBU
+78,Justification_notes
+79,Kabag Login ID
+80,Kategori Permasalahan LKPBU
+81,Kontak
+82,Last Modified By
+83,Log Name
+84,Loop?
+85,MMS Ticket Id
+86,Mass Ticket Upload Flag
+87,Max 20 HK
+88,Max 40 HK
+89,Merchant ID
+90,Modified Date
+91,NOTAS
+92,Nama Kabag
+93,Nama Nasabah*
+94,Nama Supervisor
+95,Nama TL
+96,Nama Wakabag
+97,Nasabah Prioritas?
+98,No Rekening
+99,No. Rekening
+100,No. Telepon*
+101,Nominal
+102,Nomor Kartu
+103,Notify By
+104,Organization
+105,Output Settlement
+106,PP LKPBU 2
+107,Penyebab Pengaduan 2 LKPBU
+108,Penyebab Pengaduan LKPBU
+109,Periode Pengaduan A
+110,Periode Pengaduan B
+111,Phone Survey
+112,Produk
+113,Resolve Approver Name
+114,Return Ticket?
+115,SLA Resolution
+116,SLA Response (Hours)
+117,SLA Status
+118,SLA Target (Hours)
+119,Same Ticket
+120,Search Call Type
+121,Second Approver Name
+122,Sedang Proses
+123,Selisih SLA (Days)
+124,Service*+
+125,Set Command Txt
+126,Settlement By
+127,Settlement ID
+128,Settlement ID(SettlementIDTxt)
+129,Settlement?
+130,Signature ID
+131,Site User
+132,Status
+133,Status BRISolutions
+134,Status Code
+135,Status LKPBU
+136,Status Reason
+137,Status Return?
+138,Status Transaksi
+139,Submitter
+140,Submitter Email
+141,Submitter Login ID
+142,Submitter Region
+143,Submitter SiteGroup
+144,Submitter User group ID
+145,Submitter User group Name
+146,Submitter Usergroup
+147,SupervisorLoginId
+148,TID
+149,TL Approval?
+150,TL Login ID
+151,TL Name
+152,Tanggal Close
+153,Tanggal Settlement
+154,Tanggal Transaksi
+155,TanggalAttachmentDone
+156,Temp Approver 1
+157,Temp Approver 2 
+158,Temp Assignee Name
+159,Temp Call Type ID
+160,Temp Nominal
+161,Temp Status
+162,Temp Submitter Name
+163,Temp Ticket ID
+164,Temp Ticket ID 3
+165,Temp Ticket ID2
+166,Temp Transaksi Dt
+167,Temp Usergroup
+168,TempCreateDate
+169,TempSubmitDt
+170,Tgl Assigned
+171,Tgl Eskalasi
+172,Tgl Foward
+173,Tgl In Progress
+174,Tgl Returned
+175,Ticket Referensi
+176,TicketRefStatus
+177,Tiket Double
+178,Tiket Urgency
+179,Tipe Remark
+180,Top Call Type
+181,Umur Tiket
+182,UniqueID
+183,User Group
+184,User Login Name
+185,User re-check
+186,User*
+187,Usergroup ID
+188,ViewerUsergroupTxt
+189,Wakabag Login Id
+190,re-check dokument
