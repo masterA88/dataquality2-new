@@ -1,0 +1,23 @@
+--check all validation rules in SF
+
+SELECT Id, CreatedDate, CreatedBy.Name, EntityDefinition.DeveloperName, ValidationName FROM ValidationRule
+
+--verifying the completeness of account
+
+SELECT Id, AccountName, CIF_No, AccountOwner, No_Telp, Email 
+FROM Account
+WHERE AccountName = null OR CIF_No = null OR No_Telp = null OR Email = null
+
+
+--Checking for Cases Needing Attachment But Missing
+SELECT Id, CaseNumber, Butuh_Attachment, AttachmentDone
+FROM Case
+WHERE Butuh_Attachment = true AND AttachmentDone = false
+
+--Cross-Object Validation Between Account and Case
+
+SELECT Id, CaseNumber, Account.Id, Account.AccountName
+FROM Case
+WHERE Account.Id = null
+
+
