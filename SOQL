@@ -21,7 +21,7 @@ FROM Case
 WHERE Account.Id = null
 
 --Identifying Duplicate Accounts Based on CIF No
-SELECT CIF_No, COUNT(Id)
+SELECT CIF, COUNT(Id)
 FROM Account
 GROUP BY CIF_No
 HAVING COUNT(Id) > 1
@@ -33,4 +33,5 @@ WHERE NOT (Email LIKE '%@%.%')
 LIMIT 100
 
 
+--checking the duplicates
 
