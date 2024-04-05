@@ -20,4 +20,17 @@ SELECT Id, CaseNumber, Account.Id, Account.AccountName
 FROM Case
 WHERE Account.Id = null
 
+--Identifying Duplicate Accounts Based on CIF No
+SELECT CIF_No, COUNT(Id)
+FROM Account
+GROUP BY CIF_No
+HAVING COUNT(Id) > 1
+
+--Validating Email Format in Contacts
+SELECT Id, Name, Email
+FROM Contact
+WHERE NOT (Email LIKE '%@%.%')
+LIMIT 100
+
+
 
