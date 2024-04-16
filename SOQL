@@ -33,5 +33,7 @@ WHERE NOT (Email LIKE '%@%.%')
 LIMIT 100
 
 
---checking the duplicates
+--checking the duplicates for CIF
+
+
 
