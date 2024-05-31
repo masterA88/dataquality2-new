@@ -1,6 +1,3 @@
-,Type,Datetime_example,format_details,Directly Migratable?
-0,Given datetime ,2024-03-05 06:31:36+00:00,yyyy-mm-dd HH:MM:SS+00:00 (ISO 8601 with timezone),yes
-3,Date object,2024-04-02,yyyy-mm-dd (ISO 8601 date),yes
-7,Custom formatted string,2024-04-02 13:12:13,yyyy-mm-dd HH:MM:SS (custom formatted datetime),yes
-8,date slash,03/28/2024,MM/dd/yyyy (U.S. style date with slashes),yes
-9,datetime salsh,03/28/2024 12:34:56,MM/dd/yyyy HH:MM:SS (U.S. style datetime with slashes),yes
+version https://git-lfs.github.com/spec/v1
+oid sha256:7091ee3ed36e243f62b43feabdca4793faedd8f6d062d86bdb8813d06bf0d54b
+size 478

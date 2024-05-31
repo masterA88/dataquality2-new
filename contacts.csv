@@ -1,6 +1,3 @@
-FirstName,LastName,Email,Customer_ID
-Heather,Gray,richardsonelizabeth@example.com,CUST00001
-Eric,Horton,loveronald@example.com,CUST00002
-David,Baxter,jennifer16@example.net,CUST00003
-Natasha,Freeman,kimberly75@example.com,CUST00004
-Brian,Rodgers,ashleediaz@example.org,CUST00005
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ef125c888cb90be9b2dd948ce5d95d4189d6b19a69a8f9d2a2c8061e6fbb240
+size 285
