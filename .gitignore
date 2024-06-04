@@ -1,7 +1,6 @@
-New-Item -Path .gitignore -ItemType File -Force
-Add-Content .gitignore "exp_52_100k.csv"
-Add-Content .gitignore "exp_51.csv"
-Add-Content .gitignore "exp_3.csv"
-Add-Content .gitignore "bricaredatareal_20200101_20200201.csv"
-Add-Content .gitignore "exp_5.csv"
+exp_52_100k.csv
+exp_51.csv
+exp_3.csv
+bricaredatareal_20200101_20200201.csv
+exp_5.csv
 
