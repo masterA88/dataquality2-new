@@ -1,0 +1,294 @@
+Ticket_ID,Call_Type_ID,Call_Type,Details,Create_Date,gateway,Jenis_Laporan,Nama_Nasabah,No_Rekening,Nominal,status,TanggalClosed,tanggalTransaksi,Chanel,Fitur,Nomor_Kartu,user_group,assgined_to,attachment_done,email,full_name,no_telepon,approver_login,approver_name,SLAResolution,submitter_login_id,submitter_user_group,user_login_name,Jenis_Produk,Last_Modified_By,Merchant_ID,Modified_Date,NOTAS,Produk,SLA_Status,TID,tanggalAttachmentDone,Tgl_Assigned,Tgl_Eskalasi,AnalisaSkils,Attachment_,Bank_BRI,Biaya_Admin,Suku_Bunga,Bunga,Butuh_Attachment,Cicilan,Hasil_Kunjungan,Log_Name,MMS_Ticket_Id,Mass_Ticket_Upload_Flag,Nama_Supervisor,Nama_TL,Nama_Wakabag,Nasabah_Prioritas,Notify_By,Organization,Output_Settlement,phone_survey,Return_Ticket,Settlement_By,Settlement_ID,Settlement,Site_User,Status_Return,Status_Transaksi,Submitter_Region,Submitter_SiteGroup,Submitter_User_group_ID,Tanggal_Settlement,Tgl_Foward,Tgl_In_Progress,Tgl_Returned,Ticket_Referensi,Tiket_Urgency,Tipe_Remark,UniqueID,users,Usergroup_ID
+TTB000043833835,8701,Blokir Kartu ATM karena kartu hilang,"Nasabah mengajukan pemblokiran kartu ATM BRI
+Permintaan pemblokiran ATM BRI.
+Alasan pemblokiran : Hilang
+Tanggal Hilang  : 01/01/2023
+Jam Hilang : 00.00
+Lokasi Kejadian : Semarang
+Tanggal Pemblokiran : 01/01/2023
+Jam Pemblokiran : 07:04:47 wib
+
+
+
+
+==========
+Kode Cabang          : 2437
+No Kartu             : 630435518661
+No Rekening          : VLXV09835454425817
+Kode Tipe            : 00
+Status Kartu         : AA
+Nama                 : Hamima Hutagalung, S.Ked
+Alamat 1             : DK GROGOL RT 005 RW 004
+Alamat 2             : BLORA
+Kota                 :
+Propinsi             :
+Kode Pos             : 000058282
+Kode Negara          : IDN
+No Telp              :
+Nama                 : Caturangga Prayoga
+Employer             :
+Tipe ID              : KARTU TANDA PENDUDUK (KTP)
+No ID                : 4563301220679919
+Jenis Kelamin        : M
+Status               : K
+Tgl Lahir(dd/mm/yy)  : 20/12/77
+Tgl Kadaluarsa(yymm) : 2511
+==========
+
+Transaksi terakhir anda sukses.
+Kode Unit Kerja :5838
+No Kartu             : 38829472402559
+Status Kartu    :BL
+No Rekening          : SPNU45602386031867
+Tanggal Aktivasi:02/06/2022 11:18:00.370
+User Aktivasi   :08521065
+Tanggal Renewal :?
+User Renewal    :
+Last Maintenance:01/01/2023 07:04:47.083
+User Maintenance:9994586
+Last Reissue    :02/06/2022 11:18:00.662
+User Reissue    :08521065
+Tanggal Blokir  :01/01/2023 07:04:47.080
+User Blokir     :9994586
+Ket Blokir      :9994586
+Reissue Branch  :
+Close Date      :?
+==========
+
+User Profile
+Error : Data tidak Ditemukan
+User ID :
+atau
+No Kartu             : 30215711771020
+5221845047272612
+atau
+No HP :
+atau
+CIF :",2023-01-01 07:07:15,Web,Request,"dr. Dalimin Hartati, S.Sos",ZTBX31194697697676,0.0,New,,,,Blokir Kartu,5221234567890120.0,LCC-CCTCALL,,,,"Marsudi Haryanti, M.M.",+62-0983-803-7547,,"Oliva Hidayanto, M.Ak",20,60872,LCC-CCTCALL,usamahasirwada,Kartu Debit,60872,,,,Servicing,Met,,,,,,,BRI,,,,No,,,drajatpuspita,,No,Keisha Pratama,Danu Kusumo,Daniswara Saefullah,No,,Bank BRI,,,,,,No,00196 -- KANWIL Semarang,,,Semarang,KANWIL Semarang,4,,,,,,,Notes,,Call,4
+TTB000043833951,8202,Informasi Product Banking,"#BRILINKMOB
+
+DATA outlet BRILINK
+Kode Outlet BRILink	: 11455155
+Kode Merchant BRILink	: 11441551
+Nomor PKS	: B.114-KC.SBG/PKS/MKR/12/2022
+Nama                 : Elma Damanik
+Email	: zulhelmitanjung96@gmail.com
+Latitude	: 1.6846673°
+Longitude	: 98.8199508°
+Nomor Telepon	: XXXXXXX84301
+Alamat	: Jl Padang Sidempuan Ling III
+Nomor Rekening Pelimpahan Merchant	: 382701046459539
+
+=================================
+Nasabah menanyakan perihal pass brilikmob yang terblokir sudah mencoba reset namun tetap respon terblokir
+
+Sudah info : saranka reset kembali by web mybrilik.bri.co.id dan konfirm ke pihak PAB atau ke kantor cabang bri awal pembukan mesin edc",2023-01-01 07:06:39,Email,Products / Promotion Inquiry,Nadine Fujiati,UPNC09511314060518,0.0,New,,,,,,LCC-CCTCALL,,,,"Ajeng Wibisono, S.Farm",+62 (040) 472-0515,90022934.0,"Nadine Mangunsong, M.Kom.",20,90121799,LCC-CCTCALL,mitrapertiwi,"Informasi Promo, Program, Produk",90121799,,,,Servicing,Met,,,,,,No,BRI,1672531599.0,,,No,,,jhidayat,,No,Ghaliyati Marpaung,Cagak Winarsih,Lili Iswahyudi,No,,Bank BRI,,,,,,No,00229 -- Kas Kanpus,,,KAS KANPUS,Kas Kanpus,4,,,,,,,Notes,,Call,4
+TTB000043833734,8701,Blokir Kartu ATM karena kartu hilang,"#CALL TERPUTUS
+
+if ch call back ,layanan IB ,  pergantian kartu,  , nomor tt
+
+
+
+Nasabah mengajukan pemblokiran kartu ATM BRI
+Permintaan pemblokiran ATM BRI.
+Alasan pemblokiran : Hilang
+Tanggal Hilang:
+Jam Hilang: 22.00
+Lokasi Kejadian : bekasi
+Tanggal Pemblokiran :
+Jam Pemblokiran : wib
+
+=========
+
+Kode Cabang          : 3025
+No Kartu             : 2277460073799627
+No Rekening          : VLZB77556795343928
+Kode Tipe            : 00
+Status Kartu         : AA
+Nama                 : dr. Usyi Najmudin, S.Farm
+Alamat 1             : KP.RAWA INDAH RT 005 RW 003 -
+Alamat 2             : -
+
+=========
+
+User Profile
+
+
+Status	: Enabled
+Date Registered	: 2022-11-07
+Nama                 : Hafshah Januar, S.Gz
+User ID	: achmadqusyairi39
+No Kartu             : 4685104672892497962
+No. Handphone	: 0878****9589 (Active)
+Smartphone Status	: (Not Registered)
+E-mail	: achq***********mail.com
+Tangal Lahir	: 1998-02-02
+Alamat	: KP.RAWA INDAH KELAPA GADING KOTA ADM JAKARTA UTARA KOTA ADM JAKARTA UTARA
+Nama                 : Nardi Anggriawan
+
+=========
+
+Transaksi terakhir anda sukses.
+
+=========
+
+
+Kode Unit Kerja :1176
+No Kartu             : 4468588558561669138
+Status Kartu    :BL
+No Rekening          : NGWF55032078705768
+Tanggal Aktivasi:07/11/2022 14:21:48.818
+User Aktivasi   :1176041
+Tanggal Renewal :?
+User Renewal    :
+Last Maintenance:01/01/2023 05:59:56.098
+User Maintenance:9994473
+Last Reissue    :07/11/2022 14:25:17.771
+User Reissue    :08521083
+Tanggal Blokir  :01/01/2023 05:59:56.095
+User Blokir     :9994473
+Ket Blokir      :9994473
+
+=========",2023-01-01 07:05:16,Facebook,Request,Damu Budiyanto,BNCF59140965164021,0.0,New,,,,Blokir Kartu,5221234567890120.0,LCC-CCTCALL,,,,Ir. Gangsa Budiyanto,(0628) 246-9959,,"Galur Ardianto, S.Farm",20,60757,LCC-CCTCALL,pharyanti,Kartu Debit,60757,,,,Servicing,Met,,,,,,,BRI,,,,No,,,novitasaridiana,,No,"Virman Adriansyah, S.Ked",Bambang Putra,KH. Parman Purnawati,No,,Bank BRI,,,,,,No,00196 -- KANWIL Semarang,,,Semarang,KANWIL Semarang,4,,,,,,,Notes,,Call,4
+TTB000043833965,8413,Nasabah BRI gagal tarik tunai & terdebet di ATM Link,"Nasabah gagal melakukan transaksi tarik tunai :
+Nama                 : Syahrini Jailani, S.Ked
+Sebesar   : Rp.  2.500.000
+Sebanyak         : 3 kali.
+Gagal di trx yang ke : 3
+Tanggal   : 32023-01-01
+Pukul       : 03.00
+
+2023-01-01	03:07:10	6701055907500	5221843115766631000000001573	2	2.500.000	0	NA	08883",2023-01-01 07:04:46,Web,Complaint - Transaction,Eko Suryatmi,KKAA87669899984663,2500000.0,New,,,ATM BANK LAIN,Tarik Tunai-Terdebet,5221234567890120.0,LCC-ISSUER,,,,Capa Hartati,089 088 4957,,"Drs. Hani Maulana, S.Pd",14,90150225,LCC-CCTCALL,kenzie88,Transaction Solution,bricare_admin,,,,Transaction Banking,Met,,,,,,,BRI,,,,No,,,astutipangeran,,No,Patricia Hastuti,"R. Nabila Suryatmi, M.Pd",Umaya Samosir,No,,Bank BRI,Insert Ticket Berhasil,,,428,,Yes,00229 -- Kas Kanpus,,Berhasil,KAS KANPUS,Kas Kanpus,4,,,,,,,Notes,,Call,1
+TTB000043833833,8602,BRIMO,"ch infokan melakukan registrasi brimo, namun muncul respon nomor ponsel dan email tidak terdaftar.if ch callback mohon infokan pengecekan data ke uker serta registrasi di uker",2023-01-01 07:04:38,Phone,Platform & Device Support,Prayoga Permata,VRPD67396323412117,0.0,New,,,Aplikasi,Registrasi BRImo,,LCC-CCTCALL,,,,Ilsa Hidayat,+62 (417) 155 1102,90022934.0,Safina Yuliarti,20,90150406,LCC-CCTCALL,ibrahimmaryadi,Mobile Banking,90150406,,,,Servicing,Met,,,,,,Yes,BRI,1672531478.0,,,No,,,harsaya66,,No,Sabar Maryati,"Puti Suryatmi, S.IP",Artawan Pradipta,,,Bank BRI,,,,,,No,00229 -- Kas Kanpus,,,KAS KANPUS,Kas Kanpus,4,,,,,,,Notes,,Call,4
+TTB000043833961,8701,Blokir Kartu ATM karena kartu hilang,"#Ch terputus
+
+Nasabah mengajukan pemblokiran kartu ATM BRI
+Permintaan pemblokiran ATM BRI.
+Alasan pemblokiran : Hilang
+Tanggal Hilang/Tertelan : …
+Jam Hilang/Tertelan : …
+Lokasi Kejadian : …
+Tanggal Pemblokiran :  01/01/2023 07:01  wib
+
+
+Kode Cabang          : 1014
+No Kartu             : 213176667092093
+No Rekening          : JMQW62644174054932
+Kode Tipe            : 00
+Status Kartu         : AA
+Nama                 : R.A. Ana Nababan, S.I.Kom
+Alamat 1             : KAMPUNG BARUNA JAYA LK III
+Alamat 2             : KELURAHAN PANJANG SELATAN KECAMATAN SELA
+Kota                 :
+======================================
+Kode Unit Kerja :0307
+No Kartu             : 342257667640588
+Status Kartu    :BL
+No Rekening          : JQYP50506074655945
+Tanggal Aktivasi:?
+User Aktivasi   :
+Tanggal Renewal :02/07/2021 06:57:51.974
+User Renewal    :
+Last Maintenance:01/01/2023 07:01:35.691
+User Maintenance:9998942
+Last Reissue    :02/07/2021 06:58:07.230
+User Reissue    :08521072
+Tanggal Blokir  :01/01/2023 07:01:35.687
+User Blokir     :9998942
+Ket Blokir      :9998942
+
+======================================
+Transaksi terakhir anda sukses.
+======================================
+User Profile
+
+
+Status	: Disabled
+Date Registered	: 2017-12-18
+Nama                 : KH. Estiono Prasetya
+User ID	: umisal0202
+No Kartu             : 2389935758286490
+No. Handphone	: 0821****0708 (Not Activated)
+Smartphone Status	: (Not Registered)
+E-mail	: null
+Tangal Lahir	: 1991-02-02
+Alamat	: KAMPUNG BARUNA JAYA
+Nama                 : Arta Yulianti
+======================================
+SMS BANKING INQUIRY
+Data Tidak ditemukan
+</td></tr>
+======================================
+
+2022-12-31	11:51:02	30701098507501	522184313073693200621107	2	600.000	0	NA	9903040
+
+Catatan: Data mutasi rekening ini adalah posisi data 2023-01-01 07:02:21",2023-01-01 07:04:22,Twitter,Request,Zalindra Prasetya,NPND53579675765425,0.0,New,,,,Blokir Kartu,5221234567890120.0,LCC-CCTCALL,,,,R. Budi Adriansyah,(0901) 243 7138,90022934.0,Jail Handayani,20,90144459,LCC-CCTCALL,lazuardimelinda,Kartu Debit,90144459,,,,Servicing,Met,,,,,,No,BRI,1672531462.0,,,No,,,haryantoamong,,No,Salimah Wulandari,Vinsen Padmasari,Ir. Drajat Nainggolan,No,,Bank BRI,,,,,,No,00229 -- Kas Kanpus,,,KAS KANPUS,Kas Kanpus,4,,,,,,,Notes,,Call,4
+TTB000043833968,8413,Nasabah BRI gagal tarik tunai & terdebet di ATM Link,"Nasabah gagal melakukan transaksi tarik tunai :
+Nama                 : Icha Kusmawati
+Sebesar   : Rp.  1.200.000…
+Sebanyak         : 1…   kali.
+Gagal di trx yang ke : _
+Tanggal   : 31.12.2022 …
+Pukul       : 23.14....
+
+
+
+2022-12-31	23:14:35	311501007382508	5221843148640266000000007307	2	7.500	0	NA	0888305
+2022-12-31	23:14:35	311501007382508	5221843148640266000000007307	2	1.200.000	0	NA	0888305",2023-01-01 07:04:13,Facebook,Complaint - Transaction,Eva Widodo,ORWX26400434353655,1200000.0,New,,,ATM BANK LAIN,Tarik Tunai-Terdebet,5221234567890120.0,LCC-ISSUER,,,,Lembah Nainggolan,+62 (120) 378 2805,,Salimah Putra,14,90151655,LCC-CCTCALL,tedisantoso,Transaction Solution,bricare_admin,,,,Transaction Banking,Met,,,,,,,BRI,,,,No,,,kusumoirfan,,No,"Puti Fitria Usada, S.Kom","T. Ade Wastuti, M.Kom.",R.A. Padma Mahendra,No,,Bank BRI,Insert Ticket Berhasil,,,428,,Yes,00229 -- Kas Kanpus,,Gagal,KAS KANPUS,Kas Kanpus,4,,,,,,,Notes,,Call,1
+TTB000043833831,8201,Informasi Status rekening; limitasi; penyetoran; no rekening tujuan,"limitasi, penyetoran, no rekening tujuan,Nasabah menanyakan status mutasi Rekening karena dana terdebet untuk pinjaman briguna sebanyak 2kali, csr sudah infokan perihal tersebut",2023-01-01 07:03:06,Web,Inquiry,"Drs. Bagiya Haryanto, S.Sos",CCVT79629799302102,0.0,New,,,EDC,Informasi,,LCC-CCTCALL,,,,Ghani Oktaviani,+62 (098) 036-3220,90022934.0,"Irsad Farida, S.I.Kom",20,90140018,LCC-CCTCALL,harsaya16,Tabungan,90140018,,,,Savings,Met,,,,,,No,BRI,1672531386.0,,,No,,,ridwankuswandari,,No,Rachel Mayasari,Ratih Usamah,Raisa Firgantoro,,,Bank BRI,,,,,,No,00229 -- Kas Kanpus,,,KAS KANPUS,Kas Kanpus,4,,,,,,,Notes,,Call,4
+TTB000043833996,8915,Gagal Setor Tunai di CRM BRI Via BRImo / Kartu Debit,"Nasabah gagal melakukan transaksi setor tunai :
+Di terminal CDM/CRM  BRI
+No ID                : 6588145139243167
+Sebesar                             : Rp. 300000
+Sebanyak                             : -  kali
+Gagal di trx yang ke                 : -
+Tanggal                          : 2022-12-31
+Pukul                                 : +-  20:04 wib
+Nomor rekening                     : 315101042848531
+Keterangan / Respon                  : -
+Note                                 : Saya setor tunai 2.350.000. Ketika tekan proses 'Ya' tiba2 uang keluar semua. Jumlahnya hanya 2.050.000. Yang 300rb, tertelan. Jadi saya masukkan yang kedua 2.050.000
+Mohon bantuannya untuk tindak lanjut.
+Terima kasih.",2023-01-01 07:10:20,Email,Complaint - Transaction,Jasmani Pudjiastuti,VEWM30033307044796,300000.0,New,,,CRM,Setor Tunai - gagal dengan Kartu Debit,5221234567890120.0,LCC-ON US,,,,"Sutan Bakianto Budiyanto, S.Gz",+62 (594) 427-4551,,Bella Mangunsong,10,,,ywijaya,Transaction Solution,bricare_admin,,,,Transaction Banking,Met,,,,,,,BRI,,,,No,,,silviawastuti,,No,Fitriani Purnawati,Warsita Uyainah,Hj. Raina Kurniawan,,,Bank BRI,Insert Ticket Berhasil,,,ADMIN_DRONE,,Yes,,,Gagal,,,4,,,,,,,Notes,NBMB496204765772,Non Call,6
+TTB000043833840,8808,Pembayaran PLN Prabayar Gagal namun Saldo Terdebet,"#BRILink
+Kode TID BRILink	: 26064156
+Kode Merchant BRILink	: 000001370062760
+Nomor PKS	: 85
+Nama                 : Hasna Winarsih
+Alamat	: JALAN RAYA GUBERNUR SWAKA KP L
+Nomor Rekening Merchant	: 437301036397531
+======================================================
+
+Nasabah gagal melakukan transaksi :
+Pembayaran         : PLN
+Nomor         :
+Sebesar         : Rp.
+Sebanyak         :   kali
+Gagal di trx yang ke : _
+Tanggal   :
+Pukul   :
+Melalui   : EDC
+Keterangan / Respon :
+Keterangan tambahan : struk tidak keluar
+
+Note : saldo berkurang
+
+Mohon bantuannya untuk tindak lanjut.
+Terima kasih
+======================================================
+
+ch tidak mengetahui nomor meter pln nya, csr sudah sarankan ch untuk memastikan kembali nomor meter PLN nya. tks",2023-01-01 07:09:47,Facebook,Complaint - Transaction,"T. Karta Sitompul, S.Sos",CAJI86755549911740,0.0,New,,,ATM,Transaksi,5221234567890120.0,LCC-ISSUER,,,,Puji Thamrin,(0613) 384-7661,,"Kiandra Wahyudin, M.TI.",20,90121639,LCC-CCTCALL,ajionomayasari,Transaction Solution,90121639,,,,Transaction Banking,Met,,,,,,No,BRI,1672531787.0,,,No,,,irnanto60,,No,Tgk. Dimaz Yuniar,Nyana Pertiwi,"Kajen Hidayat, M.Pd",No,,Bank BRI,,,,,,Yes,00229 -- Kas Kanpus,,,KAS KANPUS,Kas Kanpus,4,,,,,,,Notes,,Call,1
+TTB000043833992,8812,Nasabah BRI gagal tarik tunai & terdebet di ATM BRI,,2023-01-01 07:09:26,Email,Complaint - Transaction,"Ir. Jaka Sihombing, M.Kom.",IRVI81281865085712,1000000.0,New,,,ATM BRI,Tarik Tunai,5221234567890120.0,LCC-ON US,,,,Waluyo Napitupulu,+62 (90) 941 4347,,Darman Gunawan,8,,,radit37,Transaction Solution,bricare_admin,,,,Transaction Banking,Met,,,,,,,BRI,,,,No,,,ckurniawan,,No,Lala Pratiwi,"Dr. Nova Hastuti, S.T.",Purwadi Oktaviani,,,Bank BRI,Insert Ticket Berhasil,,,ADMIN_DRONE,,Yes,,,Gagal,,,4,,,,,,,Notes,NBMB496204648450,Non Call,6
+TTB000043833991,8812,Nasabah BRI gagal tarik tunai & terdebet di ATM BRI,,2023-01-01 07:09:22,Email,Complaint - Transaction,Elma Uyainah,EXCM23346705596775,1250000.0,New,,,ATM BRI,Tarik Tunai,5221234567890120.0,LCC-ON US,,,,Devi Nasyidah,0885582615,,"Siti Januar, S.T.",8,,,imamwidodo,Transaction Solution,bricare_admin,,,,Transaction Banking, Missed,,,,,,,BRI,,,,No,,,yunitaiswahyudi,,No,Betania Sihombing,"Tgk. Intan Dabukke, S.Sos","R.A. Ghaliyati Wibisono, S.IP",,,Bank BRI,Insert Ticket Berhasil,,,ADMIN_DRONE,,Yes,,,Berhasil,,,4,,,,,,,Notes,NBMB496204638045,Non Call,6
+TTB000043833990,8812,Nasabah BRI gagal tarik tunai & terdebet di ATM BRI,,2023-01-01 07:09:19,Web,Complaint - Transaction,"Daru Pradana, S.Ked",PJYL92750494593499,100000.0,New,,,ATM BRI,Tarik Tunai,5221234567890120.0,LCC-ON US,,,,"drg. Intan Kuswandari, S.Farm",+62 (698) 797 0275,,Damu Hidayanto,8,,,hutasoitkezia,Transaction Solution,bricare_admin,,,,Transaction Banking,Met,,,,,,,BRI,,,,No,,,artawannarpati,,No,Fitria Suryatmi,Hj. Ulva Budiman,Kemba Novitasari,,,Bank BRI,Insert Ticket Berhasil,,,ADMIN_DRONE,,Yes,,,Gagal,,,4,,,,,,,Notes,NBMB496204634594,Non Call,6
+TTB000043833987,8915,Gagal Setor Tunai di CRM BRI Via BRImo / Kartu Debit,,2023-01-01 07:08:42,Web,Complaint - Transaction,Ana Uwais,CSVX34699038937800,600000.0,New,,,CRM,Setor Tunai - gagal dengan Kartu Debit,5221234567890120.0,LCC-ON US,,,,Viktor Uyainah,+62-0480-162-3711,,Chelsea Waskita,10,,,rajataulva,Transaction Solution,bricare_admin,,,,Transaction Banking,Met,,,,,,,BRI,,,,No,,,ysihombing,,No,Puti Nova Natsir,Bagiya Wahyuni,Ira Usamah,,,Bank BRI,Insert Ticket Berhasil,,,ADMIN_DRONE,,Yes,,,Berhasil,,,4,,,,,,,Notes,NBMB496204555230,Non Call,6
+TTB000043833984,8433,Pembayaran Tagihan Gagal; Saldo Berkurang,,2023-01-01 07:07:55,Facebook,Complaint - Transaction,Nalar Hastuti,PYEC22916522621753,280000.0,New,,,ATM BRI,Pembayaran,5221234567890120.0,LCC-ISSUER,,,,Belinda Budiman,+62 (0699) 719-7373,,Dewi Saragih,20,,,uastuti,Transaction Solution,bricare_admin,,,,Transaction Banking,Met,,,,,,,BRI,,,,No,,,adiarja97,,No,Hasna Adriansyah,Amalia Hartati,Luis Yuniar,,,Bank BRI,Insert Ticket Berhasil,,,428,,Yes,,,Gagal,,,4,,,,,,,Notes,NBMB496204454452,Non Call,1
+TTB000043833971,8602,BRIMO,,2023-01-01 07:04:37,Phone,Platform & Device Support,"Puti Salimah Mulyani, S.I.Kom",MPSA21089119885028,0.0,New,,,Aplikasi,User ID terblokir,,LCC-CCTCALL,,,,Juli Sitorus,+62 (36) 793-1822,90022934.0,"R. Garda Prayoga, M.M.",20,90107912,LCC-CCTCALL,lnajmudin,Mobile Banking,90107912,,,,Servicing,Met,,,,,,Yes,BRI,1672531477.0,,,No,,,yance51,,No,Damar Yuniar,"R. Zulfa Mayasari, S.Psi",Paramita Marbun,No,,Bank BRI,,,,,,No,00229 -- Kas Kanpus,,,KAS KANPUS,Kas Kanpus,4,,,,,,,Notes,,Call,4
+TTB000043833974,8812,Nasabah BRI gagal tarik tunai & terdebet di ATM BRI,,2023-01-01 07:04:28,Email,Complaint - Transaction,T. Hasta Prabowo,FYRS57110830177843,1000000.0,New,,,ATM BRI,Tarik Tunai,5221234567890120.0,LCC-ON US,,,,Eka Pradana,086 733 2348,,"Sutan Arta Simanjuntak, M.Ak",8,,,namagamahfud,Transaction Solution,bricare_admin,,,,Transaction Banking,Met,,,,,,,BRI,,,,No,,,mangunsongdarman,,No,Tami Hasanah,Omar Susanti,Omar Padmasari,,,Bank BRI,Insert Ticket Berhasil,,,ADMIN_DRONE,,Yes,,,Gagal,,,4,,,,,,,Notes,NBMB496204016908,Non Call,6
+TTB000043833970,8413,Nasabah BRI gagal tarik tunai & terdebet di ATM Link,,2023-01-01 07:02:58,Facebook,Complaint - Transaction,Tantri Simbolon,YVVR06268371497381,500000.0,New,,,ATM BANK LAIN,Tarik Tunai-Terdebet,5221234567890120.0,LCC-ISSUER,,,,"Dt. Jaeman Budiyanto, M.Pd",+62 (0211) 565-3146,,Karman Wahyuni,14,,,nasim65,Transaction Solution,bricare_admin,,,,Transaction Banking,Met,,,,,,,BRI,,,,No,,,ginanugroho,,No,Melinda Nababan,Talia Yuniar,Farhunnisa Nababan,,,Bank BRI,Insert Ticket Berhasil,,,428,,Yes,,,Berhasil,,,4,,,,,,,Notes,NBMB496203828123,Non Call,1
+TTB000043833969,8701,Blokir Kartu ATM karena kartu hilang,,2023-01-01 07:02:58,Email,Request,Nadia Siregar,XVIW24072640173239,0.0,New,,,,Blokir Kartu,5221234567890120.0,LCC-CCTCALL,,,,"R.M. Mumpuni Suartini, S.Pt",+62 (0385) 188 5109,90022934.0,"Eli Hutasoit, M.M.",20,90136579,LCC-CCTCALL,hartopermata,Kartu Debit,90136579,,,,Servicing,Met,,,,,,No,BRI,1672531378.0,,,No,,,usadaedi,,No,Manah Saragih,"KH. Kala Agustina, S.E.",KH. Luwar Wahyuni,No,,Bank BRI,,,,,,No,00229 -- Kas Kanpus,,,KAS KANPUS,Kas Kanpus,4,,,,,,,Notes,,Call,4
+TTB000043833957,8410,Kegagalan TAC / Transfer Lainnya Lewat BRI,,2023-01-01 07:02:32,Twitter,Complaint - Transaction,"Rahman Ardianto, M.Pd",XYCM94769172343310,0.0,New,,,ATM BRI,Transfer,5221234567890120.0,LCC-ISSUER,,,,Puji Yuniar,+62-0432-766-4581,,Sakura Utama,10,90150386,LCC-CCTCALL,hasim31,Transaction Solution,90150386,,,,Transaction Banking,Met,,,,,,No,BRI,1672531352.0,,,No,,,waluyodacin,,No,"Dr. Vera Saefullah, M.Pd",Humaira Rahayu,"Panji Putra, S.Psi",No,,Bank BRI,,,,,,Yes,00229 -- Kas Kanpus,,,KAS KANPUS,Kas Kanpus,4,,,,,,,Notes,,Call,1
+TTB000043833657,8701,Blokir Kartu ATM karena kartu hilang,,2023-01-01 07:01:37,Twitter,Request,"Unjani Mayasari, S.E.I",LDRY79560260114303,0.0,New,,,,Blokir Kartu,5221234567890120.0,LCC-CCTCALL,,,,Viman Zulaika,+62 (476) 377-9195,,Zulfa Wibowo,20,60668,LCC-CCTCALL,widyaprasetya,Kartu Debit,60668,,,,Servicing,Met,,,,,,,BRI,,,,No,,,kenesiswahyudi,,No,KH. Legawa Hartati,"Puti Aurora Melani, S.Farm",Garang Ramadan,No,,Bank BRI,,,,,,No,00196 -- KANWIL Semarang,,,Semarang,KANWIL Semarang,4,,,,,,,Notes,,Call,4
+TTB000043833967,8812,Nasabah BRI gagal tarik tunai & terdebet di ATM BRI,,2023-01-01 07:01:32,Facebook,Complaint - Transaction,Harto Wahyuni,EDPG08608079140067,100000.0,New,,,ATM BRI,Tarik Tunai,5221234567890120.0,LCC-ON US,,,,R. Calista Maryadi,+62 (20) 759 1651,,"Endah Iswahyudi, S.I.Kom",8,,,pia41,Transaction Solution,bricare_admin,,,,Transaction Banking,Met,,,,,,,BRI,,,,No,,,lprasetya,,No,Shania Permata,"Tgk. Usman Gunarto, M.M.",Drs. Eva Mansur,,,Bank BRI,Insert Ticket Berhasil,,,ADMIN_DRONE,,Yes,,,Gagal,,,4,,,,,,,Notes,NBMB496203650298,Non Call,6
+TTB000043833958,8501,Pengajuan PIN baru (Pin salah),,2023-01-01 07:00:32,Email,Request,"Gamani Sihombing, M.Farm",SJUC82163105551094,0.0,New,,,ATM BRI,PIN,,LCC-CCTCALL,,,,"Aisyah Haryanto, S.Pd",+62-0993-387-9729,90022934.0,Labuh Winarsih,20,SMG61063,00196 -- KANWIL Semarang,irawanusman,Kartu Debit,SMG61063,,,,Servicing,Met,,,,,,No,BRI,1672531232.0,,,No,,,karmanwaluyo,,No,"Sutan Eja Lailasari, S.Kom",Usyi Wibisono,"Empluk Pertiwi, S.Kom",,,Bank BRI,,,,,,No,00196 -- KANWIL Semarang,,,Semarang,KANWIL Semarang,2696,,,,,,,Notes,,Call,4
+TTB000043833964,8202,Informasi Product Banking,,2023-01-01 07:03:03,Twitter,Products / Promotion Inquiry,"Maria Lailasari, M.M.",JRGX11609313655339,0.0,New,,,,,,LCC-CCTCALL,,,,Estiawan Lestari,+62-074-665-7160,90022934.0,Kani Farida,20,90141476,LCC-CCTCALL,handriani,"Informasi Promo, Program, Produk",90141476,,,,Servicing,Met,,,,,,No,BRI,1672531383.0,,,No,,,waluyo64,,No,"Sutan Banawa Halimah, M.Kom.","Hardana Suryono, S.Farm",Aditya Santoso,,,Bank BRI,,,,,,No,00229 -- Kas Kanpus,,,KAS KANPUS,Kas Kanpus,4,,,,,,,Notes,,Call,4
+TTB000043833952,8433,Pembayaran Tagihan Gagal; Saldo Berkurang,,2023-01-01 07:00:19,Twitter,Complaint - Transaction,Prasetyo Kusmawati,JXTX73629405111524,5350000.0,New,,,ATM BRI,Pembayaran,5221234567890120.0,LCC-ISSUER,,,,Cakrajiya Megantara,086 219 8639,,Prabu Utami,20,90148127,LCC-CCTCALL,radit57,Transaction Solution,bricare_admin,,,,Transaction Banking,Met,,,,,,,BRI,,,,No,,,namagadinda,,No,Tiara Budiman,Eka Mansur,"drg. Ophelia Widodo, S.Gz",No,,Bank BRI,Insert Ticket Berhasil,,,428,,Yes,00229 -- Kas Kanpus,,Gagal,KAS KANPUS,Kas Kanpus,4,,,,,,,Notes,,Call,1

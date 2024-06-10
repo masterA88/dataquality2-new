@@ -1,0 +1,150 @@
+CIFNO,TICKET_ID,CALL_TYPE_ID,CALL_TYPE,CREATE_DATE,GATEWAY,JENIS_LAPORAN,NAMA_NASABAH,NO_REKENING,NOMINAL,STATUS,TANGGALCLOSED,TANGGALTRANSAKSI,CHANEL,FITUR,NOMOR_KARTU,USER_GROUP,ASSGINED_TO,ATTACHMENT_DONE,EMAIL,FULL_NAME,NO_TELEPON,APPROVER_LOGIN,APPROVER_NAME,SLARESOLUTION,SUBMITTER_LOGIN_ID,SUBMITTER_USER_GROUP,USER_LOGIN_NAME,DETAILS,JENIS_PRODUK,LAST_MODIFIED_BY,MERCHANT_ID,MODIFIED_DATE,NOTAS,PRODUK,SLA_STATUS,TID,TANGGALATTACHMENTDONE,TGLASSIGNED,TGL_ESKALASI,ANALISASKILS,ATTACHMENT_,BANK_BRI,BIAYA_ADMIN,SUKU_BUNGA,BUNGA,BUTUH_ATTACHMENT,CICILAN,HASIL_KUNJUNGAN,LOG_NAME,MMS_TICKET_ID,MASS_TICKET_UPLOAD_FLAG,NAMA_SUPERVISOR,NAMA_TL,NAMA_WAKABAG,NASABAH_PRIORITAS,NOTIFY_BY,ORGANIZATION,OUTPUT_SETTLEMENT,PHONE_SURVEY,RETURN_TICKET,SETTLEMENT_BY,SETTLEMENT_ID,SETTLEMENT,SITE_USER,STATUS_RETURN,STATUS_TRANSAKSI,SUBMITTER_REGION,SUBMITTER_SITEGROUP,SUBMITTER_USER_GROUP_ID,TANGGAL_SETTLEMENT,TGL_FOWARD,TGL_IN_PROGRESS,TGL_RETURNED,TICKET_REFERENSI,TIKET_URGENCY,TIPE_REMARK,UNIQUEID,USERS,USERGROUP_ID,ERROR
+PDD8622,TTB000049930959,8207,Status kartu ATM,2024-01-11 01:22:38,Phone,Inquiry,PUTRI NUR HAJIZAH,20601156228502,0.0,New,2024-01-11 01:22:38,2024-01-11 00:00:00,ATM BRI,Kartu ATM,6013010057772502,LCC-CCTCALL,,,,Muhammad Nur,87877712757,90022934.0,Adhi Nitidharma,20,60844,LCC-CCTCALL,Muhammad Nur,"Ch infokan kartu debit sudah expired, csr infokan kartu aktif namun mengalami kerusakan untuk melakukan pergantian kartu baru ke kantor awal buka rekening atau Uker terdekat kecuali BRI unit dan teras BRI dengan membawa kartu debit dan e-KTP asli. serta tidak dikenakan biaya untuk pergantian kartu. 
+( Copy status kartu ATM dari aplikasi WBS/CAMS )
+
+
+Kode Cabang          : 0206
+No Kartu             : 6013010057772502
+No Rekening          : 020601156228502
+Kode Tipe            : 00
+Status Kartu         : AA
+Nama                 : PUTRI NUR HAJIZAH
+Alamat 1             : METRO PARUNG BLOK B626
+Alamat 2             : Rt.57
+Kota                 : 
+Propinsi             : 
+Kode Pos             : 000099999
+Kode Negara          : IDN
+No Telp              : 
+Nama Ibu Kandung     : EMMY
+Employer             : 
+Tipe ID              : KARTU TANDA PENDUDUK (KTP)
+No ID                : 3201104705940003
+Jenis Kelamin        : F
+Status               : B
+Tgl Lahir(dd/mm/yy)  : 07/05/94
+Tgl Kadaluarsa(yymm) : 2303
+
+==
+
+       Kode Unit Kerja :0206
+       No Kartu        :6013010057772502
+       Status Kartu    :AA
+       No Rekening     :020601156228502
+       Tanggal Aktivasi:29/11/2018 16:56:39.308
+       User Aktivasi   :08521021        
+       Tanggal Renewal :?
+       User Renewal    :
+       Last Maintenance:28/10/2021 14:23:11.644
+       User Maintenance:fraud-detection
+       Last Reissue    :16/11/2021 13:31:37.322
+       User Reissue    :08521042        
+       Tanggal Blokir  :?
+       User Blokir     :",Kartu Debit,60844,,2024-01-11 01:22:38,,Servicing,Met,,,,,MRS,False,BRI,1704910958.0,,,False,,,,,False,,,,False,,Bank BRI,,,,,,False,LCC-CCTCALL,,,KAS KANPUS,Kas Kanpus,4,,,,,,,Notes,,Call,4,Call Type is mandatory for this Status
+IKT1631,TTB000050650243,8940,Pengajuan Aplikasi Briguna Digital,2024-02-15 19:31:22,Phone,Platform & Device Support,IMAM HAIDAR PRATAMA,14001063782508,0.0,New,2024-02-20 09:14:11,2024-02-15 00:00:00,Echannel,Aplikasi Briguna Digital,6013011134348464,SDK,90145026.0,,,Ilham Bagus Laksmana,89591233800,,,10,SMG61066,CCT-MRS-SMG,Ilham Bagus Laksmana,"#urgent 
+Nasabah melaporkan kendala aplikasi Briguna Digital
+
+Nama :  IMAM HAIDAR PRATAMA 
+NIK :  3314080303000003 
+No Telp : 082223208228 
+Detail permasalahan :  ch infokan kendala pengjuan briguna digital pada saat akan melakukan pencairan , sudah di tunggu 4 jam namun keterangan masih dalam proses. ch memerlukan dana segera dikarenakan dana akan di pergunkan untuk berobat orang tua 
+
+
+
+( Lampirkan foto KTP dan Bukti Screen Capture Aplikasi Briguna Digital )
+
+
+Mohon ditindaklanjuti. 
+Terima kasih.",KTA - Digital,sdk_kevin,,2024-02-20 09:14:12,,Loans,Met,,2024-02-20 00:02:29,2024-02-20 07:33:04,,MRS,,BRI,,,,True,,,KEVIN OLIFER .,,False,,,,False,,Bank BRI,,,,,,False,LCC-CCTCALL,,,KAS KANPUS,Kas Kanpus,14502,,,,,,,Notes,,Call,12801,Call Type is mandatory for this Status
+WEW6877,TTB000049505871,8414,Nasabah BRI gagal tarik tunai & terdebet di ATM Bersama,2023-12-18 11:23:58,BRIMO,Complaint - Transaction,WA KELY,751501019700530,1000000.0,New,2024-01-02 16:40:22,2023-12-17 10:43:01,ATM BANK LAIN,Tarik Tunai-Terdebet,6013014019667735,LCC-ISSUER,,,,,82197707472,,,14,,,,"Nominal Diterima: Rp0,
+  ATM Transaksi: BANK INA PERDANA,
+  Waktu Transaksi: 2023-12-17 10:43:01,
+  Remark: 6013014019667735000000005967,
+  Keterangan Tambahan: Penarikan di atm bersama atm ina..uang tdk lluar tp saldo terdebet",Transaction Solution,bricare_admin,,2024-01-02 16:40:22,,Transaction Banking,Met,,,2024-01-02 00:00:00,,,,BRI,,,,False,,,BRICare Administrator,,False,Dewi Kartika Sari,,,,,Bank BRI,Insert Ticket Berhasil,,,ADMIN_DRONE,,True,,,Berhasil,,,4,,,2024-01-02 16:07:13,,,,Notes,NBMB623917206434,Non Call,1,Call Type is mandatory for this Status
+YR13501,TTB000051347237,8602,BRIMO,2024-03-15 19:24:06,Phone,Platform & Device Support,YODHA SURYO PANENGKAR UTOMO,5101164814508,0.0,New,2024-03-15 19:24:07,2024-03-15 00:00:00,Aplikasi,Lambat/koneksi terputus,5221842144826127,LCC-CCTCALL,,,,Nina Nirmala Sari,87723533668,90022934.0,Adhi Nitidharma,1,90168664,CCT-MRS-JKT,Nina Nirmala Sari,"#call terputus
+ch call infokan sudah  melakukan perubahan no ponsel ke uker namun ketika ingin login ada ket no hp masih tercantum yang lama. if ch call back sarankan untuk ke uker kembali untuk perubahan no ponsel karena dibantu pengecekan no tlp masih terdaftar yg lama dan sarankan untik menghubungi kembali ketika di  uker untuk dilakukan penghapusan layanan
+
+Ch komplain tidak bisa menggunakan E-channel BRI
+Layanan       : BRImo
+User id       : …
+Sejak               : …
+Jenis trx         : …
+Error code yang diterima  : … 
+Sebanyak              : … (Berapa kali)
+Status jaringan     : Normal
+Merk Hp yang digunakan : 
+Versi aplikasi BRImo yang digunakan : 
+Versi Android/iOS yang digunakan :
+Keterangan               : .
+
+(Copy status IB dari WBS)",Mobile Banking,90168664,,2024-03-15 19:24:06,,Servicing,Met,,,,,,True,BRI,1710505446.0,,,False,,,,,False,,,,False,,Bank BRI,,,,,,False,00229 -- Kas Kanpus,,,KAS KANPUS,Kas Kanpus,14601,,,,,,,Notes,,Call,4,Call Type is mandatory for this Status
+IEY0093,TTB000052180447,8915,Gagal Setor Tunai di CRM BRI Via BRImo / Kartu Debit,2024-04-20 18:03:24,BRIMO,Complaint - Transaction,IWAN CANDRA,423301008447532,300000.0,New,2024-04-22 19:44:43,2024-04-20 17:54:18,CRM,Setor Tunai - gagal dengan Kartu Debit,6013012033293694,LCC-ON US,,,,,83148702452,,,8,,,,"Nominal Diterima: Rp0,
+  ATM Transaksi: BANK BRI,
+  Waktu Transaksi: 2024-04-20 17:54:18,
+  Remark: 601301203329369400160636,
+  Keterangan Tambahan: Saya tarik tunai dengan menggunakan kartu atm saldo terpotong tapi uang tidak keluar",Transaction Solution,bricare_admin,,2024-04-22 19:44:43,,Transaction Banking,Met,,,2024-04-22 00:00:00,,,,BRI,,,,False,,,BRICare Administrator,,False,Indri Edriati,,,,,Bank BRI,Insert Ticket Berhasil,,,ADMIN_DRONE,,True,,,Berhasil,,,4,,,,,,,Notes,NBMB674918345472,Non Call,6,Call Type is mandatory for this Status
+KDE4664,TTB000051291364,8227,"Transfer BI fast gagal, Rekening terdebet",2024-03-14 03:56:46,BRIMO,Complaint - Transaction,KIPTIYAH WULANDARI,614301028836532,100000.0,New,2024-03-22 00:00:00,2024-03-13 12:02:44,BRIfast,Transfer BI fast Gagal -Terdebet,5221840962149408,LCC-ISSUER,,,,,85855503432,,,14,,,,"Bank Tujuan: BANK BCA,
+  Nomor Rekening: 3510471007,
+  Nama Rekening: WIENDA YULIA REMINGGU         ,
+  Waktu Transaksi: 2024-03-13 12:02:44,
+  Remark: BFST3510471007        NBMB:CENAIDJA,
+  Keterangan Tambahan: Di proses",Transaction Solution,AR_ESCALATOR,,2024-03-22 00:23:04,,Transaction Banking,Met,,,2024-03-21 00:00:00,,,,BRI,,,,False,,,,,False,Dewi Kartika Sari,,,,,Bank BRI,Insert Ticket Berhasil,,,ADMIN_DRONE,,True,,,Gagal,,,4,,,,,,,Notes,NBMB659664214025,Non Call,1,Call Type is mandatory for this Status
+RALL447,TTB000050991783,8102,Permasalahan Pinjaman,2024-02-29 20:30:53,Phone,Inquiry,ROY RIAN DINATA,2001131417504,0.0,New,2024-02-29 20:30:53,2024-02-29 00:00:00,,Saldo Minus,5221845060144854,LCC-CRC,,,,Achmad Hadi C,87810620278,279572.0,Ferry Febriansyah,19,SMG60015,CCT-MRS-SMG,Achmad Hadi C,"ch call ask infokan saldo berkurang, ch memiliki pinjaman. csr sudah bantu cek hold dana terkait pinjaman sebesar :
+466.100 tgl 04.08.2023
+51.100 tgl 2.12.23
+516.100 tgl 29.02.24
+101.100 tgl 29.02.24
+if ch call back sarankan konfirmasi ke kantor BRI awal buka pinjaman membawa buku tabungan, ktp asli dan kartu debit","KPR, KUR, KMK, KI",SMG60015,,2024-02-29 20:30:53,,Loans,Met,,,,,MRS,False,BRI,1709213453.0,,,False,,,,,False,,,,False,,Bank BRI,,,,,,False,00229 -- Kas Kanpus,,,KAS KANPUS,Kas Kanpus,14502,,,,,,,Notes,,Call,3,Call Type is mandatory for this Status
+FDH9095,TTB000052053712,8414,Nasabah BRI gagal tarik tunai & terdebet di ATM Bersama,2024-04-14 10:04:51,Phone,Complaint - Transaction,FEISIELVIA DESKAYANT,564501022166532,2000000.0,New,2024-04-30 15:21:40,2024-04-13 00:00:00,ATM BANK LAIN,Tarik Tunai-Terdebet,6013013056874733,LCC-ISSUER,,,,Hestinisa Arifah Dhani,81377567508,,,10,60871,CCT-MRS-SMG,Hestinisa Arifah Dhani,"Nasabah gagal melakukan transaksi tarik tunai :
+Nama Bank            : Bersama 
+Sebesar   : Rp.  2.000.000
+Sebanyak         : 1   kali. 
+Gagal di trx yang ke : _
+Tanggal   : 13.04.2024
+Pukul       : 09.30
+Ket: harap tunggu sebentar 
+
+
+2024-04-13	21:26:03	564501022166532	6013013056874733000000140338	2	2.000.000	0	NA	0888293
+	
+2024-04-13	21:26:03	564501022166532	6013013056874733000000140338	2	7.500	0	NA	0888293",Transaction Solution,bricare_admin,,2024-04-30 15:21:40,,Transaction Banking,Missed,,,2024-04-30 00:00:00,,SMS,,BRI,,,,False,,,BRICare Administrator,,False,,,,False,,Bank BRI,Insert Ticket Berhasil,,,ADMIN_DRONE,,True,LCC-CCTCALL,,Berhasil,KAS KANPUS,Kas Kanpus,14502,,,2024-04-30 14:50:25,,,,Notes,,Call,1,Call Type is mandatory for this Status
+ICD0784,TTB000050748337,8227,"Transfer BI fast gagal, Rekening terdebet",2024-02-20 10:21:23,Phone,Complaint - Transaction,"IKA RATNAWATI, S.PD",585701012000531,2000000.0,New,2024-02-26 15:13:56,2024-02-16 00:00:00,BRIfast,Transfer BI fast Gagal -Terdebet,6013011064504722,LCC-ISSUER,,,,Salsabila Khalilah Saputri,85786661432,,,14,90157712,CCT-MRS-JKT,Salsabila Khalilah Saputri,"#Voip
+#Partial
+
+Csr sarankan Ch melakukan pengecekan mutasi transaksi pada 2024-02-19 melalui mutasi brimo atau cetak butab di kantor BRI terdekat kecuali Teras BRI karena transaksi dinyatakan reversal.
+
+Nasabah gagal melakukan transaksi transfer BI Fast :
+Ke Bank		  :  Danamon
+Nomor rekening	  : 903653485106
+Pemilik rekening  : M JUNAEDI
+Sebesar		  : Rp.2.000.000
+Sebanyak	  : 1     kali
+Tanggal		  :2024-02-16
+Pukul		  : -+19:10    wib
+Melalui		  : BRImo
+Keterangan / Respon	: Transaksi di proses, saldo berkurang
+Keterangan tambahan	:Namun belum diterima rekening tujuan
+
+Note : 
+
+Mohon bantuannya untuk tindak lanjut.
+Terima kasih.
+(Copy transaksi dari aplikasi CHS)
+===========================================
+
+
+	2024-02-16	19:08:31	585701012000531	BFST903653485106 NBMB:BDINIDJA 20240216BRINIDJA010O0205394226 ESB:NBMB:0008G00F:649029084282	2	2.000.000	0	NA	8888564
+	2024-02-16	19:08:31	585701012000531	BFST903653485106 NBMB:BDINIDJA 20240216BRINIDJA010O0205394226 ESB:NBMB:0008G00F:649029084282	2	2.500	0	NA	8888564
+
+
+	2024-02-19	18:23:19	585701012000531	KORBFST 585701012000531 649029084282 KORBFST:M JUNAEDI :240216:BDINID ESB:T:0391891:S:0391892:RekonBIFASTH1	1	0	2.000.000	NA	0391891
+	2024-02-19	18:23:19	585701012000531	KORBFST 585701012000531 649029084282 KORBFST:M JUNAEDI :240216:BDINID ESB:T:0391891:S:0391892:RekonBIFASTH1	1	0	2.500	NA	0391891
+
+
+Catatan: Data mutasi rekening ini adalah posisi data 2024-02-20 10:13:58",Transaction Solution,bricare_admin,,2024-02-26 15:13:56,,Transaction Banking,Met,,,2024-02-23 00:00:00,,MBS,False,BRI,,,,False,,,BRICare Administrator,,False,Dewi Kartika Sari,,,False,,Bank BRI,Insert Ticket Berhasil,,,ADMIN_DRONE,,True,LCC-CCTCALL,,Gagal,KAS KANPUS,Kas Kanpus,14601,,,2024-02-26 12:28:36,,,,Notes,,Call,1,Call Type is mandatory for this Status
+SACZE75,TTB000050764619,8227,"Transfer BI fast gagal, Rekening terdebet",2024-02-20 18:28:13,BRIMO,Complaint - Transaction,SAFRIAL,5401122525501,654000.0,New,2024-02-23 00:00:00,2024-02-20 14:07:37,BRIfast,Transfer BI fast Gagal -Terdebet,5221840937871243,LCC-ISSUER,,,,,82395222237,,,14,,,,"Bank Tujuan: BANK BNI,
+  Nomor Rekening: 1803519914,
+  Nama Rekening: IBU LINDA  LONDAH             ,
+  Waktu Transaksi: 2024-02-20 14:07:37,
+  Remark: BFST1803519914        NBMB:BNINIDJA,
+  Keterangan Tambahan: Pending transfer",Transaction Solution,AR_ESCALATOR,,2024-02-23 00:24:17,,Transaction Banking,Met,,,2024-02-22 00:00:00,,,,BRI,,,,False,,,,,False,Dewi Kartika Sari,,,,,Bank BRI,Insert Ticket Berhasil,,,ADMIN_DRONE,,True,,,Gagal,,,4,,,,,,,Notes,NBMB650550062643,Non Call,1,Call Type is mandatory for this Status

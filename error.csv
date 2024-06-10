@@ -1,0 +1,179 @@
+CALL TYPE,CALL TYPE INFO,TYPE,USER,TITLE,DETAIL BRICARE,DESKRIPSI,EMPATI,KONFIRMASI,PENGECEKAN LAPORAN,VERIFIKASI,GALI INFORMASI,PEMBUATAN LAPORAN,KONFIRMASI ULANG,PERCEPATAN KOMPLAIN,"SOLUSI, INFORMASI",EDUKASI & CROSS SELLING,CLOSING,ARTICLE TYPE,URL_NAME,ERROR
+1000,Nasabah Menanyakan Informasi Pengajuan Terkait CERIA,CERIA,Agent Contact Center,1000 - Nasabah Menanyakan Informasi Pengajuan Terkait CERIA,"nomor ponsel nasabah yang bisa dihubungi
+ ID CERIA
+ NO HP yg terdaftar
+ Alasan","Nasabah menghubungi Contact BRI / datang ke Unit Kerja BRI terkait : 
+ 1. Cara & Syarat pengajuan Aplikasi Ceria 
+ 2. Status pengajuan aplikasi Ceria 
+ 3. Komplain Akun CERIA sudah punya limit namun hilang 
+ 
+ Call Type ini akan di tindaklanjuti oleh Divisi SCC - Resolution Center dengan GIC T1 - Agent CCT/Frontliner
+ 
+ Tahapan yang dilakukan Agent 
+ (Agent mendengarkan keluhan/komplain yang disampaikan Nasabah)","Empati sesuai kondisi (pilih salah satu) 
+ Jika Nasabah menanyakan Cara & Syarat Pengajuan aplikasi ceria: 
+ ""Terima kasih atas ketertarikan terhadap produk Bank BRI"" 
+ 
+ Jika Nasabah menanyakan status pengajuan Aplikasi / Komplain Akun ceria sudah punya Limit namun Hilang 
+ ""Bapak/Ibu(nama nasabah)Tidak perlu Khawatir, saya lakukan pengecekan terlebih dahulu…""","Jika Nasabah menanyakan Cara & Syarat Pengajuan aplikasi ceria: 
+ ""Bapak/Ibu informasikan perihal cara pengajuan aplikasi Ceria?"" 
+ 
+ Jika Nasabah menanyakan status pengajuan Aplikasi / Komplain Akun ceria sudah punya Limit namun Hilang 
+ ""Bapak/Ibu informasikan perihal status pengajuan aplikasi ceria?""","Lakukan pengecekan di BRICare apakah sudah ada laporan Nasabah sebelumnya : 
+ * Agent lakukan pengecekan terlebih dahulu di BRICare dengan masukan data nomor Ponsel, nomor kartu kredit atau Nama nasabah 
+ c.1 Jika Agent menemukan laporan yang dimaksud oleh Nasabah, Agent lakukan verifikasi sesuai ketentuan kemudian konfirmasi isi laporan.
+ c.2 Jika pengaduan baru, lanjutkan proses verifikasi dan buatkan laporan.","1 Cara & Syarat pengajuan Aplikasi
+ Verifikasi
+ Tidak dilakukan Verifikasi
+ 
+ 2 Status Pengajuan Aplikasi CERIA
+ Verifikasi ( Buka WBS/ CLOS ) 
+ Untuk verifikasi data tanyakan nomor handphone yang didaftarkan pada akun Ceria. Agent dapat sampaikan : 
+ ""Saya samakan datanya terlebih dahulu. Bisa disebutkan………."" 
+ 1) Nama Lengkap sesuai KTP
+ 2) Nama Gadis Ibu Kandung
+ 3) Tanggal Lahir
+ 
+ 3 CERIA - PIN CERIA 
+ Verifikasi
+ Tidak dilakukan Verifikasi","1 Cara & Syarat pengajuan Aplikasi
+ Gali Informasi 
+ 1. Apakah sudah pernah install aplikasi CERIA atau belum ? 
+ 2. Jika Sudah pernah Install, tanyakan apakah sudah pernah mengajukan Limit atau belum ? 
+ 3. Sudah memiliki rekening di BRI atau belum ? 
+ 4. Sudah berapa lama sejak pengajuan limit ditolak ? 
+ 5. Apakah sudah menerima kode OTP saat pengajuan CERIA 
+ 6. Tanyakan data pribadi calon nasabah CERIA pada saat pengajuan sesuai dengan permasalahan : 
+ ● Nama calon nasabah CERIA
+ ● Nomor Ponsel yang didaftarkan
+ ● Email yang didaftarkan
+ ● Nomor KTP 
+ ● Nomor rekening yang didaftarkan
+ 
+ Tindakan 
+ 1. Buka Library informasi syarat & ketentuan pengajuan APLK CERIA
+ 2. Buat laporan di Bricare.
+ 
+ 2 Status Pengajuan Aplikasi CERIA
+ Gali Informasi 
+ 1. Apakah sudah berhasil Install Aplikasi CERIA ?
+ 2. Apakah sudah mengajukan limit CERIA ? 
+ 3. Respon yang muncul pada saat pengajuan limit CERIA ? 
+ 4. Kapan pengajuan Limit CERIA ? 
+ 5. No handphone yang didaftarkan akun CERIA
+ 6. Alamat email yang didaftarkan akun CERIA ?
+ 7. Tanyakan kapan pembuatan rekening?
+ 
+ Tindakan 
+ 1. Cek Bricare untuk melihat apakah sudah ada laporan sebelumnya atau tidak.
+ 2. Buka Library informasi syarat & ketentuan pengajuan APLK CERIA
+ 3. Buat laporan di Bricare.
+ 
+ 3 CERIA - PIN CERIA 
+ Gali Informasi 
+ 1. Tanyakan Id CERIA
+ 2. Tanyakan no hp yang terdaftar akun CERIA
+ 3. Tanyakan kendala permintaan PIN yang dialami
+ 4. Tanyakan alasan Permintaan PIN
+ 
+ Tindakan 
+ 1. Cek BRICare apakah sudah ada laporan sebelumnya. 
+ 2. Buatkan laporan BRICare.","1 Cara & Syarat pengajuan Aplikasi
+ Buat laporan 
+ 1. Buat laporan dengan calltype 1000
+ 2. Pilih fitur Cara & Syarat pengajuan aplikasi CERIA
+ 3. Jenis laporan : 
+ Information jika tidak butuh tindak lanjut (case close)
+ Complain jika membutuhkan tindaklanjut ke Back Office. (Pilih Yes jika membutuhkan attachment dokument)
+ 
+ 2 Status Pengajuan Aplikasi CERIA
+ Buat laporan 
+ 1. Buat laporan dengan calltype 1000
+ 2. Pilih fitur Status pengajuan aplikasi 
+ Pilih fitur Pembatalan aplikasi 
+ 3. Jenis laporan : Information jika laporan selesai di agent. 
+ Jenis laporan : Complain jika membutuhkan tindaklanjut ke Back Office. (Pilih Yes jika membutuhkan attachment dokument)
+ 
+ i.  Nomor laporan tidak disebutkan 
+ ii. Buat laporan dengan format 
+ Nasabah menanyakan Cara & Syarat pengajuan CERIA / Status Pengajuan Aplikasi CERIA : 
+ Informasi di library : ……………. 
+ Sudah dijelaskan sesuai pertanyaan nasabah 
+ mhn dilakukan tindaklanjut 
+ nomor ponsel nasabah yang bisa dihubungi : 
+ 
+ Jenis laporan : Information jika laporan selesai di agent. 
+ Jenis laporan : Komplain jika membutuhkan tindaklanjut ke Back Office. 
+ 
+ 3 CERIA - PIN CERIA 
+ Pembuatan Laporan 
+ 1. Buat Laporan dengan Calltype 1000
+ 2. Informasikan Nomor Laporan untuk yang mebutuhkan tindaklanjut. 
+ 3. Jika laporan bersifat informasi (selesai di Agent), Pilih Jenis laporan : Information
+ 4. Jika laporan butuh tindaklanjut ke pihak Back Office, Pilih Jenis laporan : Komplain ( dokumen ditunggu maksimal 3 hari kerja)
+ 5. Untuk laporan yang butuh tindaklanjut, informasikan SLA : 1 Hari Kerja. 
+ 
+ 
+ Nasabah Menanyakan PIN CERIA 
+ ID CERIA : 
+ NO HP yg terdaftar : 
+ Alasan :  
+ 
+ Jika Butuh tindaklanjut membutuhkan screen Capture respon",,,"1 Cara & Syarat pengajuan Aplikasi
+ Informasi dan Solusi 
+ 1. Informasikan cara & syarat pengajuan aplikasi CERIA 
+ 2. Jika sudah pernah install aplikasi CERIA dan sudah pernah mengajukan limit namun ditola/reject by CERIA, 
+ sampaikan nasabah bisa ajukan kembali Limit CERIA setelah 1 bulan sejak pengajuan limit terakhir ditolak. 
+ 3. Jika nasabah membatalkan Akun CERIA/ Reject by Nasabah (Misal : Karena limit terlalu kecil) Maka nasabah bisa pengajuan kembali 7 hari ke depan 
+ 4. Jika nasabah tidak menerima kode OTP maka buatkan laporan untuk ditindaklanjuti. 
+ 5. informasikan dokumen yang dibutuhkan : 
+ a. Jika nasabah komplain setelah pengajuan selesai masih menunggu limit aktif : 
+  Surat pernyataan nasabah yang menyatakan bertanggung jawab atas semua transaksi di Akun CERIA + Ttd 
+ foto ktp; 
+ foto selfie dengan ktp dari 2 sisi (2 angle yang berbeda) untuk keperluan investigasi lebih lanjut. 
+ Screenshot home Aplikasi ceria 
+ b. Jika nasabah komplain tidak bisa pengajuan karna npwp tidak valid/input nama ibu kandung /Data tidak sesuai : 
+ Scrren Shoot Error aplikasi pada saat pengajuan (ket NPWP tdk valid, nama ibu kandung/data tidak sesuai 
+ Foto ktp, Foto Kartu Debit , Foto NPWP 
+ 
+ Agent dapat menggunakan courtesy: 
+ ""Bapak/ Ibu… mohon segera kirimkan untuk dokumen (Agent sebutkan dokumen yang dibutuhkan) melalui email: contactbri@bri.co.id, 
+ dengan mencantumkan nomor laporan sebagai subject email dan dokumen ditunggu maksimal 3 hari kerja. 
+ Untuk pengecekan dokumen sudah diterima/ belum dapat melalui WhatsApp Sabrina di nomor 08121214017."" 
+ 
+ 2 Status Pengajuan Aplikasi CERIA
+ Informasi & Solusi 
+ 1. Jika nasabah menanyakan proses pengajuan limitnya, sampaikan ""ditunggu proses maksimal pengajuan 60 menit""
+ 2. Apabila pengajuan limit sudah lebih dari 60 menit belum ada hasil, informasikan : 
+ ""Bapak/Ibu (nama nsb) kami membutuhkan waktu tambahan untuk melakukan proses pengajuan Limit, mohon kesediaannya menunggu"". 
+ Apabila nasabah setuju, buatkan laporan dengan jenis Information. 
+ Jika keberatan karena sudah menunggu sangat lama, buatkan laporan dengan jenis komplain. 
+ 3. Jika pengajuan limit sudah selesai, namun link verifikasi email belum diterima. Buatkan laporan Komplain. 
+ 4. Jika OTP belum diterima, pastikan nomor handphone yang didaftarkan sudah sesuai. Dan bisa permintaan ulang pengiriman kode OTP melalui aplikasi. 
+ 5. Jika nasabah ingin membatalkan pengajuan aplikasi CERIA, agent buatkan laporan tindaklanjut. 
+ 6. Laporan yang membutuhkan tindaklanjut, sarankan nasabah untuk kirimkan screen capture aplikasi CERIA melalui email : contactbri@bri.co.id
+ 7. Informasikan SLA 1 HK untuk laporan yang butuh tindaklanjut. 
+ 8. Jika pembukaan rekening belum 2 minggu, sampaikan pengajuan CERIA dapat dilakukan 2 minggu setelah pembukaan rekening 
+ dan pada rekening harus tersedia saldo.
+ 
+ 3 CERIA - PIN CERIA 
+ Informasi & solusi 
+ 1. Jika PIN lupa atau Terblokir, maka sarankan untuk permintaan PIN melalui aplikasi CERIA menu "" Lupa PIN"" pada saat Login
+ 2. Jika sudah memasukan PIN dengan benar namun menerima respon "" PIN Salah"" , sarankan nasabah mencoba kembali secara berkala.
+ 3. Untuk pembuatan PIN baru,akan dikirimkan kode OTP ke alamat email yg terdaftar maksimal percobaan 5 kali (jika sudah memiliki limit)
+ Untuk pembuatan PIN baru,akan dikirimkan kode OTP melalui SMS ke nomor ponsel yg terdaftar maksimal percobaan 5 kali (jika belum memiliki limit)
+ Jika sudah lebih dari 5 kali, maka sarankan nasabah melakukan permintaan PIN ulang setelah 30 menit dari percobaan terahir.
+ 4. Jika membutuhkan tindaklanjut, sarankan nasabah mengirimkan screen Capture respon Permasalahan PIN, dikirimkan ke email "" Contactbri@bri.co.id "" 
+ 5. Jika nasabah melaporkan bahwa ID Ceria tidak muncul ketika sudah mengajukan pinjaman.
+ • Agent dapat infokan bahwa ID Ceria akan muncul dalam waktu 1x24 jam.
+ • Apabila akun baru dibuat dan limit belum muncul melebihi 1x24 jam maka akan dibuatkan laporan dengan Calltype 1000 (tanpa dokumen) langsung dieskalasi ke Back Office.",,"Closing 
+ 1 Feedback 
+ Apakah informasi yang saya berikan sudah jelas? 
+ 
+ 2 Tawarkan Bantuan 
+ Ada lagi yang bisa dibantu? 
+ 
+ 3 Salam Penutup 
+ 1 ""Terima kasih telah menghubungi Contact BRI selamat pagi/siang/sore/malam Bapak/Ibu...(nama Nasabah) sehat/sukses selalu/selamat beraktifitas kembali""
+ 
+ 2 ""Terima kasih telah menghubungi Contact BRI sehat/sukses selalu/selamat beraktifitas kembali Bapak/Ibu ..... selamat pagi/siang/sore/malam""",Working Instruction,1000 Nasabah Menanyakan Informasi Pengajuan Terkait CERIA,"Invalid URL name. The URL name can include only unicode characters and hyphens, and it can't begin or end with a hyphen.: URL Name"

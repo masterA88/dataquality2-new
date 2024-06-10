@@ -1,0 +1,67 @@
+Ticket_ID,Call_Type_ID,Call_Type,Details,Create_Date,gateway,Jenis_Laporan,Nama_Nasabah,No_Rekening,Nominal,status,TanggalClosed,tanggalTransaksi,Chanel,Fitur,Nomor_Kartu,user_group,assgined_to,attachment_done,email,full_name,no_telepon,approver_login,approver_name,SLAResolution,submitter_login_id,submitter_user_group,user_login_name,Jenis_Produk,Last_Modified_By,Merchant_ID,Modified_Date,NOTAS,Produk,SLA_Status,TID,tanggalAttachmentDone,Tgl_Assigned,Tgl_Eskalasi,AnalisaSkils,Attachment_,Bank_BRI,Biaya_Admin,Suku_Bunga,Bunga,Butuh_Attachment,Cicilan,Hasil_Kunjungan,Log_Name,MMS_Ticket_Id,Mass_Ticket_Upload_Flag,Nama_Supervisor,Nama_TL,Nama_Wakabag,Nasabah_Prioritas,Notify_By,Organization,Output_Settlement,phone_survey,Return_Ticket,Settlement_By,Settlement_ID,Settlement,Site_User,Status_Return,Status_Transaksi,Submitter_Region,Submitter_SiteGroup,Submitter_User_group_ID,Tanggal_Settlement,Tgl_Foward,Tgl_In_Progress,Tgl_Returned,Ticket_Referensi,Tiket_Urgency,Tipe_Remark,UniqueID,users,Usergroup_ID
+TTB000043833835,8701,Blokir Kartu ATM karena kartu hilang,"Nasabah mengajukan pemblokiran kartu ATM BRI
+Permintaan pemblokiran ATM BRI.
+Alasan pemblokiran : Hilang
+Tanggal Hilang  : 01/01/2023
+Jam Hilang : 00.00
+Lokasi Kejadian : Semarang
+Tanggal Pemblokiran : 01/01/2023
+Jam Pemblokiran : 07:04:47 wib
+
+
+
+
+==========
+Kode Cabang          : 5838
+No Kartu             : 5221845047272612
+No Rekening          : 583801045607538
+Kode Tipe            : 00
+Status Kartu         : AA
+Nama                 : PURWANTO
+Alamat 1             : DK GROGOL RT 005 RW 004
+Alamat 2             : BLORA
+Kota                 :
+Propinsi             :
+Kode Pos             : 000058282
+Kode Negara          : IDN
+No Telp              :
+Nama Ibu Kandung     : JEMIRAH
+Employer             :
+Tipe ID              : KARTU TANDA PENDUDUK (KTP)
+No ID                : 3316022012770004
+Jenis Kelamin        : M
+Status               : K
+Tgl Lahir(dd/mm/yy)  : 20/12/77
+Tgl Kadaluarsa(yymm) : 2511
+==========
+
+Transaksi terakhir anda sukses.
+Kode Unit Kerja :5838
+No Kartu        :5221845047272612
+Status Kartu    :BL
+No Rekening     :
+Tanggal Aktivasi:02/06/2022 11:18:00.370
+User Aktivasi   :08521065
+Tanggal Renewal :?
+User Renewal    :
+Last Maintenance:01/01/2023 07:04:47.083
+User Maintenance:9994586
+Last Reissue    :02/06/2022 11:18:00.662
+User Reissue    :08521065
+Tanggal Blokir  :01/01/2023 07:04:47.080
+User Blokir     :9994586
+Ket Blokir      :9994586
+Reissue Branch  :
+Close Date      :?
+==========
+
+User Profile
+Error : Data tidak Ditemukan
+User ID :
+atau
+No Kartu :
+5221845047272612
+atau
+No HP :
+atau
+CIF :",2023-01-01 07:07:15,Phone,Request,Anwar,123456789012345.0,0.0,Closed,,,,Blokir Kartu,5221234567890120.0,LCC-CCTCALL,,,,Meli Rahayu,81234567890.0,,,20,60872.0,LCC-CCTCALL,Meli Rahayu,Kartu Debit,60872,,,,Servicing,Met,,,,,,,BRI,,,,No,,,Meli Rahayu .,,No,Dika Purwarini,,,No,,Bank BRI,,,,,,No,00196 -- KANWIL Semarang,,,Semarang,KANWIL Semarang,4,,,,,,,Notes,,Call,4

@@ -1,0 +1,64 @@
+,Column 1,Column_2_1,Column_2_2,Column_2_3,Column_2_4,Column_2_5,Column_2_6,Column_2_7,Column_2_8,Column_2_9,Column_2_10,Column_2_11,Column_2_12,Column_2_13,Column_2_14,Column_2_15,Column_2_16,Column_2_17,Column_2_18,Column_2_19,Column_2_20,Column_2_21,Column_2_22,Column_2_23,Column_2_24,Column_2_25,Column_2_26,Column_2_27,Column_3_1,Column_3_2,Column_3_3,Column_3_4,Column_3_5,Column_3_6,Column_3_7,Column_3_8,Column_3_9,Column_3_10,Column_3_11,Column_3_12,Column_3_13,Column_3_14,Column_3_15,Column_3_16,Column_3_17,Column_3_18,Column_3_19,Column_3_20,Column_3_21,Column_3_22,Column_3_23,Column_3_24,Column_3_25,Column_3_26,Column_3_27,Column_3_28,Column_3_29,Column_3_30,Column_3_31,Column_3_32,Column_3_33,Column_3_34,Column_3_35,Column_3_36,Column_3_37,Column_3_38,Column_3_39,Column_3_40,Column_3_41,Column_3_42,Column_3_43,Column_3_44,Column_3_45,Column_3_46,Column_3_47,Column_3_48,Column_3_49,Column_3_50,Column_3_51
+0,﻿TTB000043833962,8701,Blokir Kartu ATM karena kartu hilang,2023-01-01 07:08:31.000,Phone,Maintenance,WATI SUSILAWATI,436101009806534,0.00,Closed,2023-01-01 07:08:50.000,2023-01-01 00:00:00.000,N/A,Blokir Kartu,6013013389522694,LCC-CCTCALL,NULL,NULL,NULL,Novita Ayu Lestari,085845602167,NULL,NULL,20,SMG61072,00196 -- KANWIL Semarang,Novita Ayu Lestari,"Nasabah mengajukan pemblokiran kartu ATM BRI
+Permintaan pemblokiran ATM BRI.
+Alasan pemblokiran : Hilang
+Tanggal Hilang : 31.12.2022
+Jam Hilang : 21.00
+Lokasi Kejadian : bri cikunir
+Tanggal Pemblokiran :  01/01/2023 
+Jam Pemblokiran :  07:06 wib
+
+================
+  Kode Unit Kerja :4361
+       No Kartu        :6013010250640704
+       Status Kartu    :BL
+       No Rekening     :
+       Tanggal Aktivasi:31/08/2021 12:46:32.046
+       User Aktivasi   :08521071        
+       Tanggal Renewal :?
+       User Renewal    :
+       Last Maintenance:01/01/2023 07:06:24.635
+       User Maintenance:9995550
+       Last Reissue    :31/08/2021 12:46:32.358
+       User Reissue    :08521071        
+       Tanggal Blokir  :01/01/2023 07:06:24.633
+       User Blokir     :9995550
+       Ket Blokir      :9995550
+================
+User Profile
+
+
+Status	: Disabled
+Date Registered	: 2016-02-25
+Nama	: WATI SUSILAWATI
+User ID	: watisu1807
+No Kartu	: 601301******2397
+No. Handphone	: null -
+Smartphone Status	: (Not Registered)
+E-mail	: null
+Tangal Lahir	: 1967-07-18
+Alamat	: KP CIGOROWEK RT 017
+Nama Gadis Ibu Kandung	: EEM SULAEMAN
+
+================
+Kode Cabang          : 4361
+No Kartu             : 6013010250640704
+No Rekening          : 436101009806534
+Kode Tipe            : 00
+Status Kartu         : AA
+Nama                 : WATI SUSILAWATI
+Alamat 1             : KP CIGOROWEK RT 017 RW 004
+Alamat 2             : CINTARAJA SINGAPARNA
+Kota                 : 
+Propinsi             : 
+Kode Pos             : 000046417
+Kode Negara          : IDN
+No Telp              : 00000000000000
+Nama Ibu Kandung     : EEM SULAEMAN
+Employer             : 
+Tipe ID              : KARTU TANDA PENDUDUK (KTP)
+No ID                : 3206245807670002
+Jenis Kelamin        : F
+Status               : K
+Tgl Lahir(dd/mm/yy)  : 18/07/67
+Tgl Kadaluarsa(yymm) : 2608",Tabungan,SMG61072,NULL,2023-01-01 07:08:51.000,NULL,Simpanan,Met,NULL,NULL,NULL,NULL,NULL,NULL,BRI,NULL,NULL,NULL,No,NULL,NULL,Novita Ayu Lestari .,NULL,No,NULL,NULL,NULL,No,None,Bank BRI,NULL,NULL,NULL,NULL,NULL,No,00196 -- KANWIL Semarang,NULL,NULL,Semarang,KANWIL Semarang,000000000002696,NULL,NULL,NULL,NULL,NULL,NULL,Notes,NULL,Call,000000000000004
