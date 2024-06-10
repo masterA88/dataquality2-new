@@ -1,5 +1,0 @@
-exp_3.csv filter=lfs diff=lfs merge=lfs -text
-exp_5.csv filter=lfs diff=lfs merge=lfs -text
-exp_51.csv filter=lfs diff=lfs merge=lfs -text
-exp_52_100k.csv filter=lfs diff=lfs merge=lfs -text
-bricaredatareal_20200101_20200201.csv filter=lfs diff=lfs merge=lfs -text
