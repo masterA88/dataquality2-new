@@ -1,0 +1,11 @@
+Status,Type,Case Reason,Subject,Description,Legacy_ID
+Working,Mechanical,Breakdown,Subject 1,Description of issue 1,TTB00006195
+New,Mechanical,Breakdown,Subject 2,Description of issue 2,TTB00006196
+Working,Electrical,Performance,Subject 3,Description of issue 3,TTB00006197
+New,Electronic,Breakdown,Subject 4,Description of issue 4,TTB00006198
+Escalated,Mechanical,Performance,Subject 5,Description of issue 5,TTB00006199
+New,Electronic,Breakdown,Subject 6,Description of issue 6,TTB00006200
+Working,Mechanical,Breakdown,Subject 7,Description of issue 7,TTB00006201
+Working,Electrical,Breakdown,Subject 8,Description of issue 8,TTB00006202
+Escalated,Electronic,Breakdown,Subject 9,Description of issue 9,TTB00006203
+Working,Electrical,Breakdown,Subject 10,Description of issue 10,TTB00006204
