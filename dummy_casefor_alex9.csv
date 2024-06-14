@@ -1,11 +1,11 @@
 Status,Type,Case Reason,Subject,Description,Legacy_ID
 New,Mechanical,Performance,Subject 1,Description of issue 1,TTB00006197
-Working,Electrical,Breakdown,Subject 2,Description of issue 2,TTB00006198
-Working,Electrical,Breakdown,Subject 3,Description of issue 3,TTB00006199
-Working,Mechanical,Performance,Subject 4,Description of issue 4,TTB00006200
-Escalated,Mechanical,Performance,Subject 5,Description of issue 5,TTB00006201
-Escalated,Mechanical,Breakdown,Subject 6,Description of issue 6,TTB00006202
-Working,Electrical,Breakdown,Subject 7,Description of issue 7,TTB00006203
-Escalated,Mechanical,Breakdown,Subject 8,Description of issue 8,TTB00006204
-New,Electronic,Performance,Subject 9,Description of issue 9,TTB00006205
-Working,Mechanical,Performance,Subject 10,Description of issue 10,TTB00006206
+Escalated,Mechanical,Breakdown,Subject 2,Description of issue 2,TTB00006198
+Working,Electronic,Performance,Subject 3,Description of issue 3,TTB00006199
+New,Electronic,Breakdown,Subject 4,Description of issue 4,TTB00006200
+Working,Mechanical,Performance,Subject 5,Description of issue 5,TTB00006201
+Escalated,Mechanical,Performance,Subject 6,Description of issue 6,TTB00006202
+New,Mechanical,Breakdown,Subject 7,Description of issue 7,TTB00006203
+Escalated,Electrical,Breakdown,Subject 8,Description of issue 8,TTB00006204
+Escalated,Mechanical,Breakdown,Subject 9,Description of issue 9,TTB00006205
+Working,Electronic,Breakdown,Subject 10,Description of issue 10,TTB00006206
