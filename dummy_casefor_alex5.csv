@@ -1,6 +1,6 @@
 Status,Type,Case Reason,Subject,Description,Legacy_Ticket_ID
 New,Electrical,Performance,Subject 1,Description of issue 1,TTB000001
 Escalated,Electrical,Breakdown,Subject 2,Description of issue 2,TTB000002
-Escalated,Mechanical,Performance,Subject 3,Description of issue 3,TTB000003
-Working,Mechanical,Breakdown,Subject 4,Description of issue 4,TTB000004
-Escalated,Electronic,Breakdown,Subject 5,Description of issue 5,TTB000005
+Escalated,Mechanical,Performance,Subject 3,Description of issue 3,TTB000004
+Working,Mechanical,Breakdown,Subject 4,Description of issue 4,TTB000005
+Escalated,Electronic,Breakdown,Subject 5,Description of issue 5,TTB000007
