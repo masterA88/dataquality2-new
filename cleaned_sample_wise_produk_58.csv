@@ -1,4 +1,4 @@
-title,modified_time,jenis_produk,produk,varian_produk,nama_knowledge,isi_knowledge
+title,modified_time,jenis_produk,produk,varian_produk,nama_knowledge,isi_knowledge,URL_Name,calltype,Article_Type,record_type
 Simpanan - Giro - Giro BRI Valas - Syarat Pembukaan,2024-03-27 15:49:54,Simpanan,Giro,Giro BRI Valas,Syarat Pembukaan,"1. Dokumen 
 a. PERORANGAN : KTP/Paspor, NPWP (Apabila Nasabah tidakmemiliki NPWP,dapat mengisi Form Pernyataan yang terdapat di Unit Kerja BRI)
 b. NON PERORANGAN : AD/ART, Ijin Usaha, NPWP, Dokumen Identitas Pengurus, Surat Kuasa
@@ -25,25 +25,25 @@ HKD 5.000
 JPY 50.000
 CNY 3.500
 SAR 3.000
-AED 4.000"
-Simpanan - Tabungan - Simpedes (Simpedes Umum) - Definisi,2024-03-27 15:49:54,Simpanan,Tabungan,Simpedes (Simpedes Umum),Definisi,Tabungan Simpedes adalah Simpanan masyarakat dalam bentuk tabungan dengan mata uang Rupiah yang dapat dilayani di KC/KCP/BRI Unit/Kantor Kas/Teras BRI yang penyetoran dan pengambilannya tidak dibatasi baik frekuensi maupun jumlahnya sepanjang memenuhi aturan yang berlaku.
+AED 4.000",PD-0000001,No Call Type,Product,Product
+Simpanan - Tabungan - Simpedes (Simpedes Umum) - Definisi,2024-03-27 15:49:54,Simpanan,Tabungan,Simpedes (Simpedes Umum),Definisi,Tabungan Simpedes adalah Simpanan masyarakat dalam bentuk tabungan dengan mata uang Rupiah yang dapat dilayani di KC/KCP/BRI Unit/Kantor Kas/Teras BRI yang penyetoran dan pengambilannya tidak dibatasi baik frekuensi maupun jumlahnya sepanjang memenuhi aturan yang berlaku.,PD-0000002,No Call Type,Product,Product
 Simpanan - Tabungan - Simpedes Bisa - Syarat Pembukaan,2024-03-27 15:49:54,Simpanan,Tabungan,Simpedes Bisa,Syarat Pembukaan,"1. Warga Negara Indonesia
 2. Usia Minimum 17 Tahun
 3. Dokumen e-KTP & NPWP (opsional)
 4. Memiliki e-mail aktif
 5. Setoran awal minimum Rp 50.000
-6. Channel pembukaan Kantor BRI & BRImo"
+6. Channel pembukaan Kantor BRI & BRImo",PD-0000003,No Call Type,Product,Product
 Simpanan - Tabungan - Simpedes UMi - Fitur,2024-03-27 15:49:54,Simpanan,Tabungan,Simpedes UMi,Fitur,"1. Buku Tabungan: Simpedes UMi
 2. Kartu Debit Simpedes GPN
 3. BRImo
 4. Senyum Mobile
-5. Periode dormant: 180 hari"
+5. Periode dormant: 180 hari",PD-0000004,No Call Type,Product,Product
 Simpanan - Tabungan - Britama (Umum) - Fitur,2024-03-27 15:49:54,Simpanan,Tabungan,Britama (Umum),Fitur,"1. Kemudahan Akses (Melalui Beragam Channel)
 2. BRImo
 3. Aksesbilitas Kartu (Dapat Digunakan di Seluruh Dunia Melalui Jaringan) Master Card
 4. Asuransi kecelakaan hingga 250% dari saldo rekening hingga maksimum Rp 150 juta per rekening
 5. Transfer Real-Time antar bank unlimited
-6. Diikutkan dalam program BritAma Festival"
+6. Diikutkan dalam program BritAma Festival",PD-0000005,No Call Type,Product,Product
 Simpanan - Tabungan - Tabungan BRI Junio - Syarat Pembukaan,2024-03-27 15:49:54,Simpanan,Tabungan,Tabungan BRI Junio,Syarat Pembukaan,"< 12 tahun ( type VA ) 
 12 tahun  s/d 17 tahun ( type VO )
 
@@ -52,10 +52,10 @@ WNI : KTP
 WNA : Paspor dan
 KIMS/KITAS/KITAP
 NPWP orang tua/wali
-FC Kartu Keluarga/Akta Kelahiran Anak"
-Simpanan - Deposito - Depo BRI Rupiah - Definisi,2024-03-27 15:49:54,Simpanan,Deposito,Depo BRI Rupiah,Definisi,Deposito BRI adalah simpanan berjangka yang penarikannya hanya dapat dilakukan pada jangka waktu tertentu dengan memberikan bunga yang menarik dan beragam keuntungan lainnya.
-Simpanan - Deposito - Deposito On Call Rupiah - Definisi,2024-03-27 15:49:54,Simpanan,Deposito,Deposito On Call Rupiah,Definisi,Produk Deposito BRI yang dibuka dangan jangka waktu mulai dari 1 hari sampai dengan maksimal 29 hari sesuai perjanjian
-Investasi - Investasi - Junio Rencana - Bunga,2024-03-27 15:49:54,Investasi,Investasi,Junio Rencana,Bunga,"2,50%"
+FC Kartu Keluarga/Akta Kelahiran Anak",PD-0000006,No Call Type,Product,Product
+Simpanan - Deposito - Depo BRI Rupiah - Definisi,2024-03-27 15:49:54,Simpanan,Deposito,Depo BRI Rupiah,Definisi,Deposito BRI adalah simpanan berjangka yang penarikannya hanya dapat dilakukan pada jangka waktu tertentu dengan memberikan bunga yang menarik dan beragam keuntungan lainnya.,PD-0000007,No Call Type,Product,Product
+Simpanan - Deposito - Deposito On Call Rupiah - Definisi,2024-03-27 15:49:54,Simpanan,Deposito,Deposito On Call Rupiah,Definisi,Produk Deposito BRI yang dibuka dangan jangka waktu mulai dari 1 hari sampai dengan maksimal 29 hari sesuai perjanjian,PD-0000008,No Call Type,Product,Product
+Investasi - Investasi - Junio Rencana - Bunga,2024-03-27 15:49:54,Investasi,Investasi,Junio Rencana,Bunga,"2,50%",PD-0000009,No Call Type,Product,Product
 Bancassurance - Bancassurance - Davestera - Biaya,2024-03-27 15:49:54,Bancassurance,Bancassurance,Davestera,Biaya,"Ketentuan Minimum Premi :
 Cara Bayar
 
@@ -91,7 +91,7 @@ Prosentase Premi Dasar Berkala untuk Alokasi Investasi : 81%
 
 3. Tahun Polis Ke- ≥ 3
 Prosentase Biaya dari Premi Dasar Berkala :	-
-Prosentase Premi Dasar Berkala untuk Alokasi Investasi : 100%"
+Prosentase Premi Dasar Berkala untuk Alokasi Investasi : 100%",PD-0000010,No Call Type,Product,Product
 Bancassurance - Bancassurance - Davespro - Syarat Pembukaan,2024-03-27 15:49:54,Bancassurance,Bancassurance,Davespro,Syarat Pembukaan,"Entry Age : 
 - 18-65 y.o (The Insured)
 - 21-85 y.o (Policyholder)
@@ -109,9 +109,9 @@ Sales Quota : Rp 500.000.000.000
 Sum Insured : 100% Single Premium (max 5 Bio)
 Surrender Charge : 7% Singel Premium 
 Fee Based : 0,50%
-Underwriting : GIO"
+Underwriting : GIO",PD-0000011,No Call Type,Product,Product
 Bancassurance - Bancassurance - Davestera Optima Syariah - Definisi,2024-03-27 15:49:54,Bancassurance,Bancassurance,Davestera Optima Syariah,Definisi,"Asuransi Unit Link dengan pembayaran Kontribusi Tunggal yang dapat memberikan perlindungan
-optimal dengan pilihan manfaat tambahan yang dapat disesuaikan dengan kebutuhan"
+optimal dengan pilihan manfaat tambahan yang dapat disesuaikan dengan kebutuhan",PD-0000012,No Call Type,Product,Product
 Bancassurance - Bancassurance - Aurora Plus - Biaya,2024-03-27 15:49:54,Bancassurance,Bancassurance,Aurora Plus,Biaya,"Masa Bayar Premi & Masa Asuransi
 MP : 5 Tahun, MA : 8 Tahun
 
@@ -127,7 +127,7 @@ minimum berdasarkan kategori Tertanggung.
 (dan bergantung pada Uang Pertanggungan dan Usia Masuk)
 Uang Pertanggungan
 Tertanggung Anak-anak: Rp30.000.000,- sd Rp1.000.000.000,-
-Tertanggung Dewasa: Rp30.000.000,- sd Rp5.000.000.000,-"
+Tertanggung Dewasa: Rp30.000.000,- sd Rp5.000.000.000,-",PD-0000013,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Umum - Easy Card - Syarat Pembukaan,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Umum,Easy Card,Syarat Pembukaan,"1. Persyaratan Umum :
 a. Min. income Rp3.000.000,00.
 b. Usia min. 21 tahun atau 17 tahun sudah menikah.
@@ -136,12 +136,12 @@ c. Memiliki fix phone & contactable.
 2. Persyaratan Dokumen :
 a. Dokumen aplikasi dengan data terisi lengkap dan ditandatangani.
 b. Dokumen identitas diri dan NPWP yang masih berlaku.
-c. Dokumen bukti penghasilan atau SPT tahunan (bukti potong)."
+c. Dokumen bukti penghasilan atau SPT tahunan (bukti potong).",PD-0000014,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Umum - Touch - Limit,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Umum,Touch,Limit,"1. Limit Kartu Kredit: Rp5.000.000 – Rp 149.999.999
-2. Maximum Cash Advance: 60% dari sisa limit atau maksimal Rp10.000.000 per hari"
+2. Maximum Cash Advance: 60% dari sisa limit atau maksimal Rp10.000.000 per hari",PD-0000015,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Umum - Mastercard Platinum - Bunga,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Umum,Mastercard Platinum,Bunga,"1. Bunga Transaksi Ritel: 1,75% per bulan (menyesuaikan ketentuan Bank Indonesia) 
-2. Bunga Pengambilan Tunai: 1,75% per bulan (menyesuaikan ketentuan Bank Indonesia)"
-Kartu Kredit - Kartu Kredit Co-Branding - Cobranding Traveloka Paylater Card - Bunga,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Cobranding Traveloka Paylater Card,Bunga,"1. Bunga Transaksi Ritel: 1,75% per bulan (menyesuaikan ketentuan Bank Indonesia)"
+2. Bunga Pengambilan Tunai: 1,75% per bulan (menyesuaikan ketentuan Bank Indonesia)",PD-0000016,No Call Type,Product,Product
+Kartu Kredit - Kartu Kredit Co-Branding - Cobranding Traveloka Paylater Card - Bunga,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Cobranding Traveloka Paylater Card,Bunga,"1. Bunga Transaksi Ritel: 1,75% per bulan (menyesuaikan ketentuan Bank Indonesia)",PD-0000017,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Co-Branding - Cobranding Raya - Syarat Pembukaan,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Cobranding Raya,Syarat Pembukaan,"Persyaratan Umum :
 1. Nasabah Bank Raya
 2. Usia min. 21 tahun atau 17 tahun sudah menikah
@@ -150,7 +150,7 @@ Kartu Kredit - Kartu Kredit Co-Branding - Cobranding Raya - Syarat Pembukaan,202
 Persyaratan Dokumen :
 1. Dokumen aplikasi dengan data terisi lengkap dan ditandatangani
 2. Dokumen identitas diri dan NPWP yang masih berlaku
-3. Dokumen bukti penghasilan atau SPT tahunan (bukti potong)"
+3. Dokumen bukti penghasilan atau SPT tahunan (bukti potong)",PD-0000018,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Co-Branding - Cobranding BTN Platinum - Biaya,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Cobranding BTN Platinum,Biaya,"1. Annual Fee
 a. Annual Fee Basic: Rp300.000
 b. Annual Fee Supplement: Rp150.000
@@ -175,29 +175,29 @@ b. Rekening BRI: Rp25.000
 c. Non BRI: Rp50.000
 18. Min. Pembayaran 5% dari tagihan atau Rp50.000, khusus transaksi cicilan, minimal pembayaran sebesar tagihan cicilan per bulan
 19. Biaya Admin Transaksi Internasional 2% dari transaksi yang ditagihkan
-20. Jatuh tempo 17 hari sejak tanggal cetak tagih"
+20. Jatuh tempo 17 hari sejak tanggal cetak tagih",PD-0000019,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Co-Branding - Cobranding Kartu Emas Pengadaian - Bunga,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Cobranding Kartu Emas Pengadaian,Bunga,"1. Bunga Transaksi Ritel: 0,75% per 15 hari (menyesuaikan ketentuan Bank Indonesia)
-2. Bunga Pengambilan Tunai: 0,75% per 15 hari(menyesuaikan ketentuan Bank Indonesia)"
+2. Bunga Pengambilan Tunai: 0,75% per 15 hari(menyesuaikan ketentuan Bank Indonesia)",PD-0000020,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Co-Branding - Mastercard Corporate KKP - Fitur,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Mastercard Corporate KKP,Fitur,"Fitur Unggulan
 1. Worldwide Acceptance
 2. Airport Lounge 1 Pax
-3. Gratis Biaya-biaya kecuali Biaya Materai"
+3. Gratis Biaya-biaya kecuali Biaya Materai",PD-0000021,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Pemerintah - Kartu Kredit Indonesia - Fitur,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Pemerintah,Kartu Kredit Indonesia,Fitur,"Fitur Unggulan
 1. Hanya dapat digunakan untuk transaksi QRIS & EDC GPN
 2. Airport Lounge 1 Pax
-3. Gratis Biaya-biaya kecuali Biaya Materai"
+3. Gratis Biaya-biaya kecuali Biaya Materai",PD-0000022,No Call Type,Product,Product
 Pinjaman - Briguna - Briguna - Biaya,2024-03-27 15:49:54,Pinjaman,Briguna,Briguna,Biaya,"1. Tidak ada biaya Provisi;
 2. Tidak ada biaya Administrasi;
 3. Premi Asuransi AMKKM/PIJAR ( ditawarkan )
 4. Agunan tambahan : 
 a. KUR s/d 100 juta tidak diperlukan agunakan tambahan
-b. KUR > 100 juta sesuai kebijakan / penilaian penyalur"
+b. KUR > 100 juta sesuai kebijakan / penilaian penyalur",PD-0000023,No Call Type,Product,Product
 E-Channel - Direct Debit - Direct Debit - Syarat Pembukaan,2024-03-27 15:49:54,E-Channel,Direct Debit,Direct Debit,Syarat Pembukaan,"1. Memiliki rekening simpanan BRI berkartu debit
 (GPN & Mastercard)
 
 2. Terdaftar secara Financial Mobile Banking fitur
-Mobile Banking / Internet Banking (BRImo)"
-E-Channel - IBBIZ - IBBIZ - Definisi,2024-03-27 15:49:54,E-Channel,IBBIZ,IBBIZ,Definisi,IBBIZ merupakan internet Banking BRI dengan fitur dan limit disesuaikan dengan nasabah yang mempunyai usaha segmen ritel dan UMKM
+Mobile Banking / Internet Banking (BRImo)",PD-0000024,No Call Type,Product,Product
+E-Channel - IBBIZ - IBBIZ - Definisi,2024-03-27 15:49:54,E-Channel,IBBIZ,IBBIZ,Definisi,IBBIZ merupakan internet Banking BRI dengan fitur dan limit disesuaikan dengan nasabah yang mempunyai usaha segmen ritel dan UMKM,PD-0000025,No Call Type,Product,Product
 E-Channel - IBBIZ - IBBIZ - Fitur,2024-03-27 15:49:54,E-Channel,IBBIZ,IBBIZ,Fitur,"TRANSACTIONAL
 1. Transfer BRI
 2. Transfer Beda Bank (Online)
@@ -223,7 +223,7 @@ NON TRANSACTIONAL
 7. Pengelolaan Pengguna :
 • Buat Maker, Checker
 • Buka Blokir Maker & Checker
-• Ubah Mode User Single User/ Multi User"
+• Ubah Mode User Single User/ Multi User",PD-0000026,No Call Type,Product,Product
 E-Channel - Aplikasi BRI Merchant - Aplikasi BRI Merchant - Fitur,2024-03-27 15:49:54,E-Channel,Aplikasi BRI Merchant,Aplikasi BRI Merchant,Fitur,"1. Monitoring Detail Transaksi
 Merchant dapat melihat riwayat transaksi dari setiap EDC / QRIS yang dimiliki secara harian maksimum dalam kurun waktu 3 bulan. Merchant juga dapat menampilkan detail transaksi berupa digital sales draft yang dapat dibagikan.
 
@@ -231,14 +231,14 @@ Merchant dapat melihat riwayat transaksi dari setiap EDC / QRIS yang dimiliki se
 Merchant dapat melakukan download laporan transaksi per-MID secara harian maksimum dalam kurun waktu 1 bulan.
 
 3. User Management
-Pemilik Merchant sebagai super admin dapat melakukan pengaturan terhadap user meliputi penambahan user, permberian akses user, mengubah status user serta menghapus user."
-E-Channel - Aplikasi BRI Merchant - Aplikasi BRI Merchant - Definisi,2024-03-27 15:49:54,E-Channel,Aplikasi BRI Merchant,Aplikasi BRI Merchant,Definisi,Aplikasi BRImerchant merupakan one stop app solution yang dapat menjawab kebutuhan merchant BRI.
+Pemilik Merchant sebagai super admin dapat melakukan pengaturan terhadap user meliputi penambahan user, permberian akses user, mengubah status user serta menghapus user.",PD-0000027,No Call Type,Product,Product
+E-Channel - Aplikasi BRI Merchant - Aplikasi BRI Merchant - Definisi,2024-03-27 15:49:54,E-Channel,Aplikasi BRI Merchant,Aplikasi BRI Merchant,Definisi,Aplikasi BRImerchant merupakan one stop app solution yang dapat menjawab kebutuhan merchant BRI.,PD-0000028,No Call Type,Product,Product
 Investasi - Investasi - SBR - Syarat Pembukaan,2024-06-14 03:52:57,Investasi,Investasi,SBR,Syarat Pembukaan,"Syarat & Ketentuan :
 1. Individu / perorangan yang dibuktikan dengan KTP yang ber-NIK.
 2. Pemesanan minimum Rp1.000.000,- dan kelipatannya, maksimal Rp 10.000.000.000,- 
 (ketentuan minimum atau maksimum pembelian sesuai dengan ketentuan dari Kemenkeu)
 3. Memiliki rekening Tabungan BRI BritAma/Simpedes/Giro BRI atas nama calon investor.
-4. Mengisi Formulir Pemesanan."
+4. Mengisi Formulir Pemesanan.",PD-0000029,No Call Type,Product,Product
 Simpanan - Giro - Giro BRI Rupiah - Limit,2024-03-27 15:49:54,Simpanan,Giro,Giro BRI Rupiah,Limit,"1. Limit Maksimum Transaksi
 a. Kartu Classic
 a.1. Tarik Tunai : 10,000,000
@@ -342,26 +342,26 @@ c.11. Pembelian
    Non Pulsa : 100,000,000
 ● BRImo Pulsa : 1,000,000
    Non Pulsa : 100,000,000
-● IBBIZ BRI : 5,000,000,000"
+● IBBIZ BRI : 5,000,000,000",PD-0000030,No Call Type,Product,Product
 Simpanan - Giro - Giro BRI Valas - Bunga,2024-03-27 15:49:54,Simpanan,Giro,Giro BRI Valas,Bunga,"0 s/d < 5 juta : 0,00%
 5 juta s/d 25 juta : 0,25%
 >25 juta s/d 100 juta : 0,25%
 >100 juta s/d 1 Milyar : 1,00%
->1 Milyar : 2,00%"
+>1 Milyar : 2,00%",PD-0000031,No Call Type,Product,Product
 Simpanan - Tabungan - Simpedes (Simpedes Umum) - Bunga,2024-03-27 15:49:54,Simpanan,Tabungan,Simpedes (Simpedes Umum),Bunga,"1. < 1 juta: 0.00%
 2. > = 1 Juta s/d < 50  juta: 0.00%
 3. > = 50 juta s/d < 500 juta: 0.10%
 4. > = 500 juta s/d < 1 Milyar: 0.60%
-5. > = 1 Milyar: 0.80%"
+5. > = 1 Milyar: 0.80%",PD-0000032,No Call Type,Product,Product
 Simpanan - Tabungan - Simpedes UMi - Syarat Pembukaan,2024-03-27 15:49:54,Simpanan,Tabungan,Simpedes UMi,Syarat Pembukaan,"1. Nasabah dapat melakukan pembukaan secara digital melalui senyuM mobile di Playstore
 2. Minimal 17 Tahun
 3. KTP
-3. Setoran awal dan saldo minimum: Rp0"
+3. Setoran awal dan saldo minimum: Rp0",PD-0000033,No Call Type,Product,Product
 Simpanan - Tabungan - Britama (Umum) - Bunga,2024-03-27 15:49:54,Simpanan,Tabungan,Britama (Umum),Bunga,"1. < 1 juta - 0.00%
 2. > = 1 Juta s/d < 50  juta  0.00%
 3. > = 50 juta s/d < 500 juta  0.10%
 4. > = 500 juta s/d < 1 Milyar  0.60%
-5. > = 1 Milyar 0.80%"
+5. > = 1 Milyar 0.80%",PD-0000034,No Call Type,Product,Product
 Simpanan - Tabungan - Tabungan BRI Junio - Limit,2024-03-27 15:49:54,Simpanan,Tabungan,Tabungan BRI Junio,Limit,"1. Tarik tunai : Rp10.000.000
 2. Setor tunai : Rp30.000.000
 3. Transfer Antar Bank 
@@ -378,16 +378,16 @@ b. BRImo : 200.000.000
 8. Pembayaran BRIVA : Rp25.000.000
 9. Belanja di EDC : Rp50.000.000
 10. BI Fast : Rp250.000.000
-11. QRIS : Rp10.000.000"
+11. QRIS : Rp10.000.000",PD-0000035,No Call Type,Product,Product
 Simpanan - Tabungan - Tabungan BRI Junio - Fitur,2024-03-27 15:49:54,Simpanan,Tabungan,Tabungan BRI Junio,Fitur,"1. Mendapatkan Fasilitas Internet Banking (BRImo)
-2. Mendapatkan Fasilitas Asuransi kecelakaan diri dengan saldo minimum Rp500.000"
+2. Mendapatkan Fasilitas Asuransi kecelakaan diri dengan saldo minimum Rp500.000",PD-0000036,No Call Type,Product,Product
 Simpanan - Tabungan - Tabunganku - Limit,2024-03-27 15:49:54,Simpanan,Tabungan,Tabunganku,Limit,"1. Limit transaksi dalam 1 bulan ( Penarikan tunai, Pemindahan buku dan/atau transfer 
 a. TabunganKu : Rp10.000.000
 b. TabunganKu BSA : Rp5.000.000
 
 2. Transaksi Antar Cabang (TAC) 
 a. TabunganKu : Rp10.000.000
-b. TabunganKu BSA : Rp5.000.000"
+b. TabunganKu BSA : Rp5.000.000",PD-0000037,No Call Type,Product,Product
 Simpanan - Tabungan - Tabunganku - Biaya,2024-03-27 15:49:54,Simpanan,Tabungan,Tabunganku,Biaya,"1. Biaya pemeliharaan Kartu Debit : Tidak ada
 2. Penalti Dormant Perbulan
 a. TabunganKu : Rp2.000
@@ -395,13 +395,13 @@ b. TabunganKu BSA : Tidak ada
 3. Biaya Administrasi Bulanan : Tidak ada Biaya Administrasi
 4. Biaya Penutupan Rekening:
 a. TabunganKu : Rp20.000 
-b. TabunganKu BSA : Rp 0"
+b. TabunganKu BSA : Rp 0",PD-0000038,No Call Type,Product,Product
 Simpanan - Tabungan - Tabungan BRI Simpel - Fitur,2024-03-27 15:49:54,Simpanan,Tabungan,Tabungan BRI Simpel,Fitur,"1. Bukti Kepemilikan : Buku Tabungan
 2. Status Dormant : Tidak bertransaksi selama 12 bulan berturut-turut. Saat dormant nasabah akan  dikenakan pinalti. Jika saldo rekening mencapai < saldo min, maka rekening  dapat ditutup otomatis oleh sistem
 3. Batas Waktu Closed By System Pada Rekening  Bersaldo Nol : 90 hri
-4. Layanan Transaksi : Di seluruh Unit Kerja BRI maupun di sekolah pada saat  Unit Kerja melakukan open table/pameran"
-Simpanan - Deposito - Deposito On Call Valas - Definisi,2024-03-27 15:49:54,Simpanan,Deposito,Deposito On Call Valas,Definisi,Produk Deposito BRI yang dibuka dangan jangka waktu mulai dari 1 hari sampai dengan maksimal 29 hari sesuai perjanjian
-Simpanan - Private - Private - Definisi,2024-03-27 15:49:54,Simpanan,Private,Private,Definisi,"BRI Private adalah kegiatan pelayanan dan jasa perbankan yang diberikan BRI secara eksklusif kepada Nasabah BRI Private yang bersifat personal dan customized, meliputi pelayanan dan jasa perbankan pada umumnya, jasa konsultasi perencanaan keuangan dan  investasi,  asuransi(bancassurance), perencanaan pensiun maupun konsultasi perencanaan waris."
+4. Layanan Transaksi : Di seluruh Unit Kerja BRI maupun di sekolah pada saat  Unit Kerja melakukan open table/pameran",PD-0000039,No Call Type,Product,Product
+Simpanan - Deposito - Deposito On Call Valas - Definisi,2024-03-27 15:49:54,Simpanan,Deposito,Deposito On Call Valas,Definisi,Produk Deposito BRI yang dibuka dangan jangka waktu mulai dari 1 hari sampai dengan maksimal 29 hari sesuai perjanjian,PD-0000040,No Call Type,Product,Product
+Simpanan - Private - Private - Definisi,2024-03-27 15:49:54,Simpanan,Private,Private,Definisi,"BRI Private adalah kegiatan pelayanan dan jasa perbankan yang diberikan BRI secara eksklusif kepada Nasabah BRI Private yang bersifat personal dan customized, meliputi pelayanan dan jasa perbankan pada umumnya, jasa konsultasi perencanaan keuangan dan  investasi,  asuransi(bancassurance), perencanaan pensiun maupun konsultasi perencanaan waris.",PD-0000041,No Call Type,Product,Product
 Simpanan - Private - Private - Biaya,2024-03-27 15:49:54,Simpanan,Private,Private,Biaya,"1. Tipe A (3 x 5 x 24 inch )
 a. Tarif Normal : Rp 200.000,-
 b. Tiering Saldo > Rp 15 M s.d 100 M : Free
@@ -425,20 +425,20 @@ c. Tiering Saldo > 100 M : Free
 5. Tipe E (15 x 10 x 24 inch) 
 a. Tarif Normal : Rp 1.200.000,-
 b. Tiering Saldo > Rp 15 M s.d 100 M : Rp 600.000,-
-c. Tiering Saldo > 100 M : Free"
+c. Tiering Saldo > 100 M : Free",PD-0000042,No Call Type,Product,Product
 Investasi - Investasi - Reksa Dana - Fitur,2024-03-27 15:49:54,Investasi,Investasi,Reksa Dana,Fitur,"1. Pasar Uang
 2. Pendapatan Tetap
 3. Campuran
 4. Saham
-5. Terproteksi"
+5. Terproteksi",PD-0000043,No Call Type,Product,Product
 Investasi - Investasi - Sukuk (SR) - Definisi,2024-03-27 15:49:54,Investasi,Investasi,Sukuk (SR),Definisi,"Surat Berharga Syariah Negara selanjutnya disingkat SBSN (Sukuk Negara) adalah surat  berharga negara yang diterbitkan berdasarkan prinsip syariah, sebagai bukti atas bagian  penyertaan terhadap Asset SBSN, baik dalam mata uang rupiah maupun valuta asing.
 
 SBSN yang diterbitkan khusus untuk investor individu Warga Negara Indonesia (WNI)  di Pasar Perdana disebut dengan Sukuk Negara Ritel.
 
 Penerbitannya sesuai dengan prinsip syariah dan telah mendapatkan 
 fatwa serta opini  syariah dari Dewan Syariah Nasional – 
-Majelis Ulama Indonesia"
-Bancassurance - Bancassurance - Davestera - Definisi,2024-03-27 15:49:54,Bancassurance,Bancassurance,Davestera,Definisi,Adalah produk asuransi yang memberikan langkah mudah untuk mengoptimalkan dana investasi kita.
+Majelis Ulama Indonesia",PD-0000044,No Call Type,Product,Product
+Bancassurance - Bancassurance - Davestera - Definisi,2024-03-27 15:49:54,Bancassurance,Bancassurance,Davestera,Definisi,Adalah produk asuransi yang memberikan langkah mudah untuk mengoptimalkan dana investasi kita.,PD-0000045,No Call Type,Product,Product
 Bancassurance - Bancassurance - Davestera - Fitur,2024-03-27 15:49:54,Bancassurance,Bancassurance,Davestera,Fitur,"Manfaat Utama :
 - Meninggal dalam masa asuransi sebesar 100% JUP + Nilai Investasi
 - Hidup pada akhir kontrak sebesar Nilai Investasi akhir kontrak
@@ -456,29 +456,29 @@ Manfaat Tambahan :
 - Payor Death Protection
 - Payor Benefit
 - Spouse Death Protection
-- Spuose Benefit"
+- Spuose Benefit",PD-0000046,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Umum - Easy Card - Syarat Pencairan & Penutupan,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Umum,Easy Card,Syarat Pencairan & Penutupan,"1. Tidak terdaftar asuransi
 2. Tidak terdaftar autopayment
 3. Tidak ada tagihan berjalan
-4. Tagihan Rp0"
+4. Tagihan Rp0",PD-0000047,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Umum - Easy Card - Definisi,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Umum,Easy Card,Definisi,"Kartu kredit untuk memenuhi kebutuhan hidup sehari – hari (daily needs)
 
 Segmentasi & Target Potensial:
 1. Usia 30 – 40 tahun
 2. Kota ke-2, ke-3
 3. Penghasilan Rp 3 – 5 juta per bulan
-4. Behavior: Penggunaan kartu kredit untuk belanja kebutuhan sehari-hari dan gaya hidup hemat"
+4. Behavior: Penggunaan kartu kredit untuk belanja kebutuhan sehari-hari dan gaya hidup hemat",PD-0000048,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Umum - Touch - Definisi,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Umum,Touch,Definisi,"Kartu kredit pertama untuk anak muda yang aktif dan dinamis
 
 Segmentasi & Target Potensial
 1. First Jobber, sd 30 tahun
 2. Kota ke-1, ke-2
 3. Penghasilan Rp 3 – 10 juta per bulan
-4. Penggunaan kartu kredit untuk transaksi online, suka mencicil, social-media savy"
+4. Penggunaan kartu kredit untuk transaksi online, suka mencicil, social-media savy",PD-0000049,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Umum - World Access - Syarat Pencairan & Penutupan,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Umum,World Access,Syarat Pencairan & Penutupan,"1. Tidak terdaftar asuransi 
 2. Tidak terdaftar autopayment 
 3. Tidak ada tagihan berjalan 
-4. Tagihan Rp0"
+4. Tagihan Rp0",PD-0000050,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Komersial - BRI Corporate Card - Syarat Pembukaan,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Komersial,BRI Corporate Card,Syarat Pembukaan,"1. Debitur
 a. Perusahaan Swasta/BUMN.
 b. Plafond Kredit Komersial >= Rp50 miliar.
@@ -499,8 +499,8 @@ a. Satker/Lembaga Negara.
 b. Dasar Peraturan Menteri Keuangan No. 196/PMK.05/2018 tentang Tata Cara Pembayaran dan Penggunaan Kartu Kredit Pemerintah:
 b.1 Belanja Keperluan Operasional.
 b.2 Belanja Perjalanan Dinas.
-b.3 Pembayaran Belanja Barang Maksimal Rp50 juta."
-Kartu Kredit - Kartu Kredit Co-Branding - Cobranding Traveloka Paylater Card - Limit,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Cobranding Traveloka Paylater Card,Limit,1. Limit Kartu Kredit: Rp3.000.000 – Rp999.999.999
+b.3 Pembayaran Belanja Barang Maksimal Rp50 juta.",PD-0000051,No Call Type,Product,Product
+Kartu Kredit - Kartu Kredit Co-Branding - Cobranding Traveloka Paylater Card - Limit,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Cobranding Traveloka Paylater Card,Limit,1. Limit Kartu Kredit: Rp3.000.000 – Rp999.999.999,PD-0000052,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Co-Branding - Cobranding BTN Gold - Syarat Pembukaan,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Cobranding BTN Gold,Syarat Pembukaan,"Persyaratan Umum :
 1. Merupakan Warga Negara Indonesia (WNI)
 2. Usia minimal 21 tahun atau sudah menikah. Untuk Pemegang Kartu Tambahan, berusia minimal 17 tahun atau sudah menikah.
@@ -511,15 +511,15 @@ Kartu Kredit - Kartu Kredit Co-Branding - Cobranding BTN Gold - Syarat Pembukaan
 Persyaratan Dokumen :
 1. KTP
 2. NPWP
-3. Dokumen Info Penghasilan"
+3. Dokumen Info Penghasilan",PD-0000053,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Co-Branding - Cobranding BTN Platinum - Bunga,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Cobranding BTN Platinum,Bunga,"1. Bunga Transaksi Ritel: 1,75% per bulan (menyesuaikan ketentuan Bank Indonesia) 
-2. Bunga Pengambilan Tunai: 1,75% per bulan (menyesuaikan ketentuan Bank Indonesia)"
+2. Bunga Pengambilan Tunai: 1,75% per bulan (menyesuaikan ketentuan Bank Indonesia)",PD-0000054,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Co-Branding - Cobranding Ovo U Card - Syarat Pencairan & Penutupan,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Cobranding Ovo U Card,Syarat Pencairan & Penutupan,"1. Tidak terdaftar asuransi 
 2. Tidak terdaftar autopayment 
 3. Tidak ada tagihan berjalan 
-4. Tagihan Rp0"
+4. Tagihan Rp0",PD-0000055,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Co-Branding - Cobranding Ovo U Card - Bunga,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Cobranding Ovo U Card,Bunga,"1. Bunga Transaksi Ritel: 1,75% per bulan (menyesuaikan ketentuan Bank Indonesia) 
-2. Bunga Pengambilan Tunai: 1,75% per bulan (menyesuaikan ketentuan Bank Indonesia)"
+2. Bunga Pengambilan Tunai: 1,75% per bulan (menyesuaikan ketentuan Bank Indonesia)",PD-0000056,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Co-Branding - Cobranding Tokopedia Card - Syarat Pembukaan,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Cobranding Tokopedia Card,Syarat Pembukaan,"Persyaratan Umum :
 1. Min. surrogate income di Tokopedia Rp3.000.000.
 2. Usia min. 21 tahun atau 17 tahun sudah menikah.
@@ -527,21 +527,21 @@ Kartu Kredit - Kartu Kredit Co-Branding - Cobranding Tokopedia Card - Syarat Pem
 
 Persyaratan Dokumen :
 1. KTP
-2. Selfie"
+2. Selfie",PD-0000057,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Pemerintah - Kartu Kredit Indonesia - Syarat Pembukaan,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Pemerintah,Kartu Kredit Indonesia,Syarat Pembukaan,"Ketentuan Satker APBN :
 1. Peraturan Menteri Keuangan Republik Indonesia Nomor 196/PMK.05.2018 tanggal 31 Desember 2018 perihal Tata Cara Pembayaran dan Penggunaan Kartu Kredit Pemerintah, beserta perubahannya.
 2. Peraturan Direktur Jenderal Perbendaharaan Nomor PER-12/PB/2022 perihal Tata Cara Pembayaran Atas Beban Anggaran Pendapatan dan Belanja Negara Dengan Menggunakan Kartu Kredit Pemerintah Domestik
 
 Ketentuan Satker APBD :
-1. Peraturan Menteri Dalam Negeri Republik Indonesia Nomor 79 Tahun 2022 tanggal 28 April 2022 tentang Petunjuk Teknis Penggunaan Kartu Kredit Pemerintah Daerah Dalam Melaksanakan Anggaran Pendapatan dan Belanja Daerah"
+1. Peraturan Menteri Dalam Negeri Republik Indonesia Nomor 79 Tahun 2022 tanggal 28 April 2022 tentang Petunjuk Teknis Penggunaan Kartu Kredit Pemerintah Daerah Dalam Melaksanakan Anggaran Pendapatan dan Belanja Daerah",PD-0000058,No Call Type,Product,Product
 Pinjaman - KMK - KMK - Fitur,2024-03-27 15:49:54,Pinjaman,KMK,KMK,Fitur,"1. Memberikan kelonggaran dan kemudahan penggunaan arus kas perusahaan;
 2. Penarikan dapat dilakukan setiap saat dengan menggunakan Bilyet Giro (BG) dan/atau Surat Instruksi Nasabah;
 3. Collateral coverage yang fleksibel; dan
-4. Limit kredit yang belum ditarik tidak dikenakan bunga"
-Pinjaman - KPP - KPP TKI - Definisi,2024-03-27 15:49:54,Pinjaman,KPP,KPP TKI,Definisi,"Kredit Modal Kerja dan atau Kredit Investasi dengan batas atas kredit hingga Rp 500 juta diberikan kepada usaha mikro, usaha kecil dan koperasi dengan bisnis produktif yang akan mendapat jaminan dari Perusahaan Penjamin."
+4. Limit kredit yang belum ditarik tidak dikenakan bunga",PD-0000059,No Call Type,Product,Product
+Pinjaman - KPP - KPP TKI - Definisi,2024-03-27 15:49:54,Pinjaman,KPP,KPP TKI,Definisi,"Kredit Modal Kerja dan atau Kredit Investasi dengan batas atas kredit hingga Rp 500 juta diberikan kepada usaha mikro, usaha kecil dan koperasi dengan bisnis produktif yang akan mendapat jaminan dari Perusahaan Penjamin.",PD-0000060,No Call Type,Product,Product
 Pinjaman - Briguna - Briguna - Fitur,2024-03-27 15:49:54,Pinjaman,Briguna,Briguna,Fitur,"1. Jangka waktu kredit panjang
 2. Proses cepat dan mudah
-3. Suku bunga kompetitif"
+3. Suku bunga kompetitif",PD-0000061,No Call Type,Product,Product
 Pinjaman - KI - KI - Syarat Pembukaan,2024-03-27 15:49:54,Pinjaman,KI,KI,Syarat Pembukaan,"Syarat dan Ketentuan Umum :
 1. Calon Debitur merupakan perorangan atau perusahaan berbadan hukum di wilayah Indonesia
 2. Konstruksi bangunan berdiri di atas tanah milik nasabah
@@ -551,7 +551,7 @@ Dokumen Persyaratan :
 2. Laporan keuangan minimal 2 tahun terakhir (audited/ in-house) sesuai peraturan yang berlaku
 3. Copy rekening koran/ rekening simpanan minimal 6 bulan terakhir
 4. Rencana Anggaran Biaya (RAB) yang memuat Total Project Cost dan Cash Flow Proyek
-5. Dokumen lainnya yang dipersyaratkan oleh Bank"
+5. Dokumen lainnya yang dipersyaratkan oleh Bank",PD-0000062,No Call Type,Product,Product
 E-Channel - BRIZZI - BRIZZI - Syarat Pembukaan,2024-03-27 15:49:54,E-Channel,BRIZZI,BRIZZI,Syarat Pembukaan,"Ketentuan Umum
 1. BRIZZI menggunakan satuan hitung rupiah dan hanya digunakan di Indonesia.
 2. BRIZZI bukan merupakan simpanan dan dana yang terdapat di dalamnya tidak diberikan bunga serta tidak dijamin oleh Lembaga Penjamin Simpanan (LPS).
@@ -569,7 +569,7 @@ E-Channel - BRIZZI - BRIZZI - Syarat Pembukaan,2024-03-27 15:49:54,E-Channel,BRI
 14. Perangkat BRIZZI adalah perangkat keras yang digunakan membaca kartu BRIZZI atau bertransaksi dengan kartu BRIZZI, perangkat keras dapat berupa EDC, Ponsel  NFC, ATM dan Reader.
 15. Saldo deposit/tertunda adalah nilai uang elektronik yang tercatat di server BRIZZI.
 16. Top Up Online adalahTop-up untuk menambah nominal saldo pada kartu BRIZZI yang dapat dilakukan di Perangkat BRIZZI.
-17. Top Up Deposit/tertunda adalah menambah saldo deposit pada BRIZZI dapat dilakukan di ATM BRI, EDC BRIZZI, BRImo, dan SMS Banking"
+17. Top Up Deposit/tertunda adalah menambah saldo deposit pada BRIZZI dapat dilakukan di ATM BRI, EDC BRIZZI, BRImo, dan SMS Banking",PD-0000063,No Call Type,Product,Product
 E-Channel - BRIZZI - BRIZZI - Fitur,2024-03-27 15:49:54,E-Channel,BRIZZI,BRIZZI,Fitur,"Top Up Saldo BRIZZI dapat dilakukan dengan cara berikut : 
 
 1. Top Up Online
@@ -584,7 +584,7 @@ Isi Ulang BRIZZI dengan menggunakan uang tunai melalui merchant yang bekerjasama
 TopUp Saldo BRIZZI secara Online atau Tertunda dapat dilakukan melalui : 
 1. BRImo
 2. ATM/CRM BRI
-3. Mesin EDC BRI"
+3. Mesin EDC BRI",PD-0000064,No Call Type,Product,Product
 E-Channel - Senyum Mobile - Senyum Mobile - Syarat Pembukaan,2024-03-27 15:49:54,E-Channel,Senyum Mobile,Senyum Mobile,Syarat Pembukaan,"Tabungan Simpedes UMI
 - Nasabah SenyuM Mobile dapat mengakses produk Pinjaman BRI dengan mengakses fitur ""Beranda”. Sebelumnya Nasabah diwajibkan untuk login terlebih dahulu ke dalam akun SenyuM Mobile.
 - Telah melakukan usaha secara aktif minimal 6 bulan (pinjaman KUR) dan minimal 1 tahun (pinjaman Kupedes)
@@ -609,18 +609,18 @@ PNM Mekaar
 - Usia 18-63 tahun pada saat pertama kali menerima pembiayaan.
 - Pembiayaan PNM Mekaar diwajibkan untuk usaha produktif
 - Nasabah bukan pegawai/pekerja
-Pembiayaan PNM Mekaar tidak mensyaratkan agunan fisik"
-Simpanan - Giro - Giro BRI Rupiah - Biaya,2024-06-14 08:28:11,Simpanan,Giro,Giro BRI Rupiah,Biaya,"[{""name"":""Biaya Administrasi Bulanan"",""table_data"":[[{""key"":""0-0"",""value"":""Ratas Saldo"",""row_span"":1,""col_span"":1},{""key"":""0-1"",""value"":""Biaya"",""row_span"":1,""col_span"":1}],[{""key"":""1-0"",""value"":""Ratas saldo ≥ Rp. 10 juta"",""row_span"":1,""col_span"":1},{""key"":""1-1"",""value"":""Gratis"",""row_span"":1,""col_span"":1}],[{""key"":""2-0"",""value"":""Ratas saldo < Rp 10 juta"",""row_span"":1,""col_span"":1},{""key"":""2-1"",""value"":""Rp. 35.000,- (Rp 25.000 administrasi + Rp 10.000  materai)"",""row_span"":1,""col_span"":1}],[{""key"":""3-0"",""value"":""Ratas saldo < Rp 500 ribu"",""row_span"":1,""col_span"":1},{""key"":""3-1"",""value"":""Rp. 60.000 (Rp 25.000 administrasi + Rp 10.000  materai + Rp 25.000 pinalti / denda)"",""row_span"":1,""col_span"":1}]]}]"
+Pembiayaan PNM Mekaar tidak mensyaratkan agunan fisik",PD-0000065,No Call Type,Product,Product
+Simpanan - Giro - Giro BRI Rupiah - Biaya,2024-06-14 08:28:11,Simpanan,Giro,Giro BRI Rupiah,Biaya,"[{""name"":""Biaya Administrasi Bulanan"",""table_data"":[[{""key"":""0-0"",""value"":""Ratas Saldo"",""row_span"":1,""col_span"":1},{""key"":""0-1"",""value"":""Biaya"",""row_span"":1,""col_span"":1}],[{""key"":""1-0"",""value"":""Ratas saldo ≥ Rp. 10 juta"",""row_span"":1,""col_span"":1},{""key"":""1-1"",""value"":""Gratis"",""row_span"":1,""col_span"":1}],[{""key"":""2-0"",""value"":""Ratas saldo < Rp 10 juta"",""row_span"":1,""col_span"":1},{""key"":""2-1"",""value"":""Rp. 35.000,- (Rp 25.000 administrasi + Rp 10.000  materai)"",""row_span"":1,""col_span"":1}],[{""key"":""3-0"",""value"":""Ratas saldo < Rp 500 ribu"",""row_span"":1,""col_span"":1},{""key"":""3-1"",""value"":""Rp. 60.000 (Rp 25.000 administrasi + Rp 10.000  materai + Rp 25.000 pinalti / denda)"",""row_span"":1,""col_span"":1}]]}]",PD-0000066,No Call Type,Product,Product
 E-Channel - Qlola - QLola Mobile - Syarat Pembukaan,2024-06-14 08:54:07,E-Channel,Qlola,QLola Mobile,Syarat Pembukaan,"- Calon pengguna adalah Nasabah Non Individu Role Checker, Approver & Releaser
 - Dapat diunduh melalui Google Play Store & App Store 
 - Merupakan complimentary service dari website QLola by BRI 
 - User management yang berlaku di aplikasi QLola Mobile, mengacu pada User Management yang telah diatur pada QLola versi web platform.
 - QLola Mobile dapat mengidentifikasi user berdasarkan paltform QCash atau IBBIZ
 
-Saat ini QLola by BRI terintegrasi dengan dua jenis platform yaitu QCash dan IBBIZ dimana masing-masing memiliki target Corp id"
+Saat ini QLola by BRI terintegrasi dengan dua jenis platform yaitu QCash dan IBBIZ dimana masing-masing memiliki target Corp id",PD-0000067,No Call Type,Product,Product
 Simpanan - Tabungan - Simpedes Usaha - Fitur,2024-03-27 15:49:54,Simpanan,Tabungan,Simpedes Usaha,Fitur,"1. Fasilitas E-Banking
 2. Kartu Debit:Simpedes GPN Premium
-3. Masa dormant: 365 hari"
+3. Masa dormant: 365 hari",PD-0000068,No Call Type,Product,Product
 Simpanan - Tabungan - Simpedes Bisa - Syarat Pencairan & Penutupan,2024-03-27 15:49:54,Simpanan,Tabungan,Simpedes Bisa,Syarat Pencairan & Penutupan,"Ketentuan Pencairan dan Penutupan Impian:
 1. Pencairan sebagian Impian maksimal 50% dari total saldo
 2. Penutupan dipercepat Impian dan seluruh saldo akan otomatis dikreditkan ke  rekening induknya
@@ -631,7 +631,7 @@ Ketentuan pencairan investasi (BRIFINE)
 2. Dapat diajukan melalui seluruh Unit Kerja BRI.
 3. Mengisi formulir penutupan BRIFINE dengan melengkapi dokumen  copy KTP, copy NPWP (jika ada).
 4. Dokumen dikirim ke Divisi Investment Service oleh Unit Kerja
-5. Dana akan dikreditkan ke rek induk nasabah max 14 hari kerja.  Dana yang diterima adalah seluruh hasil pengembangan dikurangi  biaya-biaya dan pajak (nett)."
+5. Dana akan dikreditkan ke rek induk nasabah max 14 hari kerja.  Dana yang diterima adalah seluruh hasil pengembangan dikurangi  biaya-biaya dan pajak (nett).",PD-0000069,No Call Type,Product,Product
 Simpanan - Tabungan - Britama Bisnis - Biaya,2024-03-27 15:49:54,Simpanan,Tabungan,Britama Bisnis,Biaya,"1. Biaya administrasi bulanan kartu
 Saldo ≤ Rp 5 Juta : Rp50.000
 Saldo > Rp 5 Juta : Gratis
@@ -639,20 +639,20 @@ Saldo > Rp 5 Juta : Gratis
 3. Administrasi Penarikan Di Teller: ≤ Rp 5.000.000 dikenakan Rp10.000
 4. Biaya tutup rekening: Rp.50.000
 5. Biaya Penggantian Buku Tabungan Karena Penuh: Gratis
-6. Biaya Penggantian Buku Karena Rusak: Rp25.000"
+6. Biaya Penggantian Buku Karena Rusak: Rp25.000",PD-0000070,No Call Type,Product,Product
 Simpanan - Tabungan - Britama X - Limit,2024-03-27 15:49:54,Simpanan,Tabungan,Britama X,Limit,"1. Transaksi Tarik tunai Rp10.000.000,-
 2. Transfer Antar Bank
 a. ATM Rp15.000.000,-
 b. BRImo Rp25.000.000,-
 3. Transfer sesama Bank
 a. ATM Rp100.000.000,-
-b. BRImo Rp200.000.000,-"
-Simpanan - Deposito - Deposito On Call Valas - Bunga,2024-03-27 15:49:54,Simpanan,Deposito,Deposito On Call Valas,Bunga,1. Pembayaran bunga akan dilakukan secara otomatis setiap tanggal jatuh tempo melalui mekanisme overbooking ke rekening (Tabunan/Giro) yang didaftarkan atau ditambahbukukan ke pokok Deposito pada tanggal jatuh pokok.
+b. BRImo Rp200.000.000,-",PD-0000071,No Call Type,Product,Product
+Simpanan - Deposito - Deposito On Call Valas - Bunga,2024-03-27 15:49:54,Simpanan,Deposito,Deposito On Call Valas,Bunga,1. Pembayaran bunga akan dilakukan secara otomatis setiap tanggal jatuh tempo melalui mekanisme overbooking ke rekening (Tabunan/Giro) yang didaftarkan atau ditambahbukukan ke pokok Deposito pada tanggal jatuh pokok.,PD-0000072,No Call Type,Product,Product
 Simpanan - Deposito - Deposito On Call Valas - Syarat Pencairan & Penutupan,2024-03-27 15:49:54,Simpanan,Deposito,Deposito On Call Valas,Syarat Pencairan & Penutupan,"1. Pencairan Deposit On Call tidak dipungut biaya administrasi, hanya dikenakan biaya materal
 2. Tidak diperkenankan untuk dicairkan sebelum jatuh tempo. Jika dicairkan sebelum jatuh tempo, maka bunga berjalan tidak dibayarkan
-3. Pencairan hanya dapat dilakukan di KCK/KC/KCP/KK asal tempat membuka rekening"
-Simpanan - Prioritas - Prioritas - Definisi,2024-03-27 15:49:54,Simpanan,Prioritas,Prioritas,Definisi,"BRI Prioritas adalah layanan eksklusif untuk Nasabah Prioritas yang tidak hanya menghadirkan layanan perbankan, tetapi juga menghadirkan layanan konsultasi perencanaan keuangan yang terintegrasi memberikan solusi bagi nasabah dalam mengembangkan, memproteksi, dan meneruskan kekayaan. (Wealth Management Experience)."
-Investasi - Investasi - Britama Rencana - Definisi,2024-03-27 15:49:54,Investasi,Investasi,Britama Rencana,Definisi,"Tabungan investasi yang memberikan kebebasan perencanaan dana, perlindungan, dan kepastian untuk berbagai kebutuhan  seperti dana liburan, pendidikan, perjalanan ibadah, pernikahan, hingga dana pensiun."
+3. Pencairan hanya dapat dilakukan di KCK/KC/KCP/KK asal tempat membuka rekening",PD-0000073,No Call Type,Product,Product
+Simpanan - Prioritas - Prioritas - Definisi,2024-03-27 15:49:54,Simpanan,Prioritas,Prioritas,Definisi,"BRI Prioritas adalah layanan eksklusif untuk Nasabah Prioritas yang tidak hanya menghadirkan layanan perbankan, tetapi juga menghadirkan layanan konsultasi perencanaan keuangan yang terintegrasi memberikan solusi bagi nasabah dalam mengembangkan, memproteksi, dan meneruskan kekayaan. (Wealth Management Experience).",PD-0000074,No Call Type,Product,Product
+Investasi - Investasi - Britama Rencana - Definisi,2024-03-27 15:49:54,Investasi,Investasi,Britama Rencana,Definisi,"Tabungan investasi yang memberikan kebebasan perencanaan dana, perlindungan, dan kepastian untuk berbagai kebutuhan  seperti dana liburan, pendidikan, perjalanan ibadah, pernikahan, hingga dana pensiun.",PD-0000075,No Call Type,Product,Product
 Investasi - Investasi - Junio Rencana - Syarat Pembukaan,2024-03-27 15:49:54,Investasi,Investasi,Junio Rencana,Syarat Pembukaan,"Usia Nasabah 0 s.d 12 Tahun
 1. Orang tua memiliki rekening Tabungan BRI BritAma/Simpedes. Bagi orang tua yang belum memiliki rekening di BRI dapat melakukan pembukaan rekening Tabungan BRI
 Mengisi form aplikasi pembukaan rekening
@@ -666,8 +666,8 @@ Mengisi form aplikasi pembukaan rekening
 Identitas Diri
 WNI : Kartu Pelajar
 Setoran awal sebesar Rp. 150.000,-
-Pembukaan Rekening dengan Kartu Pelajar dilengkapi dengan Fotokopi KTP Orang Tua dan Surat Pernyataan dari Orang Tua"
-Investasi - Investasi - Simpedes Impian - Definisi,2024-03-27 15:49:54,Investasi,Investasi,Simpedes Impian,Definisi,"BRI Simpedes Impian merupakan konsep tabungan berjangka yang bebas dari biaya administrasi. Setoran awalnya minimal Rp100.000 dengan kelipatan Rp100.000. Untuk jangka waktu tabungan Simpedes Impian, yaitu selama 1-10 tahun."
+Pembukaan Rekening dengan Kartu Pelajar dilengkapi dengan Fotokopi KTP Orang Tua dan Surat Pernyataan dari Orang Tua",PD-0000076,No Call Type,Product,Product
+Investasi - Investasi - Simpedes Impian - Definisi,2024-03-27 15:49:54,Investasi,Investasi,Simpedes Impian,Definisi,"BRI Simpedes Impian merupakan konsep tabungan berjangka yang bebas dari biaya administrasi. Setoran awalnya minimal Rp100.000 dengan kelipatan Rp100.000. Untuk jangka waktu tabungan Simpedes Impian, yaitu selama 1-10 tahun.",PD-0000077,No Call Type,Product,Product
 Investasi - Investasi - Sukuk (SR) - Syarat Pembukaan,2024-03-27 15:49:54,Investasi,Investasi,Sukuk (SR),Syarat Pembukaan,"SYARAT & KETENTUAN :
 Individu / perorangan yang dibuktikan dengan KTP yang ber-NIK
 Pemesanan minimum Rp 1.000.000,- dan kelipatannya, 
@@ -676,8 +676,8 @@ Memiliki rekening Tabungan BRI BritAma/Simpedes/GiroBRI
 atas nama calon investor
 Mengisi Formulir Pemesanan.
 (ketentuan minimum @ maksimum pembelian sesuai dengan 
-ketentuan dari Kemenkeu)"
-Investasi - Investasi - Sukuk Tabungan - Definisi,2024-03-27 15:49:54,Investasi,Investasi,Sukuk Tabungan,Definisi,SBSN Tabungan yang selanjutnya disebut Sukuk Tabungan adalah SBSN yang  merupakan tabungan investasi orang perseorangan Warga negara Indonesia yang  ditawarkan dalam mata uang Rupiah melalui Agen Penjual yang diterbitkan tanpa  warkat dan tidak dapat diperdagangkan dan dialihkan.
+ketentuan dari Kemenkeu)",PD-0000078,No Call Type,Product,Product
+Investasi - Investasi - Sukuk Tabungan - Definisi,2024-03-27 15:49:54,Investasi,Investasi,Sukuk Tabungan,Definisi,SBSN Tabungan yang selanjutnya disebut Sukuk Tabungan adalah SBSN yang  merupakan tabungan investasi orang perseorangan Warga negara Indonesia yang  ditawarkan dalam mata uang Rupiah melalui Agen Penjual yang diterbitkan tanpa  warkat dan tidak dapat diperdagangkan dan dialihkan.,PD-0000079,No Call Type,Product,Product
 Bancassurance - Bancassurance - Davestera Optima - Syarat Pembukaan,2024-03-27 15:49:54,Bancassurance,Bancassurance,Davestera Optima,Syarat Pembukaan,"Usia masuk :
 tertanggung 1-65 tahun
 
@@ -700,21 +700,21 @@ Tunggal/sekaligus (sekali bayar)
 
 Asuransi tambahan :
 Berjangka waktu lebih dari 1 (satu) tahun yang syarat dan kondisi polisnya dapat diperbaharui kembali (renewable) pada setiap ulang tahun polis, atau 
-sampai dengan tertanggung telah mencapai batas usia tertentu sesuai ketentuan masing-masing asuransi tambahan."
+sampai dengan tertanggung telah mencapai batas usia tertentu sesuai ketentuan masing-masing asuransi tambahan.",PD-0000080,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Umum - Easy Card - Limit,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Umum,Easy Card,Limit,"1. Limit Kartu Kredit: Rp3.000.000 - Rp4.999.999
-2. Maximum Cash Advance: 60% dari sisa limit atau maksimal Rp10.000.000 per hari"
+2. Maximum Cash Advance: 60% dari sisa limit atau maksimal Rp10.000.000 per hari",PD-0000081,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Umum - Touch - Bunga,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Umum,Touch,Bunga,"1. Bunga Transaksi Ritel: 1,75% per bulan (menyesuaikan ketentuan Bank Indonesia)
-2. Bunga Pengambilan Tunai: 1,75% per bulan (menyesuaikan ketentuan Bank Indonesia)"
+2. Bunga Pengambilan Tunai: 1,75% per bulan (menyesuaikan ketentuan Bank Indonesia)",PD-0000082,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Co-Branding - Cobranding Wonderful Indonesia - Syarat Pencairan & Penutupan,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Cobranding Wonderful Indonesia,Syarat Pencairan & Penutupan,"1. Tidak terdaftar asuransi 
 2. Tidak terdaftar autopayment 
 3. Tidak ada tagihan berjalan 
-4. Tagihan Rp0"
-Kartu Kredit - Kartu Kredit Co-Branding - Cobranding Raya - Definisi,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Cobranding Raya,Definisi,"Kartu Kredit yang diterbitkan oleh BRI bersinergi dengan anak perusahaan Bank Raya. Kartu ini hanya dipasarkan kepada nasabah simpanan dan pinjaman, serta karyawan Bank Raya"
+4. Tagihan Rp0",PD-0000083,No Call Type,Product,Product
+Kartu Kredit - Kartu Kredit Co-Branding - Cobranding Raya - Definisi,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Cobranding Raya,Definisi,"Kartu Kredit yang diterbitkan oleh BRI bersinergi dengan anak perusahaan Bank Raya. Kartu ini hanya dipasarkan kepada nasabah simpanan dan pinjaman, serta karyawan Bank Raya",PD-0000084,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Co-Branding - Cobranding Raya - Fitur,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Cobranding Raya,Fitur,"1. Gratis Annual Fee 1 tahun pertama
 2. Cicilan 0% tenor s.d. 24 bulan untuk transaksi di merchant Kerjasama atau melalui aplikasi BRI Credit Card Mobile
-3. Promo menarik di merchant pilihan kerjasama Bank BRI (Info kartu kredit.bri.co.id)"
+3. Promo menarik di merchant pilihan kerjasama Bank BRI (Info kartu kredit.bri.co.id)",PD-0000085,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Co-Branding - Cobranding BTN Gold - Limit,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Cobranding BTN Gold,Limit,"1. Limit Kartu Kredit: Rp 3.000.000 – Rp 14.999.999
-2. Maximum Cash Advance: 60% dari sisa limit atau maksimal Rp10.000.000 per hari"
+2. Maximum Cash Advance: 60% dari sisa limit atau maksimal Rp10.000.000 per hari",PD-0000086,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Co-Branding - Cobranding BTN Gold - Biaya,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Cobranding BTN Gold,Biaya,"1. Annual Fee
 a. Annual Fee Basic: Rp300.000
 b. Annual Fee Supplement: Rp150.000
@@ -739,15 +739,15 @@ b. Rekening BRI: Rp25.000
 c. Non BRI: Rp50.000
 18. Min. Pembayaran 5% dari tagihan atau Rp50.000, khusus transaksi cicilan, minimal pembayaran sebesar tagihan cicilan per bulan
 19. Biaya Admin Transaksi Internasional 2% dari transaksi yang ditagihkan
-20. Jatuh tempo 17 hari sejak tanggal cetak tagih"
+20. Jatuh tempo 17 hari sejak tanggal cetak tagih",PD-0000087,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Co-Branding - Cobranding Kartu Emas Pengadaian - Fitur,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Cobranding Kartu Emas Pengadaian,Fitur,"1. One stop solution in apps
 2. Limit kartu kredit disesuaikan dengan saldo Tabungan Emas
 3. Tagihan kartu kredit akan dikonversikan menjadi saldo Gadai Tabungan Emas pada saat jatuh tempo dengan Bunga 0,75%
-per 15 hari."
+per 15 hari.",PD-0000088,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Co-Branding - Mastercard Corporate KKP - Bunga,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Co-Branding,Mastercard Corporate KKP,Bunga,"1. Bunga Transaksi Ritel: Gratis 
-2. Bunga Pengambilan Tunai: Tidak ada fitur tarik tunai"
+2. Bunga Pengambilan Tunai: Tidak ada fitur tarik tunai",PD-0000089,No Call Type,Product,Product
 Kartu Kredit - Kartu Kredit Pemerintah - Kartu Kredit Indonesia - Bunga,2024-03-27 15:49:54,Kartu Kredit,Kartu Kredit Pemerintah,Kartu Kredit Indonesia,Bunga,"1. Bunga Transaksi Ritel: Gratis 
-2. Bunga Pengambilan Tunai: Tidak ada fitur tarik tunai"
+2. Bunga Pengambilan Tunai: Tidak ada fitur tarik tunai",PD-0000090,No Call Type,Product,Product
 Pinjaman - KPP - KPP - Syarat Pembukaan,2024-03-27 15:49:54,Pinjaman,KPP,KPP,Syarat Pembukaan,"Nilai dan Jangka Waktu Pinjaman
 1. Plafond kredit maksimal Rp 5 miliar
 2. Jangka waktu kredit disesuaikan dengan profil nasabah, maksimal 25 tahun
@@ -774,20 +774,20 @@ c. Telah menjalankan praktik profesi minimal 6 bulan
 Wiraswasta / Pengusaha
 a. Telah menjalankan usaha minimal 2 tahun
 b. Copy Izin Usaha (SITU, SIUP, TDP)
-c. Copy Akta Pendirian Perusahaan beserta perubahannya"
-Pinjaman - KI - KI - Bunga,2024-03-27 15:49:54,Pinjaman,KI,KI,Bunga,Besarnya suku bunga mengacu pada keputusan ALCO atau suku bunga program khusus yang berlaku.
+c. Copy Akta Pendirian Perusahaan beserta perubahannya",PD-0000091,No Call Type,Product,Product
+Pinjaman - KI - KI - Bunga,2024-03-27 15:49:54,Pinjaman,KI,KI,Bunga,Besarnya suku bunga mengacu pada keputusan ALCO atau suku bunga program khusus yang berlaku.,PD-0000092,No Call Type,Product,Product
 E-Channel - Direct Debit - Direct Debit - Fitur,2024-03-27 15:49:54,E-Channel,Direct Debit,Direct Debit,Fitur,"1. Pengguna Potensial >30 juta (financial mobile banking)
 2. Mendukung Transaksi Kartu Debit GPN dan Mastercard GPN : MC = 70% : 30%
 3. Mendukung beragam model pembayaran Recurring Transaction – Refund
-4. Real Time Settlement"
-E-Channel - BRIZZI - BRIZZI - Definisi,2024-03-27 15:49:54,E-Channel,BRIZZI,BRIZZI,Definisi,BRIZZI merupakan Uang elektronik dengan menggunakan teknologi Chip sebagai pengganti uang tunai yang berfungsi sebagai alat pembayaran yang bisa dipakai untuk membayar transaksi belanja (purchase) atau transaksi lainnya yang dilakukan di penyedia barang atau jasa
+4. Real Time Settlement",PD-0000093,No Call Type,Product,Product
+E-Channel - BRIZZI - BRIZZI - Definisi,2024-03-27 15:49:54,E-Channel,BRIZZI,BRIZZI,Definisi,BRIZZI merupakan Uang elektronik dengan menggunakan teknologi Chip sebagai pengganti uang tunai yang berfungsi sebagai alat pembayaran yang bisa dipakai untuk membayar transaksi belanja (purchase) atau transaksi lainnya yang dilakukan di penyedia barang atau jasa,PD-0000094,No Call Type,Product,Product
 E-Channel - Senyum Mobile - Senyum Mobile - Fitur,2024-03-27 15:49:54,E-Channel,Senyum Mobile,Senyum Mobile,Fitur,"1. Pengajuan Produk Simpedes UMi
 2. Pengajuan Produk Tabungan Emas
 3. Pengajuan Produk Pinjaman BRI
 4. Pengajuan Produk Pinjaman Gadai
-5. Pengajuan Produk PNM Mekaar"
-E-Channel - EDC Merchant - EDC Merchant - Definisi,2024-03-27 15:49:54,E-Channel,EDC Merchant,EDC Merchant,Definisi,"Mesin EDC BRI atau Electronic Data Center adalah mesin yang digunakan untuk menerima transaksi pembayaran dengan beragam jenis kartu. Contohnya seperti Kartu Debit, Kartu Kredit, BRIZZI hingga pembayaran menggunakan QRIS. Mesin ini umumnya tersedia di supermarket, kafe, mal, restoran, dan sebagainya."
-E-Channel - QRIS - QRIS - Definisi,2024-03-27 15:49:54,E-Channel,QRIS,QRIS,Definisi,"QRIS atau Quick Response Code Indonesian Standard adalah standarisasi pembayaran menggunakan metode QR Code dari Bank Indonesia agar proses transaksi dengan QR Code menjadi lebih mudah, cepat, dan terjaga keamanannya."
+5. Pengajuan Produk PNM Mekaar",PD-0000095,No Call Type,Product,Product
+E-Channel - EDC Merchant - EDC Merchant - Definisi,2024-03-27 15:49:54,E-Channel,EDC Merchant,EDC Merchant,Definisi,"Mesin EDC BRI atau Electronic Data Center adalah mesin yang digunakan untuk menerima transaksi pembayaran dengan beragam jenis kartu. Contohnya seperti Kartu Debit, Kartu Kredit, BRIZZI hingga pembayaran menggunakan QRIS. Mesin ini umumnya tersedia di supermarket, kafe, mal, restoran, dan sebagainya.",PD-0000096,No Call Type,Product,Product
+E-Channel - QRIS - QRIS - Definisi,2024-03-27 15:49:54,E-Channel,QRIS,QRIS,Definisi,"QRIS atau Quick Response Code Indonesian Standard adalah standarisasi pembayaran menggunakan metode QR Code dari Bank Indonesia agar proses transaksi dengan QR Code menjadi lebih mudah, cepat, dan terjaga keamanannya.",PD-0000097,No Call Type,Product,Product
 E-Channel - Aplikasi BRI Merchant - Aplikasi BRI Merchant - Syarat Pembukaan,2024-03-27 15:49:54,E-Channel,Aplikasi BRI Merchant,Aplikasi BRI Merchant,Syarat Pembukaan,"Form yang harus ditandatangani : 
 1. Aplikasi Merchant
 2. PKS 
@@ -797,11 +797,11 @@ Legalitas dokumen :
 1. KTP
 2. NPWP
 3. SIUP/TDP/SITU/Surat Keterangan Usaha (Hanya untuk merchant yang tidak memiliki EDC Himbara atau BCA )
-4. Khusus Untuk Distributor yang telah menjadi debitur BRI cukup menandatangani Aplikasi Merchant dan Formulir Debitur"
+4. Khusus Untuk Distributor yang telah menjadi debitur BRI cukup menandatangani Aplikasi Merchant dan Formulir Debitur",PD-0000098,No Call Type,Product,Product
 E-Channel - Qlola - Qlola - Definisi,2024-06-14 04:40:48,E-Channel,Qlola,Qlola,Definisi,"QLola BRI merupakan inovasi berupa Integrated Corporate Solution Platform yang memudahkan Nasabah dalam melakukan akses ke berbagai produk dan layanan BRI dengan hanya satu kali login (Single Sign On).
 Qlola merupakan Platform yang mengintegrasikan beberapa Platform existing sebelumnya yg dimiliki BRI yaitu terdapat 2 Platform utama pada QLola sebagai pintu gerbang untuk dapat mengakses QLola (nasabah bisa mengakses QLola dengan syarat memiliki salah satu dari 2 Platform), yaitu Cash Management/CMS/BRICAms
-dan IBBIZ (Internet Banking Bisnis)."
+dan IBBIZ (Internet Banking Bisnis).",PD-0000099,No Call Type,Product,Product
 Simpanan - Tabungan - Simpedes Usaha - Syarat Pembukaan,2024-03-27 15:49:54,Simpanan,Tabungan,Simpedes Usaha,Syarat Pembukaan,"1. Minimal setoran awal
 Perorangan: Rp1.000.000
 Non perorangan: Rp5.000.000
-2. Saldo minimal setelah penarikan: Rp100.000"
+2. Saldo minimal setelah penarikan: Rp100.000",PD-0000100,No Call Type,Product,Product
