@@ -1,5 +1,5 @@
-modified_time,nama_program,deskripsi,benefit,syarat_dan_ketentuan,start,end
-2024-03-27 15:38:27,KREDIT USAHA RAKYAT (KUR) 2024,KUR merupakan pembiayaan kepada individu dan/atau kelompok usaha yang PRODUKTIF dan LAYAK namun belum memiliki agunan tambahan atau agunan tambahan belum cukup (unbankable).,,"1. Memiliki usaha yang LAYAK namun AGUNAN TAMBAHAN BELUM MENCUKUPI                 
+title,modified_time,nama_program,deskripsi,benefit,syarat_dan_ketentuan,start,end
+KREDIT USAHA RAKYAT (KUR) 2024,2024-03-27 15:38:27,KREDIT USAHA RAKYAT (KUR) 2024,KUR merupakan pembiayaan kepada individu dan/atau kelompok usaha yang PRODUKTIF dan LAYAK namun belum memiliki agunan tambahan atau agunan tambahan belum cukup (unbankable).,,"1. Memiliki usaha yang LAYAK namun AGUNAN TAMBAHAN BELUM MENCUKUPI                 
 2. Bertujuan untuk menambah MODAL KERJA atau INVESTASI (misal: menambah alat produksi, perluasan usaha)
 3. Calon debitur KUR BRI adalah DEBITUR KUR BRI (EXISTING) ATAU Calon debitur BELUM PERNAH MENERIMA KREDIT/PEMBIAYAAN SELAIN KPR, KKB (Kredit atau leasing kendaraan bermotor roda dua untuk tujuan produktif), Kredit dengan jaminan SK Pensiun, Kartu Kredit , Resi Gudang dengan kolektibilitas Lancar, Kredit konsumsi untuk keperluan rumah tangga dari bank maupun Lembaga Keuangan non-bank sesuai dengan definisi pada peraturan perundang-undangan.
 4. Sektor usaha yang dibiayai: PERTANIAN, PERIKANAN, INDUSTRI PENGOLAHAN, KONSTRUKSI, PERTAMBANGAN GARAM RAKYAT, PARIWISATA, JASA, & PERDAGANGAN
@@ -12,7 +12,7 @@ a. KUR Super Mikro tidak dibatasi akumulasi plafond dan jumlah akad
 b. KUR Mikro Sektor Produksi 4P (Pertanian, Perikanan, Peternakan, Perkebunan) maksimal 4 kali
 c. KUR Mikro Selain Sektor Produksi 4P (Pertanian, Perikanan, Peternakan, Perkebunan) maksimal 2 kali.
 d. Akumulasi Plafond KUR Kecil Rp.500 Juta.",2024-01-01 00:00:00,2024-12-31 00:00:00
-2024-03-27 15:38:27,BRILiaN Bright Scholarship Program (BBSP),Program pendidikan bagi Pekerja Tetap BRI untuk menempuh pendidikan ke Strata Dua (S2) di Luar negeri yang dibiayai oleh Perusahaan.,"1. Tuition fee
+BRILiaN Bright Scholarship Program (BBSP),2024-03-27 15:38:27,BRILiaN Bright Scholarship Program (BBSP),Program pendidikan bagi Pekerja Tetap BRI untuk menempuh pendidikan ke Strata Dua (S2) di Luar negeri yang dibiayai oleh Perusahaan.,"1. Tuition fee
 Berupa tunjangan pembiayaan semesteran selama aktif menjadi mahasiswa
 2. Living Allowance
 Berupa pemberian uang saku bulanan untuk masing masing penerima beasiswa
@@ -38,13 +38,13 @@ Penerima beasiswa bright akan mendapatkan networking ke alumni penrima bright sc
 13. Menyampaikan Motivation Letter, yang berisi tentang motivasi mengikuti program serta komitmen kembali ke Perusahaan dan rencana kontribusi pada Perusahaan setelah pasca studi (Min 300, Max 500 kata).
 14. BBSP dan BBSP Plus, Ikatan Dinas 3N + 1 ( N = Lama Pendidikan), Jika Pekerja mengundurkan diri dalam masa ikatan dinas besar penggantian sesuai dengan besar semua biaya yang telah dikeluarkan perusahaan mulai dari masa persiapan sampai dengan selesai sekolah.
 15. Periode: Melihat kebutuan Perusahaan",,
-2024-03-27 15:38:27,BRILiaN Society Elite Member,"Program pengembangan khusus yang dirancang untuk para Top Talent BRI yang tergabung dalam BRILiaN Society Member (BSM), dalam mempersiapkan diri untuk bertindak pada peran Leader yang lebih kompleks.","Pendidikan BRILiaN Society Elite Program (BSEP) disetarakan dengan pendidikan BRILiaN Leader Development Program (BLDP), sehingga pekerja yang dinyatakan lulus dalam pendidikan BRILiaN Society Elite Program (BSEP) tidak perlu mengikuti pendidikan BRILiaN Leader Development Program (BLDP) yang dipersyaratkan pada Corporate Band pekerja yang bersangkutan.","Persyaratan Peserta BSEP
+BRILiaN Society Elite Member,2024-03-27 15:38:27,BRILiaN Society Elite Member,"Program pengembangan khusus yang dirancang untuk para Top Talent BRI yang tergabung dalam BRILiaN Society Member (BSM), dalam mempersiapkan diri untuk bertindak pada peran Leader yang lebih kompleks.","Pendidikan BRILiaN Society Elite Program (BSEP) disetarakan dengan pendidikan BRILiaN Leader Development Program (BLDP), sehingga pekerja yang dinyatakan lulus dalam pendidikan BRILiaN Society Elite Program (BSEP) tidak perlu mengikuti pendidikan BRILiaN Leader Development Program (BLDP) yang dipersyaratkan pada Corporate Band pekerja yang bersangkutan.","Persyaratan Peserta BSEP
 1. Peserta BRILiaN Society Elite Program (BSEP) adalah BSM Band 1 (dengan Corporate Title setingkat Executive Vice President dan Senior Vice President) dan BSM Band 2 (dengan Corporate Title setingkat Vice President).
 2. Pekerja tidak dalam indikasi kasus",,
-2024-03-27 15:38:27,Program Insentif Merchant,Program insentif bagi merchant BRI tidak aktif dengan pendekatan approaching outbond call divisi SCC.,"Reward : 0,5 % x sales volume atau maks. Rp125.000/bulan","1. Kriteria Merchant : Merchant yang tidak aktif bertransaksi menggunakan EDC BRI lebih dari 3 bulan
+Program Insentif Merchant,2024-03-27 15:38:27,Program Insentif Merchant,Program insentif bagi merchant BRI tidak aktif dengan pendekatan approaching outbond call divisi SCC.,"Reward : 0,5 % x sales volume atau maks. Rp125.000/bulan","1. Kriteria Merchant : Merchant yang tidak aktif bertransaksi menggunakan EDC BRI lebih dari 3 bulan
 2. Min. Sales Volume : mencapai minimal Rp15 Juta atau lebih
 3. Reward akan dikreditkan ke rekening merchant pada bulan berikutnya",2024-01-01 00:00:00,2024-03-31 00:00:00
-2024-06-15 00:42:56,BRIguna Pra Purna,"Program BRIguna Pra Purna
+BRIguna Pra Purna,2024-06-15 00:42:56,BRIguna Pra Purna,"Program BRIguna Pra Purna
 Program pemasaran thematic BRIguna dalam rangka meningkatkan portofolio OS dan Debitur Briguna Pra Purna.",Periode Program : 1 April s/d 30 Juni 2024,"1. Kategori Calon Debitur/Debitur, diatur dengan penjelasan sebagai berikut :
 a. ASN
 b. TNI
@@ -61,7 +61,7 @@ b. Biaya Provisi Take Over Suplesi : 0.75% X Plafond
 c. Biaya Administrasi Take Over s/d 200 Juta : Rp. 100.000
 d. Biaya Administrasi >200 s/d 500 Juta : Rp. 200.000
 e. Biaya Administrasi >500 Juta : RP. 300.000",2024-06-15 00:00:00,2024-06-30 00:00:00
-2024-06-15 03:18:37,BRIguna Purna PP BRI,"Program BRIguna Purna PP BRI
+BRIguna Purna PP BRI,2024-06-15 03:18:37,BRIguna Purna PP BRI,"Program BRIguna Purna PP BRI
 Program Briguna Khusus kepada para pensiunan BRI Selindo.",Periode Program : 1 April s/d 31 Desember 2024,"1. Kategori Calon Debitur/Debitur, diatur dengan penjelasan sebagai berikut :
 a. Pensiunan Pegawai BRI (PP BRI)
 
@@ -74,7 +74,7 @@ c. Suku Bunga Kredit 9.00%
 a. Biaya Profisi Take Over/Baru 0.75% x Plafond
 b. Biaya Profisi Suplesi 0.75% x Plafond
 c. Biaya Administrasi All : Free",2024-06-15 00:00:00,2024-12-31 00:00:00
-2024-03-27 15:38:27,BRING,"Belanja banyak dengan Kartu Kredit BRI bayarnya tetap ringan dengan program BRING
+BRING,2024-03-27 15:38:27,BRING,"Belanja banyak dengan Kartu Kredit BRI bayarnya tetap ringan dengan program BRING
 Transaksi online ataupun offline melalui EDC merchant manapun dapat diubah menjadi cicilan
 Lebih ringan bayarnya, lebih nyata manfaatnya","1. Bunga rendah, mulai dari 0% 
 2. Tenor maks. 36 bulan
@@ -96,7 +96,7 @@ Syarat dan Ketentuan Cicilan
 2. Apabila Pemegang Kartu menunggak > 2 bulan berturut-turut, proses installment dapat dibatalkan oleh pihak Bank dan sisa cicilan akan dibebankan secara penuh + bunga cicilan yang belum ditagihkan.
 3. Pelunasan awal oleh Pemegang Kartu dilakukan dengan membayar penuh seluruh sisa nilai pokok cicilan + bunga cicilan yang belum ditagihkan + Biaya Pinalti
 4. Adapun biaya penalty dikenakan sebesar 1% dari sisa nilai pokok cicilan.",2024-02-01 00:00:00,2024-04-30 00:00:00
-2024-03-27 15:38:27,Petugas Agen BRilink,Pekerja (Kontrak) BRI yang mempunyai tugas pokok antara lain melakukan pembinaan dan monitroing kepada Agen Brilink.,,"1. Persyaratan Sumber Internal Petugas Agen BRilink
+Petugas Agen BRilink,2024-03-27 15:38:27,Petugas Agen BRilink,Pekerja (Kontrak) BRI yang mempunyai tugas pokok antara lain melakukan pembinaan dan monitroing kepada Agen Brilink.,,"1. Persyaratan Sumber Internal Petugas Agen BRilink
 a. Bersumber dari Pekerja Kontrak dan Pekerja Outsourcing eksisting kecuali Pekerja Dasar dan Petugas Bansos
 b. Pendidikan minimal D1, diutamakan D3/S1
 c. Rekomendasi Pemimpin Unit Kerja
@@ -112,7 +112,7 @@ g. Memiliki kendaraan pribadi dan SIM C
 h. Tidak terikat dengan perusahaan lain
 i. Mampu mengoperasikan komputer (minimal MS. Word dan Ms. excel)
 j. mampu mengoperasikan sarana komunikasi jarak jauh",,
-2024-03-27 15:38:27,Program penawaran QRIS BRI untuk member Indogrosir,Program penawaran pendaftaran QRIS BRI kepada member merah Indogrosir yang memiliki usaha mikro dan sudah memiliki rekening BRI.,"1. Sebagai alternatif pembayaran
+Program penawaran QRIS BRI untuk member Indogrosir,2024-03-27 15:38:27,Program penawaran QRIS BRI untuk member Indogrosir,Program penawaran pendaftaran QRIS BRI kepada member merah Indogrosir yang memiliki usaha mikro dan sudah memiliki rekening BRI.,"1. Sebagai alternatif pembayaran
 Dengan menggunakan QRIS, Bapak/Ibu dapat meningkatkan kepuasan pelanggan dengan menyediakan alternatif pembayaran yang beragam. 
 Karena QRIS dapat diterima oleh seluruh dompet digital/e-wallet dari berbagai metode pembayaran.
 Dengan menyediakan beberapa alternatif pembayaran, secara otomatis akan naik pula kemungkinan keberhasilan penjualan.
@@ -145,7 +145,7 @@ d. NIB (Nomor Induk Berusaha)
 
 Ket:
 * Mandatory/ Wajib",,
-2024-04-01 07:51:46,BRILiaN Banking Officer Program (BBOP),"BRILiaN Banking Officer Program (BBOP) adalah program perekrutan Pekerja Tetap bagi seluruh Unit Kerja BRI, yang bertujuan untuk memenuhi formasi jabatan dengan Corporate Tittle Assistant (JG03 s.d. JG05).",-,"1. Persyaratan Kandidat BRILiaN Banking Officer Program
+BRILiaN Banking Officer Program (BBOP),2024-04-01 07:51:46,BRILiaN Banking Officer Program (BBOP),"BRILiaN Banking Officer Program (BBOP) adalah program perekrutan Pekerja Tetap bagi seluruh Unit Kerja BRI, yang bertujuan untuk memenuhi formasi jabatan dengan Corporate Tittle Assistant (JG03 s.d. JG05).",-,"1. Persyaratan Kandidat BRILiaN Banking Officer Program
 Sumber Eksternal
 a. Untuk Golongan Jabatan JG 3
 - Pendidikan Setara Program D.1 s.d D.4 dari Universitas / Perguruan Tinggi akreditasi diutamakan “A”, dengan IPK min 2,75 (skala 4).
@@ -190,7 +190,7 @@ c. Periode 3 : September - Oktober
 a. Periode 1 : Maret
 b. Periode 2 : Juli
 c. Periode 3 : November",2024-05-01 00:00:00,2024-06-30 00:00:00
-2024-06-15 07:36:36,KPP  Private & Prioritas (1),"Program KPP Nasabah Private dan Prioritas (1)
+KPP  Private & Prioritas (1),2024-06-15 07:36:36,KPP  Private & Prioritas (1),"Program KPP Nasabah Private dan Prioritas (1)
 a. Maksimal kuota realisasi Rp 250 miliar khusus Nasabah Private dan Prioritas dengan tujuan penggunaan:	
 b. Baru (primary) dari Developer PKS BRI
 c. Pembelian Baru Ready Stock Developer Non PKS BRI
@@ -216,7 +216,7 @@ c. Suku Bunga 4.65% fixed 5 tahun, selanjutnya counter rate dengan Tenor min 10 
 4. Biaya Biaya
 a. Item Provisi dengan Biaya 0.5% dari plafond kredit
 b. Item Administrasi dengan Biaya Rp.500.000 atau 0.1% dari plafond kredit.",2024-06-15 00:00:00,2024-07-31 00:00:00
-2024-06-15 07:50:12,KPP Retnsi Take Over Bank Lain,"Program KPP Retensi Take Over Bank Lain
+KPP Retnsi Take Over Bank Lain,2024-06-15 07:50:12,KPP Retnsi Take Over Bank Lain,"Program KPP Retensi Take Over Bank Lain
 Suku bunga yang diberikan khusus kepada debitur yang akan di take over oleh bank lain dengan menawarkan perubahan suku bunga existing yang akan memasuki dan telah memasuki masa floating menjadi suku bunga fixed kembali dengan kriteria riwayat debitur tidak pernah menunggak (riwayat kolek Lancar) serta dapat sekaligus menawarkan top up.",Periode Program : 1 April s/d 31 Juli 2024,"1. Kategori Calon Debitur/Debitur, diatur dengan penjelasan sebagai berikut :	
 a. Fixed Income
 b. Non-Fixed Income
@@ -232,7 +232,7 @@ e. Suku bunga khusus untuk nasabah yang akan di TO oleh bank lain yang telah ata
 a. Suku bunga Retensi 1 SB 5.50% fixed 5 tahun selanjutnya counter rate dan tidak ada Batasan Tenor.
 b. Suku bunga Retensi 2 SB 6% fixed 5 tahun selanjutnya counter rate dan tidak ada Batasan Tenor.
 c. Suku bunga Retensi 3 SB 6.5% fixed 5 tahun selanjutnya counter rate dan tidak ada Batasan Tenor.",2024-06-15 00:00:00,2024-07-31 00:00:00
-2024-06-15 08:14:17,KPP LEBARAN (1) 2024,"Program KPP LEBARAN (1) 2024
+KPP LEBARAN (1) 2024,2024-06-15 08:14:17,KPP LEBARAN (1) 2024,"Program KPP LEBARAN (1) 2024
 Maksimal kuota realisasi Rp 1 Triliun Khusus Tujuan Penggunaan:
 1.	Baru (primary) dari Developer PKS BRI
 2.	Pembelian Baru Ready Stock Non Developer PKS BRI
@@ -255,7 +255,7 @@ d. Suku Bunga 5.65% fixed 5 tahun, selanjutnya counter rate dengan Tenor 10 tahu
 4. Biaya Biaya
 a. Item Provisi dengan Biaya 0.5% dari plafond kredit
 b. Item Administrasi dengan Biaya Min Rp. 500Rb / 0.1% dari plafond kredit",2024-06-15 00:00:00,2024-07-31 00:00:00
-2024-03-27 15:38:27,Pekerja Dasar (Outsourcing),"Pekerja Dasar yang dimaksud yaitu Satpam, Penjaga Malam, Pengemudi, Pramubakti dan Payment Point.",,"1. Persyaratan Pekerja Satpam
+Pekerja Dasar (Outsourcing),2024-03-27 15:38:27,Pekerja Dasar (Outsourcing),"Pekerja Dasar yang dimaksud yaitu Satpam, Penjaga Malam, Pengemudi, Pramubakti dan Payment Point.",,"1. Persyaratan Pekerja Satpam
 a. Warga Negara Indonesia
 b. laki-laki atau Perempuan
 c. Usia : Minimal 20 Tahun dan batas usia dipekerjakan maksimal 45 tahun (belum berulang tahun ke 46).
@@ -329,7 +329,7 @@ k. Dapat bekerjasama dengan Petugas BRI dan pihak terkait dalam menjalankan tuga
 l. Diutamakan berasal dari penduduk setempat
 m. Tidak sedang dalam perkara pidana
 n. Berkelakuan baik dibuktikan dengan Surat Keterangan dari Pihak Kepolisia",,
-2024-03-27 15:38:27,BRILiaN Bright Scholarship Program (BBSP) Plus,Program pendidikan bagi Pekerja Tetap BRI untuk menempuh pendidikan ke Strata Dua (S2) di Luar Negeri yang dibiayai Lembaga di Luar Perusahaan dengan persetujuan Perusahaan.,"1. Tuition fee
+BRILiaN Bright Scholarship Program (BBSP) Plus,2024-03-27 15:38:27,BRILiaN Bright Scholarship Program (BBSP) Plus,Program pendidikan bagi Pekerja Tetap BRI untuk menempuh pendidikan ke Strata Dua (S2) di Luar Negeri yang dibiayai Lembaga di Luar Perusahaan dengan persetujuan Perusahaan.,"1. Tuition fee
 Berupa tunjangan pembiayaan semesteran selama aktif menjadi mahasiswa
 2. Living Allowance
 Berupa pemberian uang saku bulanan untuk masing masing penerima beasiswa
@@ -356,11 +356,11 @@ Penerima beasiswa bright akan mendapatkan networking ke alumni penrima bright sc
 14. Sumber pembiayaan dari lembaga di Luar dan diakui Perusahaan
 15. BBSP dan BBSP Plus, Ikatan Dinas 3N + 1 ( N = Lama Pendidikan), Jika Pekerja mengundurkan diri dalam masa ikatan dinas besar penggantian sesuai dengan besar semua biaya yang telah dikeluarkan perusahaan mulai dari masa persiapan sampai dengan selesai sekolah.
 16. Periode: Melihat kebutuan Perusahaan",,
-2024-03-27 15:38:27,BRILiaN Marketing Specialist Program (BMSP) for RM Priority,Program rekrutmen dan pengembangan yang dirancang untuk siapkan talenta-talenta potensial menjadi Relationship Manager Specialist.,-,"1. Fresh Graduate:
+BRILiaN Marketing Specialist Program (BMSP) for RM Priority,2024-03-27 15:38:27,BRILiaN Marketing Specialist Program (BMSP) for RM Priority,Program rekrutmen dan pengembangan yang dirancang untuk siapkan talenta-talenta potensial menjadi Relationship Manager Specialist.,-,"1. Fresh Graduate:
 a. Pendidikan S.1 dari Universitas/Perguruan Tinggi dengan IPK min 3.00 (skala 4).
 b. Usia maks 25 tahun (belum berulang tahun ke-26 pada saat tanggal 12 Februari 2024).
 c. Memiliki SIM A/C.",,2024-02-11 00:00:00
-2024-06-15 08:20:13,KPP LEBARAN (2) 2024,"Program KPP LEBARAN (2) 2024
+KPP LEBARAN (2) 2024,2024-06-15 08:20:13,KPP LEBARAN (2) 2024,"Program KPP LEBARAN (2) 2024
 Tanpa Kuota Program, khusus untuk tujuan penggunaan:	
 1.	Pembelian Bekas (selain dari properti di dalam lingkungan perumahan developer)
 2.	Pembangunan
@@ -382,7 +382,7 @@ b. Suku Bunga 8.00% fixed 5 tahun, selanjutnya counter rate dengan Tenor 8 tahun
 4. Biaya Biaya
 a. Item Provisi dengan Biaya 0.5% dari plafond kecil
 b. Item Administrasi dengan Biaya Min Rp. 500 Rb / 0.1% dari plafond kredit",2024-06-15 00:00:00,2024-07-31 00:00:00
-2024-03-27 15:38:27,BRILiaN Young Leader,"Program pengembangan bagi BRILiaN muda terpilih yang memberikan kesempatan akselerasi karier dan pengembangan eksklusif agar dapat menguasai kompetensi,pengetahuan, dan keterampilan yang dibutuhkan untuk menjadi Young Leader Indonesia.",Kesempatan akselerasi karier di BRI,"1. Persyaratan BYLI Band 1
+BRILiaN Young Leader,2024-03-27 15:38:27,BRILiaN Young Leader,"Program pengembangan bagi BRILiaN muda terpilih yang memberikan kesempatan akselerasi karier dan pengembangan eksklusif agar dapat menguasai kompetensi,pengetahuan, dan keterampilan yang dibutuhkan untuk menjadi Young Leader Indonesia.",Kesempatan akselerasi karier di BRI,"1. Persyaratan BYLI Band 1
 a. Peserta merupakan 10 (sepuluh) Pekerja terpilih, diutamakan yang termasuk dalam BRILIAN Society Member (BSM) Band 1;
 b. Usia maksimal 39 (tiga puluh sembilan) tahun dan belum berulang tahun ke 40 (empat puluh) pada saat proses pemilihan kandidat;
 c. Memiliki kemampuan bahasa Inggris yang baik, setara nilai TOEFL minimal 500;
@@ -427,7 +427,7 @@ d. Hasil assessment minimal ""Good"";
 e. Memiliki kemampuan bahasa Inggris yang baik, setara nilai TOEFL minimal 500;
 f. Tidak dalam masa hukuman disiplin / indikasi kasus;
 g. Tidak memiliki tunggakan kewajiban.",,
-2024-03-27 15:38:27,BRILiaN Scholarship Program (BSP),Program beasiswa yang diberikan kepada mahasiswa S1 yang sedang menempuh pendidikan pada semester 5-7 perkuliahan. Program Beasiswa Bank BRI – BRILiaN Scholarship (BSP) adalah program pemberian beasiswa penuh sekaligus early recruitment oleh BRI.,"1. Penggantian Biaya Pendidikan / UKT Per Semester
+BRILiaN Scholarship Program (BSP),2024-03-27 15:38:27,BRILiaN Scholarship Program (BSP),Program beasiswa yang diberikan kepada mahasiswa S1 yang sedang menempuh pendidikan pada semester 5-7 perkuliahan. Program Beasiswa Bank BRI – BRILiaN Scholarship (BSP) adalah program pemberian beasiswa penuh sekaligus early recruitment oleh BRI.,"1. Penggantian Biaya Pendidikan / UKT Per Semester
 2. Uang Saku Per Bulan
 3. Fasilitas Laptop (Macbook Air)
 4. Bantuan Biaya Skripsi
@@ -439,7 +439,7 @@ g. Tidak memiliki tunggakan kewajiban.",,
 2. IPK minimal 3,25 dari skala 4,00 dan mampu mempertahankan sampai dengan akhir perkuliahan.
 3. Bersedia menandatangani Surat Perjanjian dengan PT Bank Rakyat Indonesia (Persero) Tbk sebagai peserta BRILiaN Future Leader Program (BFLP) ketika dinyatakan lulus kuliah.
 4. Mengumpulkan Ide Inovasi dengan tema “Financial Services for Generation Z” di tahapan selanjutnya.",,
-2024-06-14 09:06:58,BRIguna Non Payroll,"BRIguna Non Payroll
+BRIguna Non Payroll,2024-06-14 09:06:58,BRIguna Non Payroll,"BRIguna Non Payroll
 Calon Debitur Baru dan Debitiur Suplesi khusus Instansi ASN (PNS Vertikal dan Horizontal), TNI, POLRI dan BUMN Group yang pembayaran payroll (Gaji dan/Tunkin) tidak dibayarkan melalui BRI.",Periode Program : 1 April s/d 30 Juni 2024,"1. Kategori Calon Debitur/Debitur, diatur dengan penjelasan sebagai berikut :
 Calon Debitur Baru & Debitur ASN (PNS Vertikal dan Horizontal) TNI, POLRI dan BUMN Group yang Pembayaran payroll (Gaji dan/Tunkin) tidak dibayarkan Melalui BRI.
 
@@ -462,7 +462,7 @@ b. Biaya Provisi Suplesi : 0.75% x Plafond
 c. Biaya Administrasi Take Over s/d 200 Juta : Rp. 100.000
 d. Biaya Administrasi Take over >200 s/d500 Juta : Rp. 200.000
 e. Biaya Administrasi Take Over >500 Juta : Rp. 300.000",2024-06-14 00:00:00,2024-06-30 00:00:00
-2024-03-27 15:38:27,Program BRIncubator Tahun 2024,"BRIncubator merupakan pelatihan dan kegiatan pengembangan UMKM yang telah lolos kurasi secara fokus, terstruktur, yang disertai dengan pendampingan. Tujuan dari program Brincubator adalah untuk menaik kelaskan
+Program BRIncubator Tahun 2024,2024-03-27 15:38:27,Program BRIncubator Tahun 2024,"BRIncubator merupakan pelatihan dan kegiatan pengembangan UMKM yang telah lolos kurasi secara fokus, terstruktur, yang disertai dengan pendampingan. Tujuan dari program Brincubator adalah untuk menaik kelaskan
 UMKM dari sisi peningkatan kapasitas serta kapabilitas UMKM secara digital dan fokus pada validasi ekspor","a. Peserta akan mendapatkan kurikulum yang dibutuhkan oleh pelaku usaha untuk naik kelas
 b. Peserta program akan mendapatkan reward berupa tabungan usaha
 c.  Akan diutamakan mengikuti program-program baik yang diinisiasi oleh BRI ataupun kolaborasi dengan Kementerian & Lembaga.","1. Pelaku usaha yang memenuhi kriteria dapat melakukan registrasi pada link https://bbri.id/BRIncubator2024 dengan mengisi data diri, profil usaha masing masing, dan penjelasan produk
@@ -480,7 +480,7 @@ i.  Pengusaha Muda BRILian
 j.  Growpreneur
 k.  Bersedia menandatangani surat komitmen untuk mengikuti seluruh rangkaian pelatihan dan pendampingan
 l.  Bersedia menyatakan bahwa seluruh data yang diinput atau yang diberikan merupakan data yang sebenarnya",2024-01-01 00:00:00,2024-12-31 00:00:00
-2024-03-27 15:38:27,BRILiaN Future Leader Program (BFLP),BRILiaN Future Leader Program (BFLP) adalah program perekrutan yang dibuka oleh BRI untuk menjaring kandidat potensial untuk menjadi pemimpin / leader BRI di masa depan.,,"Persyaratan BRILiaN Future Leader Program
+BRILiaN Future Leader Program (BFLP),2024-03-27 15:38:27,BRILiaN Future Leader Program (BFLP),BRILiaN Future Leader Program (BFLP) adalah program perekrutan yang dibuka oleh BRI untuk menjaring kandidat potensial untuk menjadi pemimpin / leader BRI di masa depan.,,"Persyaratan BRILiaN Future Leader Program
 1. Lulusan dari Perguruan Tinggi negeri / swasta dan diutamakan akreditasi A.
 2. Lulusan S1 atau S2 dari Universitas terkemuka dengan Akreditasi A.
 3. IPK minimal 3,00 (untuk lulusan S1) dan IPK minimal 3.25 (untuk lulusan S2).
@@ -492,7 +492,7 @@ l.  Bersedia menyatakan bahwa seluruh data yang diinput atau yang diberikan meru
 
 Masa ikatan dinas:
 Peserta BRiLiaN Future Leader Program (BFLP) yang telah dinyatakan lulus dan diangkat sebagai Pekerja Tetap akan menjalani masa ikatan dinas selama 3 (tiga) tahun sejak diangkat. Apabila mengundurkan diri sebelum ikatan dinas berakhir maka wajib membayar denda sebesar Rp.200.000.000,- (dua ratus juta rupiah) dengan perhitungan proporsional sebagai berikut : (jumlah bulan sisa ikatan dinas / 36 bulan) X Rp.200.000.000,-",,
-2024-06-14 03:53:36,KPR BRI dan Sinar Mas Land,"KPR BRI Kerjasama Sinar Mas Land
+KPR BRI dan Sinar Mas Land,2024-06-14 03:53:36,KPR BRI dan Sinar Mas Land,"KPR BRI Kerjasama Sinar Mas Land
 Buka Jalan Miliki Rumah Impian KPR BRI.
 Dapatkan tambahan Promo menarik dari Sinar Mas Land sampai dengan 30 Juni 2024.","Tambahan Promo menarik dari Sinar Mas Land.
 1. Diskon s.d 25%
@@ -513,7 +513,7 @@ Baru (primary) dari Developer Tier 1 PKS BRI.
 8. Biaya Provisi : 0,5% dari plafon kredit.
 9. Biaya Administrasi : Minimal Rp500.000 atau 0,1% dari plafon kredit.
 10. Periode program KPR BRI kerjasama Sinar Mas Land: 1 April - 31 Juli 2024.",2024-06-14 00:00:00,2024-07-31 00:00:00
-2024-06-15 03:13:38,BRIguna Purna,"Program BRIguna Purna
+BRIguna Purna,2024-06-15 03:13:38,BRIguna Purna,"Program BRIguna Purna
 Program pemasaran thematic BRIguna dalam rangka meningkatkan portofolio OS dan Debitur BRIguna Purna.",Periode Program : 1 April s/d 30 Juni 2024,"1. Kategori Calon Debitur/Debitur, diatur dengan penjelasan sebagai berikut :
 a. Pensiunan Taspen
 b. Pensiunan ASABRI
@@ -535,12 +535,12 @@ d. Biaya administrasi Take over : Free*
 e. Biaya Administrasi s/d 200 juta : Rp. 100.000
 f. Biaya Administrasi >200 s/d 500 Juta : Rp. 200.000
 g. Biaya Administrasi >500",2024-06-15 00:00:00,2024-06-30 00:00:00
-2024-03-27 15:38:27,Program Desa Brilian Tahun 2024,Program Desa Brilian adalah program pemberdayaan desa yang diselenggarakan oleh Bank BRI sebagai komitmen Bank BRI dalam mengembangkan potensi desa binaan BRI yang memiliki seluruh atau kombinasi dari 4 aspek ekosistem,"Objek Pemberdayaan dalam Program Desa Brilian terdiri dari: Kepala Desa/ perangkat desa, Direktur BUMDes dan pengurusnya, Perwakilan Badan Permusyawaratan Desa (BPD), Tokoh Masyarakat serta Kelompok Usaha (Klaster Pokdarwis, dll)","1. Memiliki seluruh atau kombinasi dari 4 aspek ekosistem
+Program Desa Brilian Tahun 2024,2024-03-27 15:38:27,Program Desa Brilian Tahun 2024,Program Desa Brilian adalah program pemberdayaan desa yang diselenggarakan oleh Bank BRI sebagai komitmen Bank BRI dalam mengembangkan potensi desa binaan BRI yang memiliki seluruh atau kombinasi dari 4 aspek ekosistem,"Objek Pemberdayaan dalam Program Desa Brilian terdiri dari: Kepala Desa/ perangkat desa, Direktur BUMDes dan pengurusnya, Perwakilan Badan Permusyawaratan Desa (BPD), Tokoh Masyarakat serta Kelompok Usaha (Klaster Pokdarwis, dll)","1. Memiliki seluruh atau kombinasi dari 4 aspek ekosistem
 ● BUMDes : BUMDes sebagai penggerak ekonomi desa
 ● Digitalisasi : Pemanfaatan produk-produk digital BRI 
 ● Innovation : Desa yang kreatif dalam memecahkan permasalahan dengan mengoptimalkan potensi desa.
 ● Sustainability : Desa tangguh yang mampu meningkatkan kesejahteraan masyarakat desa melalui sektor usaha unggulan desanya secara berkelanjutan.",2024-01-01 00:00:00,2024-12-31 00:00:00
-2024-03-27 15:38:27,BRIpoin 2024,"BRIPoin adalah program loyalitas yang ditujukan untuk seluruh Nasabah Bank BRI (BritAma, Simpedes, E-Banking, Kartu Debit dan Kartu Kredit). Perbanyak Poin Anda dari segala jenis transaksi di Bank BRI dan tukar poin dengan beragam voucher menarik dan kupon undian berhadiah.",BRIPoin selalu menyediakan berbagai penawaran menarik dari merchant-merchant ternama yang dapat kamu nikmati baik untuk memenuhi kebutuhan kamu sehari-hari ataupun untuk bersantai menikmati waktu bersama keluarga dan teman-teman terdekat. Kamu dapat melihat penawaran menarik kami di bripoin.bri.co.id,"1. Ketentuan Umum:
+BRIpoin 2024,2024-03-27 15:38:27,BRIpoin 2024,"BRIPoin adalah program loyalitas yang ditujukan untuk seluruh Nasabah Bank BRI (BritAma, Simpedes, E-Banking, Kartu Debit dan Kartu Kredit). Perbanyak Poin Anda dari segala jenis transaksi di Bank BRI dan tukar poin dengan beragam voucher menarik dan kupon undian berhadiah.",BRIPoin selalu menyediakan berbagai penawaran menarik dari merchant-merchant ternama yang dapat kamu nikmati baik untuk memenuhi kebutuhan kamu sehari-hari ataupun untuk bersantai menikmati waktu bersama keluarga dan teman-teman terdekat. Kamu dapat melihat penawaran menarik kami di bripoin.bri.co.id,"1. Ketentuan Umum:
 a. Poin dari Program BRIPoin adalah BRIPoin
 b. Aktivitas perbankan nasabah yang dihitung poin pada Program BRIPoin ini adalah untuk Tabungan BritAma, Giro, e-banking, Kartu Kredit dan transaksinya.
 c. Produk tabungan BRI yang dapat memperoleh poin adalah khusus untuk tabungan perorangan baik dalam rupiah maupun dalam valuta asing, dengan jenis tabungan utama yang harus dimiliki Nasabah yaitu BritAma, BritAma bisnis, Junio, BritAma rencana dan/atau produk tabungan tambahan atau tabungan lain yang ditentukan oleh BRI
@@ -554,7 +554,7 @@ j. Ketentuan program ini tidak merubah ketentuan aktivitas perbankan lainnya yan
 k. Nasabah tetap tunduk dan patuh pada syarat dan ketentuan yang berkaitan pada aktivitas perbankan yang ditetapkan oleh BRI termasuk peraturan perundangan yang berlaku
 l. BRI dapat melakukan perubahan sewaktu-waktu terkait syarat dan ketentuan, yang selanjutnya akan diinformasikan BRI kepada seluruh Nasabah dalam bentuk dan cara yang ditetapkan oleh BRI
 m. Keputusan, ketentuan, maupun perubahan ketentuan yang dibuat oleh BRI tidak dapat diganggu gugat.",2024-01-01 00:00:00,2024-12-31 00:00:00
-2024-06-14 07:57:45,BRIguna Karya PHO,"BRIguna Karya PHO (PPPK, Honorer,Outsourcing).
+BRIguna Karya PHO,2024-06-14 07:57:45,BRIguna Karya PHO,"BRIguna Karya PHO (PPPK, Honorer,Outsourcing).
 Program BRIguna dalam rangka meningkatkan market share BRIguna Karya di segmen Pegawai / Karyawan kontrak, Honorer dan Outsourcing yang menggunakan payroll di BRI.",Periode Program : 1 April s/d 30 Juni 2024,"1. Kategori Calon Debitur/Debitur, diatur dengan penjelasan sebagai berikut :	
 a. PPPK Kementrian/Lembaga
 b. Honorer Kementrian/Lembaga
@@ -585,11 +585,11 @@ b. Suplesi : 0.75 x Plafond
 a. Take Over s/d 200 Juta : Rp. 100.000
 b. Take Over >200 s/d 500 Juta : Rp. 200.000
 c. Take Over >500 Juta : Rp. 300.000",2024-06-14 00:00:00,2024-06-30 00:00:00
-2024-03-27 15:38:27,Program Tabungan BritAma Flexy 2024,Program BritAma Rencana Flexy merupakan program yang ditujukan untuk nasabah individu yang melakukan pembukaan Britama Rencana Flexy melalui BRImo sesuai dengan kriteria dan periode program.,"a. Benefit berupa Bonus 10.000 BRIpoin bagi 10.000 Nasabah pertama yang melakukan pembukaan BRItAma Rencana Flexy.
+Program Tabungan BritAma Flexy 2024,2024-03-27 15:38:27,Program Tabungan BritAma Flexy 2024,Program BritAma Rencana Flexy merupakan program yang ditujukan untuk nasabah individu yang melakukan pembukaan Britama Rencana Flexy melalui BRImo sesuai dengan kriteria dan periode program.,"a. Benefit berupa Bonus 10.000 BRIpoin bagi 10.000 Nasabah pertama yang melakukan pembukaan BRItAma Rencana Flexy.
 b.  Extra Cashback Rp100.000 bagi 1.000 nasabah pertama yang melakukan pembukaan BRItAma Rencana Flexy.","a.  Program khusus diberikan kepada nasabah BRItAma Rencana Flexy di BRImo.
 b.  Minimum setoran perbulan Rp1.000.000 dengan jangka waktu 12 bulan.
 c. Reward akan diberikan maksimum 14 hari kerja setelah periode program.",2024-01-10 00:00:00,2024-04-10 00:00:00
-2024-06-15 07:21:58,KPP Client Service Team,"Program KPP Client Service Team
+KPP Client Service Team,2024-06-15 07:21:58,KPP Client Service Team,"Program KPP Client Service Team
 Maksimal kuota realisasi Rp 500 miliar khusus Nasabah Private dan Prioritas dengan tujuan penggunaan:
 1. Baru (primary) dari Developer PKS BRI			
 2. Pembelian Baru Ready Stock Developer Non PKS BRI			
@@ -613,7 +613,7 @@ c. Suku bunga 4.65% fixed 5 tahun, selanjutnya Counter rate dengan Tenor min 10 
 4. Biaya Biaya:
 a. Item Provisi dengan Biaya 0.5% dari plafond kredit
 b. Item Administrasi dengan Biaya Rp. 500.000 atau 0.1% dari plafond kredit.",2024-06-15 00:00:00,2024-07-31 00:00:00
-2024-06-15 07:43:40,KPP  Private & Prioritas (2),"Program KPP Nasabah Private dan Prioritas (2)
+KPP  Private & Prioritas (2),2024-06-15 07:43:40,KPP  Private & Prioritas (2),"Program KPP Nasabah Private dan Prioritas (2)
 Kuota Program Rp 150 Miliar, khusus Untuk Nasabah Private dan Prioritas BRI dengan tujuan penggunaan :	
 a. Take over
 b. Pembangunan
@@ -634,7 +634,7 @@ b. Suku Bunga 8.25% fixed 5 tahun, selanjutnya counter rate dengan enor 8 tahun.
 4. Biaya Biaya
 a. Item Provisi dengan Biaya 0.5% dari plafond kredit.
 b. Item Administrasi dengan Biaya Rp. 500.000 atau 0.1% dari plafond kredit.",2024-06-15 00:00:00,2024-07-31 00:00:00
-2024-06-14 03:05:34,Program Loan on Phone Tahun 2024,Dana Tunai Kartu Kredit BRI (Loan On Phone) adalah fasilitas yang diberikan kepada Pemegang Kartu Kredit BRI untuk memindahkan sejumlah rupiah (50% dari sisa limit 50% dari sisa limit atau maksimum Rp 75.000.000 ) ke rekening BRITAMA / SIMPEDES Bank BRI..,"1. Pilihan jangka waktu cicilan yang diberikan mulai 3 bulan sampai dengan 36 bulan. 
+Program Loan on Phone Tahun 2024,2024-06-14 03:05:34,Program Loan on Phone Tahun 2024,Dana Tunai Kartu Kredit BRI (Loan On Phone) adalah fasilitas yang diberikan kepada Pemegang Kartu Kredit BRI untuk memindahkan sejumlah rupiah (50% dari sisa limit 50% dari sisa limit atau maksimum Rp 75.000.000 ) ke rekening BRITAMA / SIMPEDES Bank BRI..,"1. Pilihan jangka waktu cicilan yang diberikan mulai 3 bulan sampai dengan 36 bulan. 
 2. Maksimal dana tunai yang dapat ditransfer ke rekening BRI adalah 50% dari sisa limit atau Rp75.000.000
 3. Biaya administrasi adalah 1% atau minimal Rp. 200.000,- (Dua ratus ribu rupiah)
 4. Minimum pengajuan program adalah sebesar Rp. 1.000.000,- (Satu juta rupiah)","1. Pengajuan Loan on Phone mengacu ke skema sesuai Nota Dinas No. B.350.e-CDD/SPD/SCD/04/2024.
@@ -649,7 +649,7 @@ b. Permohonan pelunasan di awal dapat menghubungi Contact BRI 1500017.
 c. Terhadap pelunasan di awal (maju), Pemegang Kartu wajib membayar penuh sisa cicilan + bunga + pinalti.
 d. Apabila pemegang kartu menunggak > 2 bulan berturut-turut, proses installment dapat dibatalkan oleh pihak Bank dan sisa cicilan akan dibebankan secara penuh + bunga cicilan yang belum di tagihkan.
 e. Atas pelunasan awal tersebut, pemegang kartu akan dikenakan biaya pinalti sebesar 1% dari sisa pokok.",2024-01-15 00:00:00,2024-03-31 00:00:00
-2024-06-15 07:54:51,Kavling Siap Bangun,"Program Kavling Siap Bangun
+Kavling Siap Bangun,2024-06-15 07:54:51,Kavling Siap Bangun,"Program Kavling Siap Bangun
 Memfasilitasi nasabah BRI dalam mendapatkan pembiayaan untuk pembelian tanah kavling yang dijual oleh perorangan (bukan atas nama perusahaan).",Periode Program : 1 April s/d 31 Juli 2024,"1. Kategori Calon Debitur/Debitur, diatur dengan penjelasan sebagai berikut :	
 a. Fixed Income
 b. Non-Fixed Income
@@ -670,7 +670,7 @@ b. Bunga 7,50% fixed 5 tahun dengan minimal tenor 10 tahun selanjutnya floating 
 4. Biaya Biaya
 a. Item Provisi dengan Biaya 0.5% dari plafond kredit.
 b. Item Administrasi dengan Biaya 0.1% dari plafond kredit.",2024-06-15 00:00:00,2024-07-31 00:00:00
-2024-03-27 15:38:27,BRILiaN Next Leader Program (BNLP),BRILiaN Next Leader Program (BNLP) adalah program perekrutan yang dibuka oleh BRI untuk menjaring kandidat potensial yang bersumber dari internal Perusahaan untuk menjadi pemimpin / leader BRI di masa depan.,,"Persyaratan BRILiaN Next Leader Program :
+BRILiaN Next Leader Program (BNLP),2024-03-27 15:38:27,BRILiaN Next Leader Program (BNLP),BRILiaN Next Leader Program (BNLP) adalah program perekrutan yang dibuka oleh BRI untuk menjaring kandidat potensial yang bersumber dari internal Perusahaan untuk menjadi pemimpin / leader BRI di masa depan.,,"Persyaratan BRILiaN Next Leader Program :
 1. Kandidat minimal lulusan S1 dari Perguruan Tinggi Negeri/Swasta.
 2. Usia maksimal 35 tahun (belum berulang tahun ke-36 pada batas akhir pendaftaran)
 3. Pekerja Tetap BRI yang menduduki jabatan minimal JG 04 dan maksimal JG 08.
@@ -683,7 +683,7 @@ b. Item Administrasi dengan Biaya 0.1% dari plafond kredit.",2024-06-15 00:00:00
 10.Tidak memiliki tunggakan kewajiban (pinjaman, kartu kredit, denda penalty baik pribadi maupun suami / istri).
 11. Peserta BRILiaN Next Leader Program yang telah dinyatakan lulus akan menjalani masa ikatan dinas selama 3 (tiga) tahun. Apabila mengundurkan diri sebelum ikatan dinas berakhir maka wajib membayar denda sebesar Rp.200.000.000,- (dua ratus juta rupiah) dengan perhitungan proporsional sebagai berikut : (jumlah bulan sisa ikatan dinas / 36 bulan) X Rp.200.000.000,-
 12. Periode Rekrutmen BRILiaN Next Leader Program: Sesuai Kebutuhan Perusahaan.",,
-2024-03-27 15:38:27,BRILiaN Banking Officer Program (BBOP),"BRILiaN Banking Officer Program (BBOP) adalah program perekrutan Pekerja Tetap bagi seluruh Unit Kerja BRI, yang bertujuan untuk memenuhi formasi jabatan dengan Corporate Tittle Assistant (JG03 s.d. JG05).",,"1. Persyaratan Kandidat BRILiaN Banking Officer Program
+BRILiaN Banking Officer Program (BBOP),2024-03-27 15:38:27,BRILiaN Banking Officer Program (BBOP),"BRILiaN Banking Officer Program (BBOP) adalah program perekrutan Pekerja Tetap bagi seluruh Unit Kerja BRI, yang bertujuan untuk memenuhi formasi jabatan dengan Corporate Tittle Assistant (JG03 s.d. JG05).",,"1. Persyaratan Kandidat BRILiaN Banking Officer Program
 Sumber Eksternal
 a. Untuk Golongan Jabatan JG 3
 - Pendidikan Setara Program D.1 s.d D.4 dari Universitas / Perguruan Tinggi akreditasi diutamakan “A”, dengan IPK min 2,75 (skala 4).
@@ -728,7 +728,7 @@ c. Periode 3 : September - Oktober
 a. Periode 1 : Maret
 b. Periode 2 : Juli
 c. Periode 3 : November",2024-01-01 00:00:00,2024-02-29 00:00:00
-2024-03-27 15:38:27,BRILIAN INTERNSHIP PROGRAM,"Program Pemagangan ""BRILIAN INTERNSHIP PROGRAM"" dilaksanakan untuk jabatan
+BRILIAN INTERNSHIP PROGRAM,2024-03-27 15:38:27,BRILIAN INTERNSHIP PROGRAM,"Program Pemagangan ""BRILIAN INTERNSHIP PROGRAM"" dilaksanakan untuk jabatan
 Teller dan Customer Service yang sekarang menjadi Universal Banker dimana di dalamnya terdapat 3 tahap yaitu :
 1. Universal Banker level Basic
 2. Universal Banker level Intermediate
@@ -750,7 +750,7 @@ Bantuan peningkatan kompetensi diberikan kepada peserta magang yang telah berakh
 5. Memiliki communication skill yang baik dan berpenampilan menarik
 6. Diutamakan berdomisili di wilayah Unit kerja setempat
 7. Memiliki KTP, NPWP dan SKCK",,
-2024-03-27 15:38:27,Petugas Bansos,Pekerja Outsourcing BRI yang mempunyai tugas menyalurkan Bantuan Sosial.,,"ersyaratan Petugas Bansos
+Petugas Bansos,2024-03-27 15:38:27,Petugas Bansos,Pekerja Outsourcing BRI yang mempunyai tugas menyalurkan Bantuan Sosial.,,"ersyaratan Petugas Bansos
 1. Usia minimal 21 tahun dan maksimal 27 tahun (belum berulang tahun ke 28 pada saat seleksi awal)
 2. Laki-laki
 3. Pendidikan D3, semua jurusan/fakultas terakreditasi dan IPK minimal 2,75
@@ -761,7 +761,7 @@ Bantuan peningkatan kompetensi diberikan kepada peserta magang yang telah berakh
 - Mampu berkomunikasi dengan baik dan lancar
 - Dapat mengoperasikan komputer (minimal MS. Office)
 - Dapat mengendarai dan memiliki sepede motor dilengkapi SIM C",,
-2024-06-15 04:35:52,BRIguna Brilian,"Program BRIguna Brilian
+BRIguna Brilian,2024-06-15 04:35:52,BRIguna Brilian,"Program BRIguna Brilian
 Program BRIguna dalam rangka meningkatkan portofolio OS dan Debitur Briguna khususnya Pekerja BRI.",Periode Program : 1 April s/d 30 Juni 2024,"1. Kategori Calon Debitur/Debitur, diatur dengan penjelasan sebagai berikut :
 a. Pekerja BRI (Tetap/Organik)
 b. Pekerja BRI Group (Tetap/Organik)
@@ -780,7 +780,7 @@ d. Biaya Administrasi Take over : Free*
 d. Biaya administrasi s/d 200 juta : Rp. 100.000
 e. Biaya Administrasi >200 s/d 500 Juta : Rp. 200.000
 f. Biaya Administrasi >500 Juta : Rp. 300.000",2024-06-15 00:00:00,2024-06-30 00:00:00
-2024-03-27 15:38:27,BRILiaN Banking Officer Program (BBOP),"BRILiaN Banking Officer Program (BBOP) adalah program perekrutan Pekerja Tetap bagi seluruh Unit Kerja BRI, yang bertujuan untuk memenuhi formasi jabatan dengan Corporate Tittle Assistant (JG03 s.d. JG05).",,"1. Persyaratan Kandidat BRILiaN Banking Officer Program
+BRILiaN Banking Officer Program (BBOP),2024-03-27 15:38:27,BRILiaN Banking Officer Program (BBOP),"BRILiaN Banking Officer Program (BBOP) adalah program perekrutan Pekerja Tetap bagi seluruh Unit Kerja BRI, yang bertujuan untuk memenuhi formasi jabatan dengan Corporate Tittle Assistant (JG03 s.d. JG05).",,"1. Persyaratan Kandidat BRILiaN Banking Officer Program
 Sumber Eksternal
 a. Untuk Golongan Jabatan JG 3
 - Pendidikan Setara Program D.1 s.d D.4 dari Universitas / Perguruan Tinggi akreditasi diutamakan “A”, dengan IPK min 2,75 (skala 4).
@@ -825,7 +825,7 @@ c. Periode 3 : September - Oktober
 a. Periode 1 : Maret
 b. Periode 2 : Juli
 c. Periode 3 : November",2024-09-01 00:00:00,2024-10-31 00:00:00
-2024-06-14 07:12:29,"BRIguna Karya ASTRI,BUMN,BUMD","Program BRIguna Karya ASTRI, BUMN GROUP & BUMD
+"BRIguna Karya ASTRI,BUMN,BUMD",2024-06-14 07:12:29,"BRIguna Karya ASTRI,BUMN,BUMD","Program BRIguna Karya ASTRI, BUMN GROUP & BUMD
 Program pemasaran BRIguna yang diperuntukkan untuk calon debitur atau debitur eksisting di lingkup Instansi/Lembaga Pemerintah/Perusahaan BUMN Grup/Perusahaan BUMD.",Periode Program : 1 April s/d 30 Juni 2024,"1. Kategori Calon Debitur/Debitur, diatur dengan penjelasan sebagai berikut :	
 a. Aparatur Sipil Negara (PNS Tetap dan CPNS)
 b. Anggota TNI & POLRI
@@ -853,7 +853,7 @@ b. Biaya Provisi Suplesi : 0.75% x Plafond
 c. Biaya Administrasi Take Over s/d 200 Juta : Rp. 100.000
 d. Biaya administrasi Take Over >200 s/d 500 Juta : Rp. 200.000
 e. Biaya administrasi Take Over >500 Juta : Rp. 300.000",2024-06-14 00:00:00,2024-06-30 00:00:00
-2024-06-14 07:23:30,BRIguna Karya Perusahaan Swast,Program BRIguna dalam rangka meningkatkan portofolio (OS dan Debitur) BRIguna di Perusahaan Swasta (Value Chain Inisiasi Kanpus maupun Unit Kerja) yang potensial.,Periode Program : 1 April s/d 30 Juni 2024,"1. Kategori Calon Debitur/Debitur, diatur dengan penjelasan sebagai berikut :
+BRIguna Karya Perusahaan Swast,2024-06-14 07:23:30,BRIguna Karya Perusahaan Swast,Program BRIguna dalam rangka meningkatkan portofolio (OS dan Debitur) BRIguna di Perusahaan Swasta (Value Chain Inisiasi Kanpus maupun Unit Kerja) yang potensial.,Periode Program : 1 April s/d 30 Juni 2024,"1. Kategori Calon Debitur/Debitur, diatur dengan penjelasan sebagai berikut :
 a. Karyawan Tetap Perusahaan Swasta
 b. Minimal masa kerja 2 tahun
 c. Payroll wajib BRI
@@ -873,7 +873,7 @@ b. Biaya Profisi Suplesi : 0.75% x Plafond
 c. Biaya Administrasi Take Over s/d 200 Juta : Rp. 100.000
 d. Biaya Administrasi >200 s/d 500 Juta : Rp. 200.000
 e. Biaya Administrasi >500 Juta : Rp. 300.000",2024-06-14 00:00:00,2024-06-30 00:00:00
-2024-06-15 08:08:05,KPP Suku Bunga Berjenjang,"Program KPP Suku Bunga Berjenjang
+KPP Suku Bunga Berjenjang,2024-06-15 08:08:05,KPP Suku Bunga Berjenjang,"Program KPP Suku Bunga Berjenjang
 1. Pembelian baru (primary) dari Developer PKS BRI
 2. Pembelian bekas khusus properti di dalam lingkungan Perumahan Developer",Periode Program : 1 April s/d 31 Juli 2024,"1. Kategori Calon Debitur/Debitur, diatur dengan penjelasan sebagai berikut :	
 a. Fixed Income
