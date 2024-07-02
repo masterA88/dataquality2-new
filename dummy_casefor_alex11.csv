@@ -1,0 +1,6 @@
+Status,Type,Case Reason,Subject,Description,Legacy_Ticket_ID,record_type
+Escalated,Mechanical,Breakdown,Subject 1,Description of issue 1,TTB000996,Case Migration
+Escalated,Electronic,Breakdown,Subject 2,Description of issue 2,TTB000997,Case Migration
+New,Mechanical,Performance,Subject 3,Description of issue 3,TTB000998,Case Migration
+Escalated,Electrical,Performance,Subject 4,Description of issue 4,TTB000999,Case Migration
+Escalated,Electrical,Performance,Subject 5,Description of issue 5,TTB001000,Case Migration
