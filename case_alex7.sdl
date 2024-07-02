@@ -1,0 +1,11 @@
+#Mapping values
+#Tue Jul 02 09:57:03 WIB 2024
+CIF=Account\:Account-CIF__c
+Call_type=SCC_Call_Type__r\:SSC_Call_Type__c-External_Id__c
+Case\ Reason=Reason
+Description=Description
+Legacy_Ticket_ID=SCC_Legacy_Ticket_ID__c
+Status=Status
+Subject=Subject
+Type=Type
+record_type=RecordType\:RecordType-Name

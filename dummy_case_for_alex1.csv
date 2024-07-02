@@ -1,3 +1,4 @@
-Status,Type,Case Reason,Subject,Description,CIF,Legacy_Ticket_ID
-Working,Electronic,Breakdown,Subject 11,Description of issue 1,11,1234
-Working,Electronic,Breakdown,Subject 12,Description of issue 1,,12345
+Status,Type,Case Reason,Subject,Description,CIF,Legacy_Ticket_ID,Call_type,record_type
+Working,Electronic,Breakdown,Subject 11,Description of issue 1,11,123456789101112,9200,Case Migration
+Working,Electronic,Breakdown,Subject 11,Description of issue 1,11,123456789101113,9200,Case Migration
+
