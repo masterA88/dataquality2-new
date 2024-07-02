@@ -22,7 +22,7 @@ Alasan :
 Jika Butuh tindaklanjut membutuhkan screen Capture respon
                        ",1000
 2,1002,TRUE,Resolution Center,Individu Umum,Loans,KTA - Digital,Products / Promotion Inquiry,CERIA - Promo dan Program CERIA,Nasabah Menyakan Terkait Promo dan Program CERIA,,,,,,T1 - Agent CCT/Frontliner,1,,,,,1,,Done,DCE,,,,1B,Credit & Digital Lending,,,,,,,,,,1002
-3,1003,TRUE,Digital Banking,Individu Umum,Loans,KTA - Digital,Request,CERIA - Permintaan Pelunasan Awal Cicilan,Nasabah Mengajukan Pelunasan Awal Cicilan CERIA,,,,,Ada kasus kalau case tunggak sama case ga tunggak,"T3.1 - CDD(CLL CERIA), T3.2 - DDB(OPS CERIA)",1,,,22,,5,4,Done,DCE,,,,1B,Credit & Digital Lending,,,,,,,,,,1003
+3,1003,TRUE,Digital Banking,Individu Umum,Loans,KTA - Digital,Request,CERIA - Permintaan Pelunasan Awal Cicilan,Nasabah Mengajukan Pelunasan Awal Cicilan CERIA,,,,,Ada kasus kalau case tunggak sama case ga tunggak,"T3.1 - CDD(CLL CERIA), T3.2 - DDB(OPS CERIA)",1,,,4,,5,4,Done,DCE,,,,1B,Credit & Digital Lending,,,,,,,,,,1003
 4,1005,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,KTA - Digital,Request,CERIA - Permintaan Blokir,Nasabah Mengajukan Pemblokiran CERIA,,,,,Menunggu mendapatkan akses dari DDB,T3.1 - CDD(CLL CERIA),1,,,1,,2,1,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan pemblokiran Sementara Akun Ceria
  Nomor ID :
  Alasan pemblokiran :
@@ -45,7 +45,7 @@ Keterangan tambahan   :                         (Copy keterangan block FDS)
 6,1009,TRUE,Digital Banking,Individu Umum,Loans,KTA - Digital,Request,CERIA - Permintaan Buka Blokir R CERIA,Nasabah Mengajukan Pembukaan Blokir CERIA,,,1,"1. Screen Shot home ceria
 2. Surat Pernyataan (template oleh agent)
 3. selfie ktp 2 sisi
-4. ktp",To be discussed with ORD,"T3.1 - DDB(Helpdesk), T3.2 - ORD(FBI), T3.3 - DDB(OPS CERIA)",1,,,224,,9,8,Partially Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah Request Buka/Reales Blokir Akun Ceria
+4. ktp",To be discussed with ORD,"T3.1 - DDB(Helpdesk), T3.2 - ORD(FBI), T3.3 - DDB(OPS CERIA)",1,,,8,,9,8,Partially Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah Request Buka/Reales Blokir Akun Ceria
  ID CERIA :
  Limit CERIA yang diberikan :
  Alasan pembukaan blokir:
@@ -58,14 +58,14 @@ Keterangan tambahan   :                         (Copy keterangan block FDS)
 7,1010,TRUE,Digital Banking,Individu Umum,Loans,KTA - Digital,Request,CERIA - Pembatalan Transaksi,Nasabah Mengajukan Pembatalan Transaksi CERIA,,,1,"1. Screen Shot home ceria
 2. Screen Shot transaksi gagal/pembatalan ceria
 3. Screen Shot transaksi dibatalkan merchant 
-",,"T3.1 - DDB(Helpdesk), T3.2- DDB(OPS CERIA)",1,,,62,,9,8,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"ID CERIA
+",,"T3.1 - DDB(Helpdesk), T3.2- DDB(OPS CERIA)",1,,,8,,9,8,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"ID CERIA
  Tanggal transaksi
  Lokasi transaksi ( nama merchant )
  Nominal 
  Alasan pembatalan
  Keterangan tambahan",1010
 8,1011,TRUE,Digital Banking,Individu Umum,Loans,KTA - Digital,Complaint - Transaction,CERIA - Gagal Transaksi CERIA,Nasabah Komplain Gagal Transaksi CERIA,,,1,"1. Screen Shot transaksi gagal ceria 
-",,"T3.1 - DDB(Helpdesk), T3.2- DDB(OPS CERIA)",1,,,42,,7,6,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah menanyakan Aplikasi CERIA tidak bisa digunakan untuk bertransaksi 
+",,"T3.1 - DDB(Helpdesk), T3.2- DDB(OPS CERIA)",1,,,6,,7,6,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah menanyakan Aplikasi CERIA tidak bisa digunakan untuk bertransaksi 
  ID CERIA : 
  No Hp yang terdaftar : 
  Tanggal :
@@ -74,7 +74,7 @@ Keterangan tambahan   :                         (Copy keterangan block FDS)
  Respon Transaksi : 
  ",1011
 9,1013,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,KTA - Digital,Request,CERIA - Refund,Nasabah Mengajukan Pengembalian Dana (Refund) atas Pembayaran CERIA,,,1,"1. Screen Shot home ceria
-2. Screen Shot bukti pembayaran ceria ",Team Name CDD perlu dikonfirmasi ulang,"T3.1 - DDB(Helpdesk), T3.2- DDB(OPS CERIA), T3.3 - CDD(OPE ITEM)",1,,,332,,9,8,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan pengembalian Saldo Kredit
+2. Screen Shot bukti pembayaran ceria ",Team Name CDD perlu dikonfirmasi ulang,"T3.1 - DDB(Helpdesk), T3.2- DDB(OPS CERIA), T3.3 - CDD(OPE ITEM)",1,,,8,,9,8,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan pengembalian Saldo Kredit
  ID Ceria:
  NO HP yang terdaftar : 
  Alasan :
@@ -87,7 +87,7 @@ Keterangan tambahan   :                         (Copy keterangan block FDS)
  (Dokumen Screen capture atas saldo kredit)
  Tolong bantuannya untuk tindak lanjut.",1013
 1,1014,TRUE,Digital Banking,Individu Umum,Loans,KTA - Digital,Complaint - Transaction,CERIA - Pinjaman Tunai (pencairan tidak berhasil masuk ke tabungan),Nasabah Komplain Pencairan Pinjaman Tunai CERIA Tidak Berhasil Masuk ke Rekening,,,1,"1. Screen Shot gagal pinjaman tunai ceria 
-2. Screen Shot pengurangan limit ceria",Informasi pencairan dapat menggunakan Call Type 1000,"T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS CERIA)",1,,,43,,8,7,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Laporan Komplain pengajuan Pinjaman tunai yang belum masuk ke rekening
+2. Screen Shot pengurangan limit ceria",Informasi pencairan dapat menggunakan Call Type 1000,"T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS CERIA)",1,,,7,,8,7,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Laporan Komplain pengajuan Pinjaman tunai yang belum masuk ke rekening
  Nasabah melaporkan belum menerima dana tunai pada rekening:
  Nomor rekening tujuan:
  No Hp yang terdaftar pada CERIA :
@@ -98,7 +98,7 @@ Keterangan tambahan   :                         (Copy keterangan block FDS)
 11,1015,TRUE,Digital Banking,Individu Umum,Loans,KTA - Digital,Complaint - Transaction,CERIA - Pembayaran Tagihan belum masuk,Nasabah Komplain Pembayaran Tagihan CERIA Melalui BRIVA Tidak Berhasil ,,,1,"1. Screen Shot bukti pembayaran briva
 2. Screen Shot tagihan ceria 
 3. selfie ktp 2 sisi
-4. ktp",,"T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS CERIA)",1,,,42,,7,6,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah melakukan pembayaran tagihan Akun CERIA
+4. ktp",,"T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS CERIA)",1,,,6,,7,6,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah melakukan pembayaran tagihan Akun CERIA
  Tagihan bulan : … ( b/s cycle )
  Tanggal : …
  Nominal : Rp. …
@@ -110,7 +110,7 @@ Keterangan tambahan   :                         (Copy keterangan block FDS)
  
  Tolong bantuannya untuk tindak lanjut. 
  Terima kasih.",1015
-12,1016,TRUE,Digital Banking,Individu Umum,Loans,KTA - Digital,Complaint - Transaction,CERIA - Komplain Autodebet,Nasabah Komplain Gagal Autodebet Pembayaran Tagihan CERIA,,,,,"SLA discuss with CDD, menunggu development tools di DDB","T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS CERIA)",1,,,32,,6,5,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan complain autodebet ( tidak didebet/ terdebet …. Kali )
+12,1016,TRUE,Digital Banking,Individu Umum,Loans,KTA - Digital,Complaint - Transaction,CERIA - Komplain Autodebet,Nasabah Komplain Gagal Autodebet Pembayaran Tagihan CERIA,,,,,"SLA discuss with CDD, menunggu development tools di DDB","T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS CERIA)",1,,,5,,6,5,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan complain autodebet ( tidak didebet/ terdebet …. Kali )
  ID CERIA : 
  NO HP yang terdaftar : 
  Nomer Rekening :
@@ -125,11 +125,11 @@ Keterangan tambahan   :                         (Copy keterangan block FDS)
  Note : 
  Pastikan saldo rekening tersedia dan mencukupi (termasuk saldo minimum rekening Rp50.000,-)",1016
 13,1017,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,KTA - Digital,Request,CERIA - Penutupan & Pembatalan Akun CERIA,Nasabah Mengajukan Penutupan & Pembatalan Akun CERIA,,,1,"1. Screen Shot home ceria
-2. ktp",Move GIC,"T3.1 - DDB(Helpdesk), T3.2 - CDD(CLF-1 DATAM)",1,,,43,,8,7,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Alasan pembatalan/penutupan aplikasi :
+2. ktp",Move GIC,"T3.1 - DDB(Helpdesk), T3.2 - CDD(CLF-1 DATAM)",1,,,7,,8,7,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Alasan pembatalan/penutupan aplikasi :
 apakah sudah mendapatkan limit:
 apakah masih ada tagihan atau cicilan yang sedang berjalan:",1017
 14,1018,TRUE,Digital Banking,Individu Umum,Loans,KTA - Digital,Complaint - Transaction,Nasabah Komplain Pembayaran Tagihan Ceria,Nasabah Komplain Gagal Autodebet Manual CERIA,,,1,"1. Screen Shot tagihan ceria
-2. Screen Shot bukti pembayaran",Done,"T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS CERIA)",1,,,32,,6,5,Done,DCE,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah melakukan pembayaran tagihan Akun CERIA				Tagihan bulan      : … ( b/s cycle )					
+2. Screen Shot bukti pembayaran",Done,"T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS CERIA)",1,,,5,,6,5,Done,DCE,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah melakukan pembayaran tagihan Akun CERIA				Tagihan bulan      : … ( b/s cycle )					
 Tanggal            : …						
 Nominal            : Rp. …						
 Dokumen yang dibutuhkan : bukti transaksi pembayaran & Screen Capture tagihan					
@@ -141,7 +141,7 @@ Tolong bantuannya untuk tindak lanjut.
 Terima kasih.				",1018
 15,1020,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,KTA - Digital,Request,CERIA - Permintaan Perubahan Data Nasabah,Nasabah Mengajukan Perubahan Data Nomor Rekening CERIA,,,1,"1. Buku tabungan tampak depan
 2. ktp
-3. Surat pernyataan","Konfirmasi dengan CDD, Konfirmasi kembali dengan DDB","T3.1 - DDB(Helpdesk), T3.2 - CDD(CLF-1 DATAM)",1,,,35,,9,8,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan pergantian Nomor rekening auto debet CERIA
+3. Surat pernyataan","Konfirmasi dengan CDD, Konfirmasi kembali dengan DDB","T3.1 - DDB(Helpdesk), T3.2 - CDD(CLF-1 DATAM)",1,,,8,,9,8,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan pergantian Nomor rekening auto debet CERIA
  Dari (rekening lama) :
  Menjadi (rekening baru) : 
  Alasan :
@@ -151,7 +151,7 @@ Terima kasih.				",1018
  (Buku tabungan tampak depan, Foto KTP nasabah, Surat pernyataan)
  
  Mohon bantuannya. Terima kasih.",1020
-16,1024,TRUE,Digital Banking,Individu Umum,Loans,KTA - Digital,Request,CERIA - Billing Statement (komplain terkait issue billing statement),Nasabah Mengajukan Permintaan Billing Statement CERIA,,,,,,"T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS CERIA)",1,,,22,,5,4,Done,DCE,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah menanyakan:
+16,1024,TRUE,Digital Banking,Individu Umum,Loans,KTA - Digital,Request,CERIA - Billing Statement (komplain terkait issue billing statement),Nasabah Mengajukan Permintaan Billing Statement CERIA,,,,,,"T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS CERIA)",1,,,4,,5,4,Done,DCE,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah menanyakan:
  Billing statement / Informasi Tagihan :
  Status Pembayaran:
  Sisa limit: 
@@ -171,7 +171,7 @@ Terima kasih.				",1018
 2. Pelunasan Dengan Discount",1,"1. Screen Shot kolekbilitas tidak lancar
 2. Screen Shot tagihan ceria
 3. Surat permohonan keringanan bayar
-4. ktp nasabah/ahli waris","Sub: Reschedule, Pelunasan Dengan Discount","T3.1 - CDD(CLL CERIA), T3.2 - DDB(OPS CERIA)",1,,,73,,11,1,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan keringan pembayaran/Penjadwalan Ulang Tagihan (reschedule)
+4. ktp nasabah/ahli waris","Sub: Reschedule, Pelunasan Dengan Discount","T3.1 - CDD(CLL CERIA), T3.2 - DDB(OPS CERIA)",1,,,1,,11,1,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan keringan pembayaran/Penjadwalan Ulang Tagihan (reschedule)
  ID CERIA :
  NO Hp yg didaftarkan:
  Alasan :
@@ -194,7 +194,7 @@ Terima kasih.				",1018
  Terima kasih.",1036
 21,1038,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,KTA - Digital,Fraud / Suspicious Transactions,CERIA - Komplain Transaksi Tidak Diakui,Nasabah Melaporkan Sanggahan Transaksi CERIA,,,1,"1. selfie ktp 2 sisi
 2. ktp
-3. Surat sanggahan",,"T3.1 - DDB(Helpdesk), T3.2 - ORD(FBI), T3.3 - CDD(ACU CHARGEBACK)",1,,,322,,8,7,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah melaporkan tidak merasa melakukan transaksi pada akun CERIA 
+3. Surat sanggahan",,"T3.1 - DDB(Helpdesk), T3.2 - ORD(FBI), T3.3 - CDD(ACU CHARGEBACK)",1,,,7,,8,7,Done,DCE,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah melaporkan tidak merasa melakukan transaksi pada akun CERIA 
 Nominal transaksi :        
 Nama Merchant :                                                         
 Tanggal transaksi :                                                         
@@ -248,7 +248,7 @@ Copy mutasi transaksi dari CLOS
  No Hp yang terdaftar di aplikasi :
  Keterangan tambahan :",1201
 25,1202,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Permintaan Kartu Tambahan,Nasabah Mengajukan Kartu Kredit Tambahan,1.0,"1. Add-on Basic
-2. Add-on Supplement",1,1. ktp orang tambahan,"Sub: Add-on Basic, Add-on Supplement","T3.1 - CDD(CLF-1 SSU), T3.2 - CDD(CLF-1 Verif), T3.3 - CDD(CLF-1 Analyst)",1,,,122,,6,5,Done,KKD-AKK-SSU,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan permintaan kartu pendamping
+2. Add-on Supplement",1,1. ktp orang tambahan,"Sub: Add-on Basic, Add-on Supplement","T3.1 - CDD(CLF-1 SSU), T3.2 - CDD(CLF-1 Verif), T3.3 - CDD(CLF-1 Analyst)",1,,,5,,6,5,Done,KKD-AKK-SSU,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan permintaan kartu pendamping
  Jenis Kartu : ……
  
  Mohon untuk ditindaklanjuti. Terima kasih
@@ -336,7 +336,7 @@ Copy mutasi transaksi dari CLOS
  copy month profile PCHI",1707
 35,1708,TRUE,"Card, Digital Lending & Assset","Individu Umum, Individu Priority & Private",Loans,Kartu Kredit,Request,"Permintaan Pelunasan Awal Cicilan (Refund Merchant, Dobel Cicilan, Error Cicilan)",Nasabah Mengajukan Pembatalan Cicilan Terhadap Transaksi Kartu Kredit,1.0,"1. Refund Merchant
 2. Dobel Cicilan
-3. Error Cicilan",,,"Sub: Refund Merchant, Dobel Cicilan, Error Cicilan","T3.1 - CDD(OPE MSU), T3.2 - CDD(ACU OTO)",1,,,32,,6,5,Done,KKD-OPS-MSU,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan pelunasan awal cicilan Belanja Ringan untuk transaksi
+3. Error Cicilan",,,"Sub: Refund Merchant, Dobel Cicilan, Error Cicilan","T3.1 - CDD(OPE MSU), T3.2 - CDD(ACU OTO)",1,,,5,,6,5,Done,KKD-OPS-MSU,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan pelunasan awal cicilan Belanja Ringan untuk transaksi
  
  Nama Merchant :
  Tanggal Transaksi :
@@ -361,7 +361,7 @@ Copy mutasi transaksi dari CLOS
  copy month profile PCHI",1708
 36,1709,TRUE,"Card, Digital Lending & Assset","Individu Umum, Individu Priority & Private",Loans,Kartu Kredit,Request,Permintaan Pelunasan Awal Cicilan (Request Pemegang Kartu),Nasabah Mengajukan Pelunasan Awal Cicilan,,,1,"1. surat pernyataan
 2. ktp
-3. kartu kredit",,"T3.1 - CDD(OPE MSU), T3.2 - CDD(ACU OTO)",1,,,33,,7,6,Done,KKD-OPS-MSU,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan pelunasan awal cicilan Belanja Ringan untuk transaksi
+3. kartu kredit",,"T3.1 - CDD(OPE MSU), T3.2 - CDD(ACU OTO)",1,,,6,,7,6,Done,KKD-OPS-MSU,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan pelunasan awal cicilan Belanja Ringan untuk transaksi
  
  Nama Merchant :
  Tanggal Transaksi :
@@ -384,7 +384,7 @@ Copy mutasi transaksi dari CLOS
  Tolong bantuannya untuk tindak lanjut.
  Terima kasih.
  copy month profile PCHI",1709
-37,1711,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Permintaan Pelunasan Awal Cicilan Transaksi Ecommerce (Divisi RPT),Merchant Mengajukan Pembatalan Cicilan Terhadap Transaksi Kartu Kredit Nasabah BRI (FST),,,,,,"T3.1 - CDD(OPE MSU), T3.2 - CDD(ACU OTO)",1,,,32,,6,5,Done,KKD-RMG-OTO,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan pelunasan awal cicilan Belanja Ringan untuk transaksi
+37,1711,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Permintaan Pelunasan Awal Cicilan Transaksi Ecommerce (Divisi RPT),Merchant Mengajukan Pembatalan Cicilan Terhadap Transaksi Kartu Kredit Nasabah BRI (FST),,,,,,"T3.1 - CDD(OPE MSU), T3.2 - CDD(ACU OTO)",1,,,5,,6,5,Done,KKD-RMG-OTO,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan pelunasan awal cicilan Belanja Ringan untuk transaksi
  
  Nama Merchant :
  Tanggal Transaksi :
@@ -407,7 +407,7 @@ Copy mutasi transaksi dari CLOS
  Tolong bantuannya untuk tindak lanjut.
  Terima kasih.
  copy month profile PCHI",1711
-38,1712,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Permintaan Pelunasan Awal Cicilan (Reschedule Coll),Nasabah Menunggak Mengajukan Pelunasan Tagihan Kartu Kredit,,,,,,"T3.1 - CDD(OPE MSU), T3.2 - CDD(ACU OTO)",1,,,32,,6,5,Done,KKD-RMG-OTO,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan pelunasan awal cicilan Belanja Ringan untuk transaksi
+38,1712,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Permintaan Pelunasan Awal Cicilan (Reschedule Coll),Nasabah Menunggak Mengajukan Pelunasan Tagihan Kartu Kredit,,,,,,"T3.1 - CDD(OPE MSU), T3.2 - CDD(ACU OTO)",1,,,5,,6,5,Done,KKD-RMG-OTO,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan pelunasan awal cicilan Belanja Ringan untuk transaksi
  
  Nama Merchant :
  Tanggal Transaksi :
@@ -430,7 +430,7 @@ Copy mutasi transaksi dari CLOS
  Tolong bantuannya untuk tindak lanjut.
  Terima kasih.
  copy month profile PCHI",1712
-39,1713,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Konversi Cicilan Via RPT (RPT=FST),Merchant Mengajuan konversi cicilan transaksi Kartu Kredit BRI,,,,,Need dicsussion between CDD & FST,"T3.1 - CDD(OPE LKK), T3.2 - CDD(OPE MSU)",,,,26,,8,7,Done,RPT-MCH,,,,1B,Credit & Digital Lending,,,,,,,,,,1713
+39,1713,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Konversi Cicilan Via RPT (RPT=FST),Merchant Mengajuan konversi cicilan transaksi Kartu Kredit BRI,,,,,Need dicsussion between CDD & FST,"T3.1 - CDD(OPE LKK), T3.2 - CDD(OPE MSU)",,,,8,,8,7,Done,RPT-MCH,,,,1B,Credit & Digital Lending,,,,,,,,,,1713
 4,1714,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Complaint - Transaction,Klaim asuransi kerja sama kartu kredit,Nasabah Mengajukan Klaim Asuransi Kerja Sama Kartu Kredit,,,,,New Case Type -,"T3.1 - CDD(SPD SCD), Include Insurance Company",1,,,1,,11,1,Done,KKD-PBK-KKPBK,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah menginginkan klaim asuransi
  Alasan :
  Solusi :
@@ -580,7 +580,7 @@ Kode Member                  :
 
 Terima kasih",1803
 5,1806,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Complaint - Non-Transaction,promo/program marketing (kartu Kredit),Nasabah Komplain Terkait Promo dan Program Kartu Kredit,1.0,"1. Co-Branding
-2. Reguler",,,"Sub: Co-Branding, Reguler","T3.1 - CDD(MPP MSD), T3.2 - CDD(OPE ITEM)",1,,,32,,6,5,Done,KKD-PBK-KKPBK,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah komplain promo/fitur kartu kredit : …..
+2. Reguler",,,"Sub: Co-Branding, Reguler","T3.1 - CDD(MPP MSD), T3.2 - CDD(OPE ITEM)",1,,,5,,6,5,Done,KKD-PBK-KKPBK,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah komplain promo/fitur kartu kredit : …..
  Promo yang berlaku : ….
  Promo yang diterima : ….
  Sudah dijelaskan sesuai pertanyaan nasabah/pemegang kartu
@@ -680,7 +680,7 @@ Keterangan pada merchant/ alasan voucher ditolak :	",1813
  Terima kasih.
  
  Copy month profile pchi",2101
-56,2201,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Permintaan Blokir Kartu Kredit ( blok L ),Nasabah Mengajukan Pemblokiran Permanen Kartu Kredit (Blok L) dan Penggantian Kartu Kredit,,,,,,"T3.1 - CDD(ACU OTO), T3.2 - CDD(ACU CHARGEBACK), T3.3 - CDD (CLF-1 DATAM)",1,,,131,,6,5,Done,KKD-CRI-DATAM,,,,1B,Credit & Digital Lending,,,,,,,,,"Permintaan pemblokiran KK BRI
+56,2201,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Permintaan Blokir Kartu Kredit ( blok L ),Nasabah Mengajukan Pemblokiran Permanen Kartu Kredit (Blok L) dan Penggantian Kartu Kredit,,,,,,"T3.1 - CDD(ACU OTO), T3.2 - CDD(ACU CHARGEBACK), T3.3 - CDD (CLF-1 DATAM)",1,,,5,,6,5,Done,KKD-CRI-DATAM,,,,1B,Credit & Digital Lending,,,,,,,,,"Permintaan pemblokiran KK BRI
  Pelapor : ...
  Hubungan dengan pelapor : ( jika pelapor adalah ybs, field ini dikosongkan )
  Alasan pemblokiran : ...
@@ -897,7 +897,7 @@ Copy PCHI	",2702
  Terima kasih.
  
  Salin screen PCHI (screen yang menunjukkan pembayaran terakhir)",2800
-74,2802,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Complaint - Transaction,Autodebet di Kartu Kredit (Pembayaran tagihan kartu kredit dari tabungan),Nasabah Komplain Pembayaran Auto Debet Kartu Kredit dari Tabungan Tidak Berhasil,,,,,,"T3.1 - CDD(OPE LKK), T3.2- CDD(OPE ITEM)",1,,,21,,4,3,Done,KKD-OPS-ITEM,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan complain autodebet ( tidak didebet/ terdebet …. Kali )
+74,2802,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Complaint - Transaction,Autodebet di Kartu Kredit (Pembayaran tagihan kartu kredit dari tabungan),Nasabah Komplain Pembayaran Auto Debet Kartu Kredit dari Tabungan Tidak Berhasil,,,,,,"T3.1 - CDD(OPE LKK), T3.2- CDD(OPE ITEM)",1,,,3,,4,3,Done,KKD-OPS-ITEM,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan complain autodebet ( tidak didebet/ terdebet …. Kali )
  Nomer Rekening :
  Atas Nama :
  Jenis pembayaran :minimum/full payment
@@ -933,7 +933,7 @@ Copy PCHI	",2702
  
  Mohon tindaklanjut
  Copy month profile & cur bal",3202
-79,3203,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,"Permintaan Penutupan Kartu Kredit tanpa Anti Attrition, ada tagihan","Nasabah Mengajukan Penutupan Kartu Kredit, Namun Ada Tagihan",,,,,Move GIC,"T3.1 - CDD(OPE ITEM), T3.2 - CDD(CLF-1 DATAM)",1,,,52,,8,7,Done,KKD-CRI-DATAM,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan penutupan kartu kredit
+79,3203,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,"Permintaan Penutupan Kartu Kredit tanpa Anti Attrition, ada tagihan","Nasabah Mengajukan Penutupan Kartu Kredit, Namun Ada Tagihan",,,,,Move GIC,"T3.1 - CDD(OPE ITEM), T3.2 - CDD(CLF-1 DATAM)",1,,,7,,8,7,Done,KKD-CRI-DATAM,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan penutupan kartu kredit
  Alasan tutup kartu kredit
  Sudah sarankan/edukasi/probing : …..
  
@@ -941,7 +941,7 @@ Copy PCHI	",2702
  
  Mohon tindaklanjut
  Copy month profile & cur bal",3203
-8,3204,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,"Permintaan Penutupan Kartu Kredit tanpa Anti Attrition (tidak ada tagihan, ada Asuransi)",Nasabah Mengajukan Penutupan Kartu Kredit Namun Masih Terdaftar Asuransi,,,,,,"T3.1 - CDD (SPD SCD), T3.2 - CDD(CLF-1 DATAM), Include Insurance Company",1,,,82,,11,1,Done,KKD-PBK-KKPBK,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan penutupan kartu kredit
+8,3204,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,"Permintaan Penutupan Kartu Kredit tanpa Anti Attrition (tidak ada tagihan, ada Asuransi)",Nasabah Mengajukan Penutupan Kartu Kredit Namun Masih Terdaftar Asuransi,,,,,,"T3.1 - CDD (SPD SCD), T3.2 - CDD(CLF-1 DATAM), Include Insurance Company",1,,,1,,11,1,Done,KKD-PBK-KKPBK,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan penutupan kartu kredit
  Alasan tutup kartu kredit
  Sudah sarankan/edukasi/probing : …..
  Nomor telpon Nsb yg dapat dihubungi atau Ch keberatan dihubungi kembali karena ….
@@ -950,7 +950,7 @@ Copy PCHI	",2702
  
  Mohon tindaklanjut
  Copy month profile & cur bal",3204
-81,3205,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,"Permintaan Penutupan Kartu Kredit tanpa Anti Attrition (ada tagihan, ada asuransi)",Nasabah Mengajukan Penutupan Kartu Kredit Namun Masih Terdaftar Asuransi dan Ada Tagihan,,,,,New Case Type -,"T3.1 - CDD(SPD SCD), T3.2 - CDD(CLF-1 DATAM), Include Insurance Company",1,,,82,,11,1,Done,KKD-PBK-KKPBK,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan penutupan kartu kredit
+81,3205,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,"Permintaan Penutupan Kartu Kredit tanpa Anti Attrition (ada tagihan, ada asuransi)",Nasabah Mengajukan Penutupan Kartu Kredit Namun Masih Terdaftar Asuransi dan Ada Tagihan,,,,,New Case Type -,"T3.1 - CDD(SPD SCD), T3.2 - CDD(CLF-1 DATAM), Include Insurance Company",1,,,1,,11,1,Done,KKD-PBK-KKPBK,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan penutupan kartu kredit
  Alasan tutup kartu kredit
  Sudah sarankan/edukasi/probing : …..
  
@@ -1355,7 +1355,7 @@ Copy PCHI	",2702
  Salin status karut kredit (screen PCHI).",6101
 108,6102,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,"Permintaan Surat Keterangan Lunas, Pernah ada Tunggakan",Nasabah Dengan Status Pernah Menunggak Mengajukan Surat Keterangan Lunas,,,1,"1. surat pernyataan
 2. ktp
-3. kartu kredit",,"T3.1 - CDD(CLL HC), T3.2 - CDD(CLL RE)",1,,,36,,1,9,Done,KKD-CLL-HC,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah meminta surat pelunasan
+3. kartu kredit",,"T3.1 - CDD(CLL HC), T3.2 - CDD(CLL RE)",1,,,9,,1,9,Done,KKD-CLL-HC,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah meminta surat pelunasan
  Alasan :
  Keterangan alamat kantor/rumah/nomor telpon yang baru :
  Copy screen PCHI",6102
@@ -1366,7 +1366,7 @@ Copy PCHI	",2702
  Copy PCHI",6103
 11,6200,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Permintaan Ubah Data Namun Kartu Kredit Blok Coll,Nasabah Mengajukan Perubahan Data Kartu Kredit Dengan Keterangan Blok Coll (Blok E/W/Z),,,1,"1. surat pernyataan
 2. ktp
-3. kartu kredit",,"T3.1 - CDD(CLL RE), T3.2 - CDD(CLF-1 DATAM)",1,,,71,,9,8,Done,KKD-CLL-RE,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah informasikan alamat/nomor telpon rumah/ nomor telpon kantor/ nomor handphone berubah
+3. kartu kredit",,"T3.1 - CDD(CLL RE), T3.2 - CDD(CLF-1 DATAM)",1,,,8,,9,8,Done,KKD-CLL-RE,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah informasikan alamat/nomor telpon rumah/ nomor telpon kantor/ nomor handphone berubah
  Agent sarankan melakukan pembayaran dan menghubungi kembali H+1 setelah pembayaran
  
  Nasabah informasikan alamat/nomor telpon rumah/ nomor telpon kantor/ nomor handphone berubah
@@ -1398,7 +1398,7 @@ Copy PCHI	",2702
  Alasan :
  Keterangan alamat kantor/rumah/nomor telpon yang baru :
  Copy screen PCHI",6403
-115,7101,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Permintaan Perhitungan Bunga Kartu Kredit,Nasabah Mengajukan Perhitungan Bunga Transaksi Kartu Kredit,,,,,"Notes: Perlu Pengembangan System oleh APP untuk menghitung rincian bunga, Butuh perpanjangan SLA","T3.1 - CDD(SPD SCD), T3.2 - CDD(OPE ITEM), T3.3 - CDD(ACU UserCo), T4.1 - CRS",1,,,234,1,11,1,Done,KKD-PBK-KKPBK,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah meminta perhitungan bunga
+115,7101,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Permintaan Perhitungan Bunga Kartu Kredit,Nasabah Mengajukan Perhitungan Bunga Transaksi Kartu Kredit,,,,,"Notes: Perlu Pengembangan System oleh APP untuk menghitung rincian bunga, Butuh perpanjangan SLA","T3.1 - CDD(SPD SCD), T3.2 - CDD(OPE ITEM), T3.3 - CDD(ACU UserCo), T4.1 - CRS",1,,,9,1,11,1,Done,KKD-PBK-KKPBK,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah meminta perhitungan bunga
  Lembar tagihan bulan :
  Nominal bunga :
  Alamat email/ nomor fax :
@@ -1494,7 +1494,7 @@ Copy PCHI	",2702
  Copy biaya yang dimaksud
  
  (Cantumkan juga nominal atau total nominal pada kolom nominal)",7204
-121,7205,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Pengajuan Penghapusan Biaya estatement,Nasabah Mengajukan Penghapusan Biaya E-statement,,,,,,"T3.1 - CDD(OPE Delivery), T3.2 - CDD(OPE ITEM)",1,,,25,,8,7,Done,KKD-AKK-ACQPR,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan Penghapusan Biaya estatement
+121,7205,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Pengajuan Penghapusan Biaya estatement,Nasabah Mengajukan Penghapusan Biaya E-statement,,,,,,"T3.1 - CDD(OPE Delivery), T3.2 - CDD(OPE ITEM)",1,,,7,,8,7,Done,KKD-AKK-ACQPR,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan Penghapusan Biaya estatement
  Tagihan bulan : ( b/s cycle )
  Nominal : Rp . …
  Alasan pengajuan : ...
@@ -1516,7 +1516,7 @@ Copy PCHI	",2702
  Copy biaya yang dimaksud
  
  (Cantumkan juga nominal atau total nominal pada kolom nominal)",7206
-123,7207,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Pengajuan Penghapusan Biaya Kenaikan Limit,Nasabah Mengajukan Penghapusan Biaya Kenaikan Limit Kartu Kredit,,,,,,"T3.1 - CDD(CLF-1 LIMIT), T3.2 - CDD(OPE ITEM)",1,,,42,,7,6,Done,KKD-CRI-LIMIT,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan Penghapusan Biaya Kenaikan Limit
+123,7207,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Pengajuan Penghapusan Biaya Kenaikan Limit,Nasabah Mengajukan Penghapusan Biaya Kenaikan Limit Kartu Kredit,,,,,,"T3.1 - CDD(CLF-1 LIMIT), T3.2 - CDD(OPE ITEM)",1,,,6,,7,6,Done,KKD-CRI-LIMIT,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan Penghapusan Biaya Kenaikan Limit
  Tagihan bulan : ( b/s cycle )
  Nominal : Rp . …
  Alasan pengajuan : ...
@@ -1540,7 +1540,7 @@ Copy PCHI	",2702
  (Cantumkan juga nominal atau total nominal pada kolom nominal)",7208
 125,7700,TRUE,Funding & Retail Payment,Individu Umum,Loans,Kartu Kredit,Fraud / Suspicious Transactions,Komplain Transaksi Kartu Kredit tidak di akui merchant BRI,Nasabah Melaporkan Sanggahan Transaksi Kartu Kredit BRI di Merchant BRI,,,1,"1. form sanggahan 
 2. ktp 
-3. kartu kredit",Notes: Membuat Pelaporan dengan call type 2203,"T3.1 - FST(TSC), T4.1 - CRS",1,,,71,,9,8,Done,KKD-AKK-ACQPR,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan keberatan transaksi pada
+3. kartu kredit",Notes: Membuat Pelaporan dengan call type 2203,"T3.1 - FST(TSC), T4.1 - CRS",1,,,8,,9,8,Done,KKD-AKK-ACQPR,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan keberatan transaksi pada
  Tagihan bulan : ... ( b/s cycle )
  Tanggal transaksi : ...
  Lokasi transaksi : ... ( nama merchant )
@@ -1607,7 +1607,7 @@ Copy PCHI	",2702
  Copy PCHI",7701
 127,7702,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Complaint - Transaction,Komplain Transaksi Tarik Tunai Kartu Kredit di ATM Bank Lain Tidak Diakui (GIC - ORD),Nasabah Komplain Gagal Tarik Tunai Menggunakan Kartu Kredit di ATM Bank Lain,,,1,"1. form sanggahan 
 2. ktp 
-3. kartu kredit",,"T3.1 - CDD(ACU CHARGEBACK), T3.2 - CDD(OPE ITEM)",1,,,43,,8,7,Done,KKD-RMG-CHARGEBACK,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan keberatan transaksi pada
+3. kartu kredit",,"T3.1 - CDD(ACU CHARGEBACK), T3.2 - CDD(OPE ITEM)",1,,,7,,8,7,Done,KKD-RMG-CHARGEBACK,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan keberatan transaksi pada
  Tagihan bulan : ... ( b/s cycle )
  Tanggal transaksi : ...
  Tanggal Posting :
@@ -1624,7 +1624,7 @@ Copy PCHI	",2702
  Copy PCHI",7702
 128,7703,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Fraud / Suspicious Transactions,Komplain Transaksi Kartu Kredit tidak di akui merchant Bank Lain,Nasabah Melaporkan Sanggahan Transaksi Kartu Kredit BRI di Merchant Bank Lain,,,1,"1. form sanggahan 
 2. ktp 
-3. kartu kredit","Notes: Membuat Pelaporan dengan call type 2203, perlu konfirmasi dengan ORD","T3.1 - ORD(FBI), T3.2 - CDD(ACU CHARGEBACK), T3.3 - CDD(OPE ITEM)",1,,,323,,9,8,Done,KKD-OPS-ITEM,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan keberatan transaksi pada
+3. kartu kredit","Notes: Membuat Pelaporan dengan call type 2203, perlu konfirmasi dengan ORD","T3.1 - ORD(FBI), T3.2 - CDD(ACU CHARGEBACK), T3.3 - CDD(OPE ITEM)",1,,,8,,9,8,Done,KKD-OPS-ITEM,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan keberatan transaksi pada
  Tagihan bulan : ... ( b/s cycle )
  Tanggal transaksi : ...
  Tanggal Posting :
@@ -1680,7 +1680,7 @@ Copy PCHI	",2702
  Terima kasih",7704
 13,7705,TRUE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Complaint - Transaction,Transaksi Gagal di EDC Bank Lain Namun Ditagihkan,Nasabah Komplain Gagal Transaksi Kartu Kredit di EDC Bank Lain Namun ada Tagihan,,,1,"1. form sanggahan 
 2. ktp 
-3. kartu kredit",New Case Type -,"T3.1 - CDD(ACU CHARGEBACK), T3.2 - CDD(OPE ITEM)",1,,,43,,8,7,Done,KD-RMG-CHARGEBACK,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan keberatan transaksi pada
+3. kartu kredit",New Case Type -,"T3.1 - CDD(ACU CHARGEBACK), T3.2 - CDD(OPE ITEM)",1,,,7,,8,7,Done,KD-RMG-CHARGEBACK,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan keberatan transaksi pada
 Tagihan bulan : ... ( b/s cycle )
 Tanggal transaksi : ...
 Lokasi transaksi : ... ( nama merchant )
@@ -2968,13 +2968,13 @@ Mohon untuk dapat ditindaklanjuti.
 Atas bantuannya saya ucapkan terima kasih.         
 ( Copy transaksi yang terdapat pada aplikasi Portal QRIS pada laporan BRIcare)",8636
 222,8640,TRUE,Brilink Network,UMKM,Transaction Banking,Merchant Solutions,Platform & Device Support,Permasalahan mesin EDC Agen BRILink,Agen BRILink Komplain Kendala pada Mesin EDC,1.0,"1. Perangkat - Tidak dapat melakukan transaksi
-2. Perangkat - Kerusakan EDC/Perangkat pendukung",,,"New Case Type - Sub: EDC Konvensional, MPOS","T3.1 - BBD(ORR), T3.2 - RO BRILink, T3.3 - RO ITE, T4.1 - BRANCH(Uker)",1,,,222,3,1,9,Done,BBD-ORR,,,,1B,Regular Banking,,,,,,,,,"Nasabah Infokan mesin EDC BRILink Error / tidak bisa digunakan….
+2. Perangkat - Kerusakan EDC/Perangkat pendukung",,,"New Case Type - Sub: EDC Konvensional, MPOS","T3.1 - BBD(ORR), T3.2 - RO BRILink, T3.3 - RO ITE, T4.1 - BRANCH(Uker)",1,,,6,3,1,9,Done,BBD-ORR,,,,1B,Regular Banking,,,,,,,,,"Nasabah Infokan mesin EDC BRILink Error / tidak bisa digunakan….
  
  Nama Agen :
  Nomor TID / MID:
  Lokasi / Alamat Agen :
  Detail Kendala yang dialami :",8640
-223,8641,TRUE,Brilink Network,UMKM,Transaction Banking,Merchant Solutions,Request,Pengajuan mesin EDC BRILink,Agen BRILink Mengajukan Mesin EDC,,,,,New Case Type -,"T3.1 - BBD(ORR), T3.2 - RO BRILink, T3.3 - RO ITE, T4.1 - BRANCH(Uker)",1,,,232,3,11,1,Done,BBD-ORR,,,,1B,Regular Banking,,,,,,,,,"Nasabah Infokan ingin pengajuan mesin EDC BRILink….
+223,8641,TRUE,Brilink Network,UMKM,Transaction Banking,Merchant Solutions,Request,Pengajuan mesin EDC BRILink,Agen BRILink Mengajukan Mesin EDC,,,,,New Case Type -,"T3.1 - BBD(ORR), T3.2 - RO BRILink, T3.3 - RO ITE, T4.1 - BRANCH(Uker)",1,,,7,3,11,1,Done,BBD-ORR,,,,1B,Regular Banking,,,,,,,,,"Nasabah Infokan ingin pengajuan mesin EDC BRILink….
  
  Nama Agen :
  Nomor TID / MID:
@@ -3432,7 +3432,7 @@ Jam menerima Email Notifikasi : …
 Email Pelapor : …
 Pelapor Memiliki Rekening BRI/Tidak Memiliki Rekening BRI : …. (Ya/Tidak).
 Nomor Rekening : ……. (jika Pelapor Nasabah BRI)",8987
-265,8988,TRUE,Brilink Network,UMKM,Transaction Banking,Merchant Solutions,Complaint - Non-Transaction,sanggahan pendaftaran mitra keagenan BRI (BRILink),Nasabah/Non-Nasabah BRI Melaporkan Sanggahan Pendaftaran Agen BRILink,,,,,TBC BRILINK nama bagian di divisi BRILINK,"T3.1 - BBD(ORR), T3.2 - RO-BRILink, T4.1 BRANCH(Uker)",1,,,243,,1,9,Done,LCC-CCTCALL,,,,1B,Regular Banking,,,,,,,,,"Pelapor melaporkan Sanggahan Pendaftaran Mitra Keagenan BRI (Agen Brilink)
+265,8988,TRUE,Brilink Network,UMKM,Transaction Banking,Merchant Solutions,Complaint - Non-Transaction,sanggahan pendaftaran mitra keagenan BRI (BRILink),Nasabah/Non-Nasabah BRI Melaporkan Sanggahan Pendaftaran Agen BRILink,,,,,TBC BRILINK nama bagian di divisi BRILINK,"T3.1 - BBD(ORR), T3.2 - RO-BRILink, T4.1 BRANCH(Uker)",1,,,9,,1,9,Done,LCC-CCTCALL,,,,1B,Regular Banking,,,,,,,,,"Pelapor melaporkan Sanggahan Pendaftaran Mitra Keagenan BRI (Agen Brilink)
 Pelapor/Korban mengetahui ada transaksi yang disanggah melalui : …… (SMS Notifikasi).
 Nominal Transaksi yang tidak diakui: Rp……,-
 Sebanyak          :  …(berapa kali).
@@ -3666,7 +3666,7 @@ Detail Permasalahan :",9200
 278,8632-1,TRUE,Funding & Retail Payment,UMKM,Transaction Banking,Merchant Solutions,Complaint - Transaction,QRIS Statis - Kurang Bayar,Merchant Komplain Kurang/Belum Terbayar atas Settlement Transaksi QRIS Statis (Goodfaith),,,,,New Case Type - Notes: Butuh koordinasi dengan switching/principle kurang lebih 30 Hari,"T3.1 - FST(MCO), Include POD(MSR), Include Third Party(Goodfaith)",1,,,3,,31,3,Done,RPT-MCO,,,,1B,Regular Banking,,,,,,,,,,8632-1
 279,8635-1,TRUE,Funding & Retail Payment,UMKM,Transaction Banking,Merchant Solutions,Complaint - Transaction,QRIS Dinamis - Kurang Bayar (Merchant),Merchant Komplain Kurang/Belum Terbayar atas Settlement Transaksi QRIS Dinamis (Goodfaith),,,,,New Case Type - Confirm with POD,"T3.1 - FST(MCO), Include POD(MSR), Include Third Party(Goodfaith)",1,,,3,,31,3,Done,RPT-MCO,,,,1B,Regular Banking,,,,,,,,,,8635-1
 28,8641-1,TRUE,Resolution Center,UMKM,Transaction Banking,Merchant Solutions,Inquiry,Nasabah Mengajukan Sebagai Agen BRILink,Nasabah Menanyakan Informasi Cara Pengajuan Sebagai Agen BRILink,,,,,New Case Type -,T1 - Agent CCT/Frontliner,1,,,,,1,,Done,BBD-ORR,,,,1A,Regular Banking,,,,,,,,,,8641-1
-281,1000-1,TRUE,Digital Banking,Individu Umum,Loans,KTA - Digital,Complaint - Non-Transaction,Nasabah Komplain Terkait Pengajuan CERIA,Nasabah Komplain Terkait Pengajuan CERIA,,,,,New Case Type -,"T3.1- DDB(Helpdesk), T3.2 - DDB(OPS CERIA)",1,,,22,,5,4,Done,,,,,1B,Credit & Digital Lending,,,,,,,,,,1000-1
+281,1000-1,TRUE,Digital Banking,Individu Umum,Loans,KTA - Digital,Complaint - Non-Transaction,Nasabah Komplain Terkait Pengajuan CERIA,Nasabah Komplain Terkait Pengajuan CERIA,,,,,New Case Type -,"T3.1- DDB(Helpdesk), T3.2 - DDB(OPS CERIA)",1,,,4,,5,4,Done,,,,,1B,Credit & Digital Lending,,,,,,,,,,1000-1
 282,2700-1,TRUE,Resolution Center,Individu Umum,Loans,Kartu Kredit,Inquiry,Nasabah Menanyakan Informasi Pendaftaran Autodebet Kartu Kredit,Nasabah Menanyakan Informasi Pendaftaran Autodebet Kartu Kredit,,,,,New Case Type -,T1 - Agent CCT/Frontliner,1,,,,,1,,Done,,,,,1A,Credit & Digital Lending,,,,,,,,,,2700-1
 283,2703-1,TRUE,Resolution Center,Individu Umum,Loans,Kartu Kredit,Inquiry,Nasabah Menanyakan Informasi Pendaftaran Autopayment Kartu Kredit,Nasabah Menanyakan Informasi Pendaftaran Autopayment Kartu Kredit,,,,,New Case Type -,T1 - Agent CCT/Frontliner,1,,,,,1,,Done,,,,,1A,Credit & Digital Lending,,,,,,,,,,2703-1
 284,8106-10,TRUE,Resolution Center,Individu Umum,Investment,DPLK,Inquiry,Nomor CIF,Nasabah Menanyakan Nomor CIF DPLK,,,,,New Case Type -,T1 - Agent CCT/Frontliner,1,,,,,1,,Done,,,,,1A,Regular Banking,,,,,,,,,,8106-10
@@ -3680,26 +3680,26 @@ Detail Permasalahan :",9200
 292,8925-1,TRUE,Resolution Center,All,Servicing,"Informasi Promo, Program, Produk",Complaint - Non-Transaction,Nasabah Komplain Terkait Promo & Program BRI,Nasabah Komplain Terkait Promo & Program BRI,,,,,New Case Type -,"T2.1 - CRS, Include FST",1,5,,,,6,5,Done,,,,,1B,Regular Banking,,,,,,,,,,8925-1
 293,8952-1,TRUE,Resolution Center,UMKM,Savings,Tabungan,Inquiry,Nasabah/Non-Nasabah Menanyakan Informasi mengenai Simpedes UMI,"Nasabah/Non-Nasabah Menanyakan Cara, Syarat, dan Ketentuan mengenai Simpedes UMI",,,,,"New Case Type - Sub: Informasi Produk; Cara, Syarat & Ketentuan",T1 - Agent CCT/Frontliner,1,,,,,1,,Done,,,,,1A,Regular Banking,,,,,,,,,,8952-1
 294,8952-10,TRUE,Resolution Center,UMKM,Servicing,Senyum Mobile,Inquiry,Nasabah Menanyakan Informasi mengenai Tabungan Emas,"Nasabah Menanyakan Cara, Syarat, dan Ketentuan mengenai Tabungan Emas via Senyum Mobile",,,,,"New Case Type - Sub: Informasi Produk; Cara, Syarat & Ketentuan",T1 - Agent CCT/Frontliner,1,,,,,1,,Done,,,,,1A,Regular Banking,,,,,,,,,,8952-10
-295,8952-11,TRUE,Digital Banking,UMKM,Servicing,Senyum Mobile,Complaint - Transaction,Nasabah Komplain Gagal Transaksi BRIVA pada Tabungan Emas,Nasabah Komplain Gagal Transaksi BRIVA pada Tabungan Emas via Senyum Mobile,,,,,New Case Type - Confirm with DDB,"T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS Digital Apps), Include (PNM/PEGADAIAN)",1,,,28,,11,1,Done,,,,,1B,Regular Banking,,,,,,,,,,8952-11
+295,8952-11,TRUE,Digital Banking,UMKM,Servicing,Senyum Mobile,Complaint - Transaction,Nasabah Komplain Gagal Transaksi BRIVA pada Tabungan Emas,Nasabah Komplain Gagal Transaksi BRIVA pada Tabungan Emas via Senyum Mobile,,,,,New Case Type - Confirm with DDB,"T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS Digital Apps), Include (PNM/PEGADAIAN)",1,,,1,,11,1,Done,,,,,1B,Regular Banking,,,,,,,,,,8952-11
 296,8952-12,TRUE,Digital Banking,UMKM,Servicing,Senyum Mobile,Complaint - Non-Transaction,Nasabah Komplain Pendaftaran Rekening Tabungan Emas,Nasabah Komplain Pendaftaran Rekening Tabungan Emas via Senyum Mobile,1.0,"1. gagal upload foto
-2. ketidaksesuaian data dengan DUKCAPIL",,,"New Case Type - Sub: Ketidaksesuaian Data dengan DUKCAPIL, Confirm with DDB","T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS Digital Apps), Include (PNM/PEGADAIAN)",1,,,25,,8,7,Done,,,,,1B,Regular Banking,,,,,,,,,,8952-12
+2. ketidaksesuaian data dengan DUKCAPIL",,,"New Case Type - Sub: Ketidaksesuaian Data dengan DUKCAPIL, Confirm with DDB","T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS Digital Apps), Include (PNM/PEGADAIAN)",1,,,7,,8,7,Done,,,,,1B,Regular Banking,,,,,,,,,,8952-12
 297,8952-13*,TRUE,Ultra Micro,UMKM,Servicing,Senyum Mobile,Complaint - Non-Transaction,Nasabah Komplain Terkait Promo dan Program Tabungan Emas,Nasabah Komplain Terkait Promo dan Program Tabungan Emas via Senyum Mobile,,,,,New Case Type - Confirm with DDB,T3.1 - UMI,1,,,7,,8,7,Done,,,,,1B,Regular Banking,,,,,,,,,,8952-13*
-298,8952-14,TRUE,Digital Banking,UMKM,Servicing,Senyum Mobile,Complaint - Non-Transaction,Nasabah Komplain Terkait Kendala Aplikasi Senyum Mobile,Nasabah Komplain Terkait Kendala Aplikasi Senyum Mobile,,,,,New Case Type -,"T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS Digital Apps), Include (PNM/PEGADAIAN)",1,,,28,,11,1,Done,DCE,,,,1B,Regular Banking,,,,,,,,,,8952-14
+298,8952-14,TRUE,Digital Banking,UMKM,Servicing,Senyum Mobile,Complaint - Non-Transaction,Nasabah Komplain Terkait Kendala Aplikasi Senyum Mobile,Nasabah Komplain Terkait Kendala Aplikasi Senyum Mobile,,,,,New Case Type -,"T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS Digital Apps), Include (PNM/PEGADAIAN)",1,,,1,,11,1,Done,DCE,,,,1B,Regular Banking,,,,,,,,,,8952-14
 299,8952-2,TRUE,Digital Banking,UMKM,Savings,Tabungan,Complaint - Non-Transaction,Nasabah Komplain Pendaftaran Simpedes UMI,Nasabah Komplain Pendaftaran Simpedes UMI,1.0,"1. gagal upload foto
-2. ketidaksesuaian data dengan DUKCAPIL",,,"New Case Type - Sub: gagal upload foto; ketidaksesuaian data dengan DUKCAPIL, Confirm with DDB","T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS Digital Apps), Include (PNM/PEGADAIAN)",1,,,25,,8,7,Done,,,,,1B,Regular Banking,,,,,,,,,,8952-2
+2. ketidaksesuaian data dengan DUKCAPIL",,,"New Case Type - Sub: gagal upload foto; ketidaksesuaian data dengan DUKCAPIL, Confirm with DDB","T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS Digital Apps), Include (PNM/PEGADAIAN)",1,,,7,,8,7,Done,,,,,1B,Regular Banking,,,,,,,,,,8952-2
 3,8952-3,TRUE,Ultra Micro,UMKM,Savings,Tabungan,Complaint - Non-Transaction,Nasabah Komplain Terkait Promo dan Program Simpedes UMI,Nasabah Komplain Terkait Promo dan Program Simpedes UMI,,,,,New Case Type - Confirm with DDB,T3.1 - UMI,1,,,7,,8,7,Done,,,,,1B,Regular Banking,,,,,,,,,,8952-3
 301,8952-4,TRUE,Resolution Center,UMKM,Loans,"KPR, KUR, KMK, KI",Inquiry,Nasabah Menanyakan Informasi mengenai Pinjaman BRI,Nasabah Menanyakan Informasi mengenai Pinjaman BRI via Senyum Mobile,,,,,"New Case Type - Sub: Informasi Produk; Cara, Syarat & Ketentuan",T1 - Agent CCT/Frontliner,1,,,,,1,,Done,,,,,1A,Regular Banking,,,,,,,,,,8952-4
 302,8952-5,TRUE,Digital Banking,UMKM,Loans,"KPR, KUR, KMK, KI",Complaint - Non-Transaction,Nasabah Komplain Pengajuan Pinjaman BRI,Nasabah Komplain Pengajuan Pinjaman BRI via Senyum Mobile,1.0,"1. Status referral
-2. Kelurahan tidak terdaftar",,,"New Case Type - Sub: Status referral; Kelurahan tidak terdaftar., Confirm with DDB","T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS Digital Apps), Include (PNM/PEGADAIAN)",1,,,25,,8,7,Done,,,,,1B,Regular Banking,,,,,,,,,,8952-5
+2. Kelurahan tidak terdaftar",,,"New Case Type - Sub: Status referral; Kelurahan tidak terdaftar., Confirm with DDB","T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS Digital Apps), Include (PNM/PEGADAIAN)",1,,,7,,8,7,Done,,,,,1B,Regular Banking,,,,,,,,,,8952-5
 303,8952-6,TRUE,Resolution Center,UMKM,Loans,"KPR, KUR, KMK, KI",Inquiry,Nasabah Menanyakan Informasi mengenai Pinjaman MEKAAR PNM,"Nasabah Menanyakan Cara, Syarat, dan Ketentuan mengenai Pinjaman MEKAAR PNM via Senyum Mobile",,,,,"New Case Type - Sub: Informasi Produk; Cara, Syarat & Ketentuan",T1 - Agent CCT/Frontliner,1,,,,,1,,Done,,,,,1A,Regular Banking,,,,,,,,,,8952-6
 304,8952-7,TRUE,Digital Banking,UMKM,Loans,"KPR, KUR, KMK, KI",Complaint - Non-Transaction,Nasabah Komplain Pengajuan Pinjaman MEKAAR PNM,Nasabah Komplain Pengajuan Pinjaman MEKAAR PNM via Senyum Mobile,1.0,"1. Status referral
-2. Kelurahan tidak terdafta",,,"New Case Type - Sub: Status referral; Kelurahan tidak terdaftar., Confirm with DDB","T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS Digital Apps), Include (PNM/PEGADAIAN)",1,,,25,,8,7,Done,,,,,1B,Regular Banking,,,,,,,,,,8952-7
+2. Kelurahan tidak terdafta",,,"New Case Type - Sub: Status referral; Kelurahan tidak terdaftar., Confirm with DDB","T3.1 - DDB(Helpdesk), T3.2 - DDB(OPS Digital Apps), Include (PNM/PEGADAIAN)",1,,,7,,8,7,Done,,,,,1B,Regular Banking,,,,,,,,,,8952-7
 305,8952-8,TRUE,Resolution Center,UMKM,Loans,Pawning,Inquiry,Nasabah Menanyakan Informasi mengenai Gadai,"Nasabah Menanyakan Cara, Syarat, dan Ketentuan mengenai Gadai via Senyum Mobile",,,,,"New Case Type - Sub: Informasi Produk; Cara, Syarat & Ketentuan",T1 - Agent CCT/Frontliner,1,,,,,1,,Done,,,,,1B,Regular Banking,,,,,,,,,,8952-8
 306,8952-9,TRUE,Resolution Center,UMKM,Loans,Pawning,Complaint - Non-Transaction,Nasabah Melaporkan Kadaluwarsa Kode Booking Gadai,Nasabah Melaporkan Kadaluwarsa Kode Booking Gadai via Senyum Mobile,,,,,New Case Type -,T1 - Agent CCT/Frontliner,1,,,,,1,,Done,,,,,1A,Regular Banking,,,,,,,,,,8952-9
 307,TRB-1,TRUE,Transaction Banking,Korporasi,Servicing,Cash Management,Inquiry,"Nasabah Menanyakan Cut off transaksi RTGS, Kliring, Swift, BI-Fast","Nasabah Menanyakan Cut Off Transaksi RTGS, Kliring, Swift, BI-Fast pada QLOLA Apps",,,,,New Case Type -,T3.1 - TRB(OHD),1,,,1,,2,1,Done,,,,,1B,Regular Banking,,,,,,,,,,TRB-1
 308,TRB-10,TRUE,Transaction Banking,Korporasi,Servicing,Cash Management,Request,Nasabah Menanyakan Limit Transaksi Terlalu Kecil,Nasabah Menanyakan dan Mengajukan Limit Transaksi pada QLOLA Apps,,,,,New Case Type -,T3.1 - TRB(OHD),1,,,1,,2,1,Done,,,,,1B,Regular Banking,,,,,,,,,,TRB-10
 309,TRB-11,TRUE,Transaction Banking,Korporasi,Servicing,Cash Management,Request,Nasabah Menanyakan Perbedaan Exchange Rate,Nasabah Menanyakan Perbedaan Exchange Rate pada QLOLA Apps,,,1,"1. Bukti Transaksi
-2. Bukti Nego",New Case Type -,"T3.1 - TRB(OHD), T4.1 - APP(SDK), T4.2 - TRB(OHD)",1,,,1,18,11,1,Done,,,,,1C,Regular Banking,,,,,,,,,,TRB-11
+2. Bukti Nego",New Case Type -,"T3.1 - TRB(OHD), T4.1 - APP(SDK), T4.2 - TRB(OHD)",1,,,1,9,11,1,Done,,,,,1C,Regular Banking,,,,,,,,,,TRB-11
 31,TRB-12,TRUE,Transaction Banking,Korporasi,Servicing,Cash Management,Request,"Nasabah Mengajukan Penghapusan Biaya (Transaction, Non-Transaction)","Nasabah Mengajukan Penghapusan Biaya (Transaction, Non-Transaction) pada QLOLA Apps",,,,,New Case Type -,T3.1 - TRB(OHD),1,,,1,,2,1,Done,,,,,1B,Regular Banking,,,,,,,,,,TRB-12
 311,TRB-13,TRUE,Transaction Banking,Korporasi,Servicing,Cash Management,Request,"Nasabah Mengajukan Aktivasi Platform (QCash, Token)","Nasabah Mengajukan Aktivasi Platform (QCash, Token) pada QLOLA Apps",,,,,New Case Type -,T3.1 - TRB(OHD),1,,,1,,2,1,Done,,,,,1B,Regular Banking,,,,,,,,,,TRB-13
 312,TRB-14,TRUE,Transaction Banking,Korporasi,Servicing,Cash Management,Request,Nasabah Mengajukan Pengiriman Ulang email hasil registrasi,Nasabah Mengajukan Pengiriman Ulang email hasil registrasi pada QLOLA Apps,,,,,New Case Type -,T3.1 - TRB(OHD),1,,,1,,2,1,Done,,,,,1B,Regular Banking,,,,,,,,,,TRB-14
@@ -3801,7 +3801,7 @@ Detail Permasalahan :",9200
 351,UMI-3,TRUE,Ultra Micro,UMKM,Transaction Banking,Merchant Solutions,Complaint - Transaction,Mitra UMI Komplain Fee Transaksi Belum Masuk ke Rekening BRI,Mitra UMI Komplain Fee Transaksi Belum Masuk ke Rekening BRI,,,,,New Case Type -,T3.1 - UMI,1,,,3,,4,3,Done,,,,,1B,Regular Banking,,,,,,,,,,UMI-3
 34,1710,FALSE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Permintaan Cicilan Promo,Nasabah Mengajukan Cicilan Promo,,,,,Proposed to embed into 1707,,1,,,,,1,,Done,KKD-OPS-MSU,,,,n.a,,,,,,,,,,,1710
 39,1716,FALSE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Permintaan Cicilan 12 bln (Bring 12 bln),Nasabah Mengajukan Cicilan 12 Bulan,,,,,Proposed to embed into 1707,,1,,,,,1,,Done,KKD-OPS-MSU,,,,n.a,,,,,,,,,,,1716
-56,2203,FALSE,Resolution Center,Individu Umum,Loans,Kartu Kredit,Request,Permintaan blokir Kartu Kredit karena transaksi mencurigakan,Nasabah Mengajukan Pemblokiran Kartu Kredit Karena Sanggahan Transaksi,,,,,"Tidak dipakai Agent, langsung ke BO tapi akan dibuat ke 2201",,1,,,131,,6,5,Done,KKD-CRI-DATAM,,,,n.a,,,,,,,,,,,2203
+56,2203,FALSE,Resolution Center,Individu Umum,Loans,Kartu Kredit,Request,Permintaan blokir Kartu Kredit karena transaksi mencurigakan,Nasabah Mengajukan Pemblokiran Kartu Kredit Karena Sanggahan Transaksi,,,,,"Tidak dipakai Agent, langsung ke BO tapi akan dibuat ke 2201",,1,,,5,,6,5,Done,KKD-CRI-DATAM,,,,n.a,,,,,,,,,,,2203
 91,4214,FALSE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Perubahan No HP/TLP pada Kartu Kredit Utama,Nasabah Mengajukan Perubahan No HP/TLP pada Kartu Kredit Utama,,,1,"1. surat pernyataan
 2. ktp
 3. kartu kredit",Proposed to merge with 4204,,1,,,,,1,,Done,KKD-AKK-PLTNM,,,,n.a,,,,,,,,,,,4214
@@ -3841,9 +3841,9 @@ Terima kasih",8406
 221,8701,FALSE,Resolution Center,Individu Umum,Servicing,Kartu Debit,Request,Blokir Kartu ATM karena kartu hilang,Nasabah Mengajukan Blokir Kartu Hilang,,,,,Proposed to merge with 8405,,1,,,,,1,,Done,LCC-CCTCALL,,,,n.a,,,,,,,,,,,8701
 252,8949,FALSE,Resolution Center,Individu Umum,Loans,KTA - Digital,Platform & Device Support,Pengajuan Briguna Digital Sistem Timeout,Pengajuan Briguna Digital Sistem Timeout,,,1,1. Screen Shot aplikasi briguna digital,Proposed to merge as sub in 8940,,1,,,,,1,,Done,DCE,,,,n.a,,,,,,,,,,,8949
 253,8950,FALSE,Digital Banking,Individu Umum,Loans,KTA - Digital,Platform & Device Support,Pengajuan Briguna Digital Wajah Tidak Terdeteksi,Pengajuan Briguna Digital Wajah Tidak Terdeteksi,,,1,1. Screen Shot aplikasi briguna digital,Proposed to merge as sub in 8940,,1,,,,,1,,Done,DCE,,,,n.a,,,,,,,,,,,8950
-254,8951,FALSE,Digital Banking,UMKM,Loans,"KPR, KUR, KMK, KI",Platform & Device Support,KECEKU Fitur Suplesi Otomatis KUPEDES,KECEKU Fitur Suplesi Otomatis KUPEDES,,,,,New Case Type - Perlu konfirmasi dengan Team Terkait DDB,,1,,,11,,3,2,Done,DCE,,,,n.a,,,,,,,,,,,8951
-255,8952,FALSE,Digital Banking,UMKM,Servicing,Senyum Mobile,Platform & Device Support,Aplikasi SenyuM Mobile,Aplikasi SenyuM Mobile,1.0,,,,New Case Type -,,1,,,28,,11,1,Done,DCE,,,,n.a,,,,,,,,,,,8952
-256,8953,FALSE,Digital Banking,UMKM,Savings,Deposito,Complaint - Non-Transaction,Tabungan Emas via SenyuM Mobile,Nasabah Komplain Gagal Pembukaan Rekening Tabungan Emas atau Gagal Top Pp Namun Saldo Terdebet,,,,,New Case Type - Perlu konfirmasi dengan Team Terkait DDB & UMI,,1,,,28,,11,1,Done,DCE,,,,n.a,,,,,,,,,,,8953
+254,8951,FALSE,Digital Banking,UMKM,Loans,"KPR, KUR, KMK, KI",Platform & Device Support,KECEKU Fitur Suplesi Otomatis KUPEDES,KECEKU Fitur Suplesi Otomatis KUPEDES,,,,,New Case Type - Perlu konfirmasi dengan Team Terkait DDB,,1,,,2,,3,2,Done,DCE,,,,n.a,,,,,,,,,,,8951
+255,8952,FALSE,Digital Banking,UMKM,Servicing,Senyum Mobile,Platform & Device Support,Aplikasi SenyuM Mobile,Aplikasi SenyuM Mobile,1.0,,,,New Case Type -,,1,,,1,,11,1,Done,DCE,,,,n.a,,,,,,,,,,,8952
+256,8953,FALSE,Digital Banking,UMKM,Savings,Deposito,Complaint - Non-Transaction,Tabungan Emas via SenyuM Mobile,Nasabah Komplain Gagal Pembukaan Rekening Tabungan Emas atau Gagal Top Pp Namun Saldo Terdebet,,,,,New Case Type - Perlu konfirmasi dengan Team Terkait DDB & UMI,,1,,,1,,11,1,Done,DCE,,,,n.a,,,,,,,,,,,8953
 257,8985,FALSE,Resolution Center,UMKM,Transaction Banking,Merchant Solutions,Inquiry,Informasi Status Transaksi Merchant,Informasi Status Transaksi Merchant,,,,,Merge to 8620,,1,,,,,1,,Done,LCC-CCTCALL,,,,n.a,,,,,,,,,,,8985
 267,8106-1*,FALSE,Investment Service,Individu Umum,Investment,DPLK,Complaint - Transaction,Claim yang belum terbayarkan ke nasabah,"Nasabah Komplain Claim DPLK Belum Terbayarkan, Nasabah Menanyakan Terkait Progress Perubahan Jenis Investasi",,,,,New Case Type -,,1,,,9,,1,9,Done,,,,,n.a,,,,,,,,,,,8106-1*
 27,8106-2*,FALSE,Investment Service,Individu Umum,Investment,DPLK,Complaint - Transaction,Penarikan sebagian yang belum terbayarkan ke nasabah,Nasabah Komplain Penarikan Sebagian Belum Terbayarkan,1.0,,,,New Case Type -,,1,,,9,,1,9,Done,,,,,n.a,,,,,,,,,,,8106-2*
