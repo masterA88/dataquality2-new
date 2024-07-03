@@ -1,0 +1,291 @@
+No,Case Types,active,User Grouping_New,Segment,Product,Sub Product,Case Category,Case Description,New Case Description,Required Sub-Description,Sub,Doc Intake,List Kebutuhan Dokumen,BRI Notes,Team Name,T1 - Agent CCT/Frontliner,T2.1 - Supporting Unit,T2.2 - Supporting Unit,T3.1 - Product Owner,T4.1 - Technical Team,Total SLA,New SLA,Status,GIC,Maker,Checker,Signer,Courtesy Awal,Kebutuhan Data,Jenis Produk dan atau Layanan LKPBU,Kategori Permasalahan LKPBU,Jenis Transaksi LKPBU,Penyebab Pengaduan LKPBU,Jenis Produk LBUT,Sandi Jenis  Produk LBUT,Sebab Pengaduan LBUT,Sandi Penyebab LBUT,Detail BRICare,external_id
+22.0,1100,True,Resolution Center,"Individu Umum, Individu Priority & Private",Loans,Kartu Kredit,Inquiry,"Status Pengajuan Aplikasi, Cara & Syarat [Sanggahan pengajuan kartu kredit]",Nasabah Menanyakan Pengajuan Terkait Produk Kartu Kredit,1.0,"1. Cara, Syarat & Ketentuan
+2. Status
+3. Pembatalan",,,"Sub: Cara, Syarat & Ketentuan, Status, Pembatalan",T1 - Agent CCT/Frontliner,1.0,,,,,1.0,,Done,KKD-AKK-ACQPR,,,,1A,Credit & Digital Lending,,,,,,,,,"Nasabah menanyakan syarat dan ketentuan mengajukan kartu kredit BRI, sudah dijelaskan mengenai …
+ (diisi sesuai dengan penjelasan yang diberikan)
+ 
+ rilis
+ Nasabah menanyakan status aplikasi kartu kredit.
+ Sudah di infokan oleh CSR status kartu kredit yang dimaksud.
+ Copy dari LOS.",1100
+24.0,1201,True,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Complaint - Non-Transaction,Komplain aplikasi Kartu Kredit Co Branding (pengajuan kartu kredit),Nasabah Komplain Pengajuan Aplikasi Kartu Kredit Co-Branding,,,,,,T3.1 - CDD(MPP PRN),1.0,,,1.0,,11.0,1.0,Done,KKD-MPP-PRN,,,,1B,Credit & Digital Lending,,,,,,,,,"Sudah ada hasil status pengajuan kartu kredit Co Branding di LOS :
+ 
+ Nasabah menanyakan status pengajuan aplikasi kartu kredit
+ Pengajuan melalui apa:
+ Pengajuan ditanggal berapa:
+ Nomor KTP:
+ Nomor Ponsel yang didaftarkan:
+ Sudah infokan hasil pengajuan ( infokan sesuai LOS )
+ ( Copy paste hasil pengecekan LOS )
+ 
+ 
+ Complain kendala pada saat pengajuan Kartu Co Branding :
+ Nasabah Complain tidak dapat pengajuan Co Branding :
+ Jenis kartu Co Branding :
+ Alasan :
+ Respon yang muncul di aplikasi :
+ Digital Sign : ( terima / tidak terima )
+ Alamat email :
+ No Hp yang terdaftar di aplikasi :
+ Keterangan tambahan :",1201
+29.0,1211,True,Resolution Center,"Individu Umum, Individu Priority & Private",Loans,Kartu Kredit,Request,Program Internal Telesales (agent inbound to outbond),Nasabah Mengajukan Cicilan Kartu Kredit Melalui Telesales,1.0,"1. Transaksi >7 Hari
+2. Pengajuan Loan on Phone",,,"Sub: Transaksi >7 Hari, Pengajuan Loan on Phone",T2.1 - Telesales,1.0,1.0,,,,2.0,1.0,Done,LCC-CCTTELE,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah ingin mengikuti program .....
+ Nomor telp yang bisa dihubungi : ....
+ 
+ Mohon bantuan tindak lanjut. Terima kasih.
+ 
+ Copy Month Profile PCHI",1211
+35.0,1708,True,"Card, Digital Lending & Assset","Individu Umum, Individu Priority & Private",Loans,Kartu Kredit,Request,"Permintaan Pelunasan Awal Cicilan (Refund Merchant, Dobel Cicilan, Error Cicilan)",Nasabah Mengajukan Pembatalan Cicilan Terhadap Transaksi Kartu Kredit,1.0,"1. Refund Merchant
+2. Dobel Cicilan
+3. Error Cicilan",,,"Sub: Refund Merchant, Dobel Cicilan, Error Cicilan","T3.1 - CDD(OPE MSU), T3.2 - CDD(ACU OTO)",1.0,,,5.0,,6.0,5.0,Done,KKD-OPS-MSU,,,,1B,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan pelunasan awal cicilan Belanja Ringan untuk transaksi
+ 
+ Nama Merchant :
+ Tanggal Transaksi :
+ Nominal Transaksi :
+ Tenor :
+ Bunga :
+ Kode Approval Cicilan :
+ Cicilan per-bulan :
+ Alasan Preterminated :
+ Nominal refund :
+ Sisa Cicilan :
+ Pinalti :
+ Sisa bunga yang belum tertagih :
+ Koreksi Biaya admin :
+ Koreksi bunga yang sudah tertagih :
+ 
+ 
+ Syarat dan ketentuan yang berlaku disetujui oleh nasabah.
+ 
+ Tolong bantuannya untuk tindak lanjut.
+ Terima kasih.
+ copy month profile PCHI",1708
+36.0,1709,True,"Card, Digital Lending & Assset","Individu Umum, Individu Priority & Private",Loans,Kartu Kredit,Request,Permintaan Pelunasan Awal Cicilan (Request Pemegang Kartu),Nasabah Mengajukan Pelunasan Awal Cicilan,,,1,"1. surat pernyataan
+2. ktp
+3. kartu kredit",,"T3.1 - CDD(OPE MSU), T3.2 - CDD(ACU OTO)",1.0,,,6.0,,7.0,6.0,Done,KKD-OPS-MSU,,,,1C,Credit & Digital Lending,,,,,,,,,"Nasabah mengajukan pelunasan awal cicilan Belanja Ringan untuk transaksi
+ 
+ Nama Merchant :
+ Tanggal Transaksi :
+ Nominal Transaksi :
+ Tenor :
+ Bunga :
+ Kode Approval Cicilan :
+ Cicilan per-bulan :
+ Alasan Preterminated :
+ Nominal refund :
+ Sisa Cicilan :
+ Pinalti :
+ Sisa bunga yang belum tertagih :
+ Koreksi Biaya admin :
+ Koreksi bunga yang sudah tertagih :
+ 
+ 
+ Syarat dan ketentuan yang berlaku disetujui oleh nasabah.
+ 
+ Tolong bantuannya untuk tindak lanjut.
+ Terima kasih.
+ copy month profile PCHI",1709
+131.0,7979,True,Resolution Center,Korporasi,Savings,Giro (CA),Inquiry,Nasabah Inti Kerjasama,Nasabah Inti Kerjasama (NIK) Menanyakan Informasi Pengunaan Cash Card,,,,,,T1 - Agent CCT/Frontliner,1.0,,,,,1.0,,Done,LCC-CCTNIK,,,,1A,Regular Banking,,,,,,,,,,7979
+139.0,8105,True,Resolution Center,Individu Umum,Investment,SBN (Bonds),Products / Promotion Inquiry,"TRUSTEE, KUSTODIAN, ORI, SUBSIDIARIES","Nasabah Menanyakan Cara, Syarat & Ketentuan Terkait Produk Investasi (Kustodian, ORI, Subsidiaries)",,,,,"Sub: Breakdown by Investment Product, Potential to generate leads",T2.1- CRS,1.0,1.0,,,,2.0,1.0,Done,LCC-CCTNIK,,,,1B,Regular Banking,,,,,,,,,"Nasabah komplain mengenai rekening investment ( DPLK, TRUSTEE, KUSTODIAN, ORI, SUBSIDIARIES)",8105
+14.0,8106,True,Investment Service,Individu Umum,Investment,DPLK (Pension Fund),Complaint - Transaction,DPLK Dana Pensiun Lembaga Keuangan (complain terkait DPLK),Nasabah Komplain Terkait Dana Pensiun Lembaga Keuangan (DPLK),1.0,"1. Claim DPLK Belum Terbayarkan
+2. Progress Perubahan Jenis Investasi
+3. Penarikan Sebagian Belum Terbayarkan
+4. Dana Pengalihan Masuk/Keluar Belum Berhasil
+5. Iuran DPLK Belum Masuk ke Rekening DPLK
+6. Pengiriman Ulang Portfolio/E-Statement DPLK
+7. Bukti potong pajak pembayaran DPLK",,,,T3.1 - INV(DPLK),1.0,,,9.0,,1.0,9.0,Done,DIS-DPLK,,,,1B,Regular Banking,,,,,,,,,"Peserta menanyakan Status DPLK/Saldo DPLK/Nomor Kartu DPLK
+ Atau pengecekan status Pencairan DPLK atau Syarat pengajuan Pencairan Saldo DPLK
+ (Hapus yang tidak diperlukan)
+ Nomor Kartu :
+ Nomor CIF :
+ Nama :
+ Tgl Lahir :
+ (Copy Informasi yang tercantum pada aplikasi SI DPLK)",8106
+163.0,8226,True,Resolution Center,"Individu Umum, Individu Priority & Private",Transaction Banking,Transaction Solution,Complaint - Transaction,BRIfast Remittance - Transfer Internasional (Gagal Transfer International namun saldo tetap berkurang),Nasabah Komplain Gagal Transfer International (BRIFast Remmitance),1.0,"1. Selisih Kurs Refund
+2. Dana tidak diterima di rekening tujuan
+3. Salah Transfer",,,"Sub: Selisih Kurs Refund, Dana tidak diterima di rekening tujuan, Salah Transfer Note: Butuh konfirmasi dgn POD terkait penggunaan DiO. TBC","T2.1 - CRS , Include POD(RSP), Include POD(ORC)",1.0,3.0,,,,4.0,3.0,Done,LCC-CRC,,,,1B,Regular Banking,,,,,,,,,"Nasabah Komplain Gagal Transaksi Transfer Internasional namun tidak mendebet / sudah ada pengembalian ke rekening nasabah.
+ 
+ Sudah sarankan agar dapat melakukan transaksi kembali
+ 
+ Nasabah Komplain Gagal Transaksi Transfer Internasional namun saldo berkurang
+ Asal Negara :
+ Nama Bank :
+ Nominal Transaksi:
+ Tanggal Transaksi:
+ Waktu Transaksi:
+ Nama Pemilik:
+ Nomor Rekening Tujuan:
+ Jalur Pengiriman : ............ ( SWIFT / Western Union )
+ Iban/ Swift code:
+ Nomor Referensi Transaksi:
+ Respon yang muncul saat transaksi:
+ Keterangan :
+ 
+ Mohon bantuan tindak lanjut
+ Terima kasih",8226
+179.0,8418,True,Operational Risk,Individu Umum,Servicing,Transaction Solution,Fraud / Suspicious Transactions,sanggahan transaksi/tidak merasa bertransaksi (dengan kartu ),Nasabah Melaporkan Sanggahan Transaksi Kartu Debit,1.0,"1. Indikasi adanya fraud internal
+2. Non Fraud Internal",,,Sub: indikasi adanya fraud internal,T2.1 - ORD(FBI),1.0,1.0,,,,11.0,1.0,Partially Done,LCC-FBI,,,,1B,Regular Banking,,,,,,,,,"Nasabah melaporkan Sanggahan Transaksi/Tidak Merasa Bertransaksi Dengan Kartu Debit.
+ Mengetahui transaksi melalui : …… (SMS/ WA/email notifikasi/mutasi rekening)
+ Saat terjadi transaksi Nasabah berada di : …… ( lokasi )
+ Nominal Transaksi yang disanggah Rp……,-
+ Sebanyak : …(kali )
+ Tanggal : …
+ Transaksi yang disanggah :
+ Nama pemilik rekening tujuan : … (jika transaksi yang disanggah adalah transfer)
+ No rekening tujuan : …
+ Kartu dipegang nasabah : Ya/tidak
+ Sudah jelaskan jenis transaksi yang disanggah
+ 
+ (Copy transaksi yang dilaporkan dari CHS Settle Complain)",8418
+18.0,8419,True,Operational Risk,Individu Umum,Servicing,Transaction Solution,Fraud / Suspicious Transactions,sanggahan transaksi/tidak merasa bertransaksi ( tanpa kartu ),Nasabah Melaporkan Sanggahan Transaksi Non-Kartu,1.0,"1. Indikasi adanya fraud internal
+2. Non Fraud Internal",,,Sub: indikasi adanya fraud internal,T2.1 - ORD(FBI),1.0,1.0,,,,11.0,1.0,Partially Done,LCC-FBI,,,,1B,Regular Banking,,,,,,,,,"Nasabah melaporkan saldo berkurang, merasa tidak pernah melakukan transaksi.
+ Tanggal transaksi :
+ Nominal transaksi :
+ Banyak Transaksi :
+ Jenis Transaksi : 
+ Yang disampaikan ke nasabah :
+ sudah jelaskan jenis transaksi yang disanggah : .......
+ Email Pelapor : ...
+ ( Cek CHS dan kamus transaksi di Library )
+ 
+ (Copy transaksi yang dimaksud)
+ 
+ Nasabah melaporkan saldo berkurang, merasa tidak pernah melakukan transaksi.
+ Saldo yang berkurang sebesar : Rp. …
+ Transaksi yang tidak diakui : transfer ke ( sebutkan nama Bank serta Cabangnya )
+ Nama pemilik rekening : …
+ No rekening : …
+ Sebanyak : …( berapa kali )
+ Tanggal : …
+ Layanan yang teregistrasi saat pelaporan :
+ sudah jelaskan jenis transaksi yang disanggah : .......
+ Email Pelapor : ...
+ ( Cek CHS dan kamus transaksi di Library )
+ 
+ Kantor bri yang dapat dikunjungi oleh nasabah :",8419
+2.0,8501,True,Resolution Center,"Individu Umum, Individu Priority & Private",Servicing,Kartu Debit,Request,Pengajuan PIN baru (Pin salah),Nasabah Menanyakan Informasi Pengajuan PIN Baru/PIN Salah,,,,,,T1 - Agent CCT/Frontliner,1.0,,,,,1.0,,Done,LCC-CCTCALL,,,,1A,Regular Banking,,,,,,,,,"Nasabah menanyakan status PIN kartu ATM :
+ Detail komplain nsb : (catat dengan lengkap)
+ Solusi/informasi kpd nsb:
+ 
+ (Copy status kartu ATM dari WBS/CAMS)",8501
+23.0,8708,True,Operational Risk,Individu Umum,Servicing,Transaction Solution,Fraud / Suspicious Transactions,Penipuan Kepada Nasabah BRI dan Transaksi dilakukan Sendiri oleh Nasabah,Nasabah Melaporkan Penipuan Terhadap Transaksi yang telah dilakukan,,,1,"1. surat pernyataan
+2. ktp
+3. surat kepolisian
+4. bukti transaksi",,T2.1 - ORD(FBI),1.0,1.0,,,,11.0,1.0,Partially Done,LCC-FBI,,,,1C,Regular Banking,,,,,,,,,"Nasabah melaporkan Indikasi Penipuan dan Sudah ada kerugian transaksi.
+ Nomor Rekening yang dilaporkan:
+ Nominal Transaksi:
+ Tanggal Transaksi:
+ Jam Transaksi:
+ Email Pelaporan:
+ Banyaknya transaksi yang dilakukan:
+ Media yang digunakan transaksi:
+ Kronologi Penipuan:
+ 
+ (Copy transaksi yang dilaporkan dari CHS Settle Complain)
+ 
+ Note: Jika korban adalah nasabah Bank lain, sarankan menghubungi bank tersebut juga.
+ 
+ #pnpdebit
+ 
+ Nasabah melaporkan Indikasi Penipuan dan Sudah ada kerugian transaksi.
+ Nomor Rekening yang dilaporkan :
+ Nominal Transaksi :
+ Tanggal transaksi :
+ Jam Transaksi :
+ Email Pelapor :
+ Banyaknya transaksi yang dilakukan :
+ Media yang digunakan transaksi :
+ Kronologis Penipuan :
+ 
+ (Copy transaksi yang dilaporkan dari CHS Settle Complain)",8708
+231.0,8711,True,Operational Risk,Individu Umum,Servicing,Transaction Solution,Fraud / Suspicious Transactions,Indikasi Penipuan Nasabah Korban Bank Lain,Nasabah Bank Lain Melakukan Pelaporan atas Indikasi Penipuan oleh Nasabah BRI,1.0,"1. Nasabah bank lain melalui Call Center
+2. Bank Lain melalui surat Bilateral",1,"1. surat pernyataan
+2. ktp
+3. surat kepolisian
+4. bukti transaksi","Sub: Nasabah bank lain melalui Call Center, Bank Lain melalui surat Bilateral",T2.1 - ORD(FBI),1.0,1.0,,,,11.0,1.0,Partially Done,LCC-FBI,,,,1C,Regular Banking,,,,,,,,,"Nasabah Bank lain melaporkan telah melakukan transaksi dengan indikasi penipuan ke rekening BRI.
+ Nama pelapor : …
+ Nama nasabah : …
+ Nomor rekening : …
+ Bank pembuka rekening : ( nama Bank dan Cabang )
+ Transaksi yang dilakukan : Transfer
+ No rekening tujuan : …
+ Nama pemilik rek tujuan : …
+ Nominal yang ditransfer : Rp. …
+ Sebanyak : … ( berapa kali )
+ Tanggal transaksi : …
+ Pukul : … wib
+ Transfer melalui : ATM BRI…
+ Layanan yang teregistrasi saat pelaporan : IB / Mobile banking
+ Keterangan : …………
+ 
+ Note: Jika korban adalah nasabah Bank lain, sarankan menghubungi bank tersebut juga.",8711
+241.0,8813,True,Resolution Center,UMKM,Loans,KTA (Personal Loan),Inquiry,Mitra UMI - Pinjaman Kece,Nasabah menanyakan terkait cara pengajuan pinjaman kece,,,,,Done,T1 - Agent CCT/Frontliner,1.0,,,,,1.0,,,LCC-CCTCALL,,,,1A,Regular Banking,,,,,,,,,,8813
+243.0,8900,True,Resolution Center,All,Savings,Giro (CA),Products / Promotion Inquiry,Giro,"Nasabah Menanyakan Cara, Syarat & Ketentuan Terkait Giro",,,,,Segmen harus diubah (tidak ada yang nanya ttg giro individu),T1 - Agent CCT/Frontliner,1.0,,,,,1.0,,Done,LCC-CCTCALL,,,,1A,Regular Banking,,,,,,,,,Nasabah menanyakan perihal ……,8900
+247.0,8906,True,Resolution Center,Individu Umum,Servicing,PPID,Inquiry,PPID,Nasabah menghubungi meminta informasi publik seputar BRI,,,,,Done,T2.1 - DPR,1.0,2.0,,,,3.0,2.0,,LCC-DPR,,,,1B,Regular Banking,,,,,,,,,"Pemohon membutuhkan data informasi PPID BRI terkati : 
+Informasi : …………………. ( nama informasi sesuai ketentuan PPID BRI )
+Alasan Permintaan : ………………….
+Mohon agar dikirimkan ke alamat email : ………………………  ( alamat email pemohon )
+
+Mohon bantuan tindaklanjut, terima kasih.",8906
+248.0,8907,True,Resolution Center,Individu Umum,Servicing,Taspen,Request,Taspen,TIket Internal OIA meminta Branch melakukan LKN ke Peserta Taspen untuk Otentifikasi,,,,,Tiket Internal OIA ke Branch,T2.1 - Branch (Uker),1.0,1.0,,,,11.0,1.0,,,,,,1B,Regular Banking,,,,,,,,,,8907
+256.0,8939,True,"Card, Digital Lending & Assset",Individu Umum,Loans,KTA (Personal Loan),Complaint - Transaction,Kendala Cicilan Briguna,Nasabah Komplain Terkait Permasalahan Pembayaran Tagihan BRIguna,1.0,"1. Gagal Pembayaran (Auto-payment)
+2. Hold Berulang kali",,,"Sub: Gagal Pembayaran (Auto-payment), Hold Berulang kali",T3.1 - CDD(SPD CLS),1.0,,,5.0,,6.0,5.0,Done,CLS,,,,1B,Regular Banking,,,,,,,,,"Nasabah Pinjaman BRIGUNA Mengalami Gagal Bayar Cicilan BRIGUNA:
+ Tanggal pembayaran yang gagal :
+ Nominal cicilan :
+ Dana terhold sebesar (Cash Advance Payment): Rp. ...
+ Pemberitahuan Status Hold Dana Sehubungan Pembayaran Cicilan Bulanan Fasilitas BRIGUNA. 
+ Copy Paste tampilan yang di AS 400. (remark dari Agent Leader)",8939
+267.0,9002,True,Resolution Center,Korporasi,Savings,Giro (CA),Inquiry,Identifikasi Setoran Pertamina,Nasabah menanyakan informasi terkait rekening cash card pertamina,,,,,Done,T1 - Agent CCT/Frontliner,1.0,,,,,1.0,,,,,,,1A,Regular Banking,,,,,,,,,,9002
+268.0,9003,True,Resolution Center,Korporasi,Savings,Giro (CA),Inquiry,Identifikasi Rekening Imprest Nasabah PLN,Nasabah menanyakan informasi terkait rekening cash card PLN,,,,,Done,T1 - Agent CCT/Frontliner,1.0,,,,,1.0,,,,,,,1A,Regular Banking,,,,,,,,,,9003
+275.0,9797,True,Resolution Center,Korporasi,Savings,Giro (CA),Inquiry,Nasabah Inti Kerjasama,Nasabah menyakan terkait informasi cash card,,,,,Done,T1 - Agent CCT/Frontliner,1.0,,,,,1.0,,,LCC-CCTNIK,,,,1A,Regular Banking,,,,,,,,,,9797
+277.0,8106-12,True,Resolution Center,Individu Umum,Investment,DPLK (Pension Fund),Inquiry,Nasabah Mengajukan Unlock User Microsite DPLK,Nasabah Mengajukan Unlock User Microsite DPLK,,,,,New Case Type -,T1 - Agent CCT/Frontliner,1.0,,,,,1.0,,Done,,,,,1A,Regular Banking,,,,,,,,,,8106-12
+284.0,8106-10,True,Resolution Center,Individu Umum,Investment,DPLK (Pension Fund),Inquiry,Nomor CIF,Nasabah Menanyakan Nomor CIF DPLK,,,,,New Case Type -,T1 - Agent CCT/Frontliner,1.0,,,,,1.0,,Done,,,,,1A,Regular Banking,,,,,,,,,,8106-10
+285.0,8106-11,True,Resolution Center,Individu Umum,Investment,DPLK (Pension Fund),Inquiry,Status Proses Claim/penarikan sebagian,Nasabah Menanyakan Status Proses Claim/Penarikan Sebagian DPLK,,,,,New Case Type -,T1 - Agent CCT/Frontliner,1.0,,,,,1.0,,Done,,,,,1A,Regular Banking,,,,,,,,,,8106-11
+286.0,8106-7,True,Resolution Center,Individu Umum,Investment,DPLK (Pension Fund),Inquiry,Nasabah Menanyakan Saldo DPLK,Nasabah Menanyakan Saldo DPLK,,,,,New Case Type -,T1 - Agent CCT/Frontliner,1.0,,,,,1.0,,Done,,,,,1A,Regular Banking,,,,,,,,,,8106-7
+287.0,8106-8,True,Resolution Center,Individu Umum,Investment,DPLK (Pension Fund),Inquiry,Nasabah Menanyakan Nomor Kartu,Nasabah Menanyakan Nomor Kartu DPLK,,,,,New Case Type -,T1 - Agent CCT/Frontliner,1.0,,,,,1.0,,Done,,,,,1A,Regular Banking,,,,,,,,,,8106-8
+288.0,8106-9,True,Resolution Center,Individu Umum,Investment,DPLK (Pension Fund),Inquiry,"Cara, Syarat ketentuan","Nasabah Menanyakan Cara, Syarat, dan Ketentuan DPLK",,,,,New Case Type -,T1 - Agent CCT/Frontliner,1.0,,,,,1.0,,Done,,,,,1A,Regular Banking,,,,,,,,,,8106-9
+291.0,8603-1,True,Application & Operations,Individu Umum,Servicing,Internet Banking,Complaint - Non-Transaction,Nasabah Komplain Terkait Penggunaan Aplikasi IBBIZ,Nasabah Komplain Terkait Penggunaan Aplikasi IBBIZ,,,,,New Case Type -,"T2.1 - CRS, T4.1 - APP(SDK)",1.0,1.0,,,3.0,5.0,4.0,Done,,,,,1B,Regular Banking,,,,,,,,,,8603-1
+267.0,8106-1*,False,Investment Service,Individu Umum,Investment,DPLK (Pension Fund),Complaint - Transaction,Claim yang belum terbayarkan ke nasabah,"Nasabah Komplain Claim DPLK Belum Terbayarkan, Nasabah Menanyakan Terkait Progress Perubahan Jenis Investasi",,,,,New Case Type -,,1.0,,,9.0,,1.0,9.0,Done,,,,,n.a,,,,,,,,,,,8106-1*
+27.0,8106-2*,False,Investment Service,Individu Umum,Investment,DPLK (Pension Fund),Complaint - Transaction,Penarikan sebagian yang belum terbayarkan ke nasabah,Nasabah Komplain Penarikan Sebagian Belum Terbayarkan,1.0,,,,New Case Type -,,1.0,,,9.0,,1.0,9.0,Done,,,,,n.a,,,,,,,,,,,8106-2*
+271.0,8106-3*,False,Investment Service,Individu Umum,Investment,DPLK (Pension Fund),Complaint - Transaction,Dana pengalihan DPLK belum masuk,Nasabah Komplain Dana Pengalihan Masuk/Keluar Belum Berhasil,1.0,,,,New Case Type -,,1.0,,,9.0,,1.0,9.0,Done,,,,,n.a,,,,,,,,,,,8106-3*
+272.0,8106-4*,False,Investment Service,Individu Umum,Investment,DPLK (Pension Fund),Complaint - Transaction,DPLK sudah close namun iuran Rutin masih tertagih (possible to delete),Nasabah Komplain Iuran DPLK Belum Masuk ke Rekening DPLK,,,,,New Case Type -,,1.0,,,5.0,,6.0,5.0,Done,,,,,n.a,,,,,,,,,,,8106-4*
+273.0,8106-5*,False,Investment Service,Individu Umum,Investment,DPLK (Pension Fund),Request,Pengiriman Ulang Portofolio/E-Statement DPLK,Nasabah Mengajukan Pengiriman Ulang Portfolio/E-Statement DPLK,,,,,New Case Type - Menunggu Kewenangan dari INV,,1.0,,,,,1.0,,Done,,,,,n.a,,,,,,,,,,,8106-5*
+274.0,8106-6*,False,Investment Service,Individu Umum,Investment,DPLK (Pension Fund),Request,Nasabah Mengajukan bukti potong pajak pembayaran DPLK,Nasabah Mengajukan bukti potong pajak pembayaran DPLK,,,,,New Case Type - Menunggu Kewenangan dari INV,,1.0,,,,,1.0,,Done,,,,,n.a,,,,,,,,,,,8106-6*
+24.0,1102,False,Resolution Center,All,All,All,Request,Menanyakan Pengiriman dok / Data Tambahan (follow up permintaan dokumen ),Menanyakan Pengiriman dok / Data Tambahan (follow up permintaan dokumen ),,Yes,No,No,Proposed to delete embbed with specific case type,T2.1 - CRS,1.0,1.0,,,,2.0,1.0,Done,KKD-AKK-SSU,,,,,,,,,,,,,,,1102
+139.0,8002,False,Resolution Center,All,Savings,"Tabungan, Cash Management, Payment Solutions, Mobile Banking, Internet Banking",Third Party Support,Bansos - KPM Gagal Tarik Tunai di E-Channel,Bansos - KPM Gagal Tarik Tunai di E-Channel,,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-CCTNIK,,,,,,,,,,,,,,,8002
+158.0,8206,False,Resolution Center,UMKM,Loans,KUR (Business Loan - Micro),Third Party Support,Bantuan bagi Pelaku Usaha Mikro / BPUM,Bantuan bagi Pelaku Usaha Mikro / BPUM,,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-CCTNIK,,,,,,,,,,,,,,,8206
+16.0,8208,False,Resolution Center,Individu Umum,Savings,Kartu Debit,Complaint - Non-Transaction,Cleansing kartu Debit menjadi Ber Chip,Cleansing kartu Debit menjadi Ber Chip,1.0,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-CCTCALL,,,,,,,,,,,,,,,8208
+163.0,8219,False,Resolution Center,Individu Umum,Savings,Kartu Debit,Complaint - Non-Transaction,Transaksi Dengan Debit Card Ditolak,Transaksi Dengan Debit Card Ditolak,,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-CCTCALL,,,,,,,,,,,,,,,8219
+17.0,8402,False,Resolution Center,Individu Umum,Savings,Kartu Debit,Complaint - Non-Transaction,Kartu ATM Selalu Gagal Apabila Digunakan Transaksi,Kartu ATM Selalu Gagal Apabila Digunakan Transaksi,,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,RPT-MCH,,,,,,,,,,,,,,,8402
+181.0,8417,False,Resolution Center,Individu Umum,Savings,Kartu Debit,Inquiry,Nasabah Bank Lain Terdebet di ATM BRI (duplikasi dengan call type 8420),Nasabah Bank Lain Terdebet di ATM BRI (duplikasi dengan call type 8420),,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-CCTCALL,,,,,,,,,,,,,,,8417
+185.0,8421,False,Resolution Center,All,All,All,Complaint - Non-Transaction,Tidak Bisa Melakukan Registrasi Layanan yang Ada di BRI,Tidak Bisa Melakukan Registrasi Layanan yang Ada di BRI,,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-CCTCALL,,,,,,,,,,,,,,,8421
+2.0,8444,False,Resolution Center,All,Savings,"Tabungan, Cash Management, Payment Solutions, Mobile Banking, Internet Banking",Third Party Support,Nasabah Bank Lain / Merchant Salah Transfer ke BRI,Nasabah Bank Lain Mengajukan Pengembalian Dana (Refund) akibat Salah Transfer ke BRI,,Yes,No,No,Proposed to delete,"T2.1 - CRS, T2.2 - Branch, T3.1 - NFT",1.0,1.0,1.0,3.0,,6.0,5.0,Done,LCC-CRC,,,,,,,,,,,,,,,8444
+203.0,8504,False,Resolution Center,Individu Umum,Savings,Kartu Debit,Inquiry,Kartu ATM Rusak,Kartu ATM Rusak,,Yes,No,No,"Proposed to Delete, masukan ke sub desc 8208",,1.0,,,,,1.0,,Done,LCC-CCTCALL,,,,,,,,,,,,,,,8504
+207.0,8601,False,Resolution Center,Individu Umum,Savings,Internet Banking,Platform & Device Support,Internet Banking ( sunset channel),Internet Banking ( sunset channel),,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-CRC,,,,,,,,,,,,,,,8601
+212.0,8611,False,Resolution Center,UMKM,Merchant Solutions,Payment Solutions,Request,Pengkinian Data Merchant,Pengkinian Data Merchant,,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-CCTCALL,,,,,,,,,,,,,,,8611
+218.0,8617,False,Resolution Center,UMKM,Merchant Solutions,Payment Solutions,Request,Merchant - Perangkat - Permintaan dokumen transaksi ke merchant,Merchant - Perangkat - Permintaan dokumen transaksi ke merchant,,Yes,No,No,Proposed to delete,T2.1 - FST,1.0,2.0,,,,3.0,2.0,Done,RPT-MIM,,,,,,,,,,,,,,,8617
+23.0,8629,False,Resolution Center,UMKM,Merchant Solutions,Payment Solutions,Complaint - Transaction,Merchant - Transaksi KK BRI/Kartu bank lain - Refund double posting (kendala system),Merchant - Transaksi KK BRI/Kartu bank lain - Refund double posting (kendala system),,Yes,No,No,Proposed to delete,T2.1 - FST,1.0,5.0,,,,6.0,5.0,Done,RPT-MCO,,,,,,,,,,,,,,,8629
+237.0,8703,False,Resolution Center,Individu Umum,Savings,Kartu Debit,Request,Enable / Disable Kartu ATM (kartu debit),Enable / Disable Kartu ATM (kartu debit),,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-CCTCALL,,,,,,,,,,,,,,,8703
+242.0,8709,False,Operational Risk,Korporasi,Transaction Banking,Cash Management,Fraud / Suspicious Transactions,Investigasi Indikasi Fraud Internal,Investigasi Indikasi Fraud Internal,,Yes,Yes,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-FBI,,,,,,,,,,,,,,,8709
+246.0,8714,False,Resolution Center,Individu Umum,Savings,Electronic Money,Complaint - Non-Transaction,Komplain BRIZZI Fuel Card,Komplain BRIZZI Fuel Card,,Yes,No,No,"Proposed to delete, Gabung dengan komplain BRIZZI",T2.1 - NFT,1.0,5.0,,,,6.0,5.0,Done,LCC-ISSUER,,,,,,,,,,,,,,,8714
+247.0,8716,False,Operational Risk,Korporasi,Transaction Banking,Cash Management,Fraud / Suspicious Transactions,Register Surat Bilateral Bank Lain (Penipuan),Register Surat Bilateral Bank Lain (Penipuan),,Yes,Yes,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-FBI,,,,,,,,,,,,,,,8716
+25.0,8803,False,Resolution Center,All,Savings,"Tabungan, Cash Management, Payment Solutions, Mobile Banking, Internet Banking",Complaint - Transaction,Nasabah BRI gagal Transfer & terdebet ke Rek BRI Syariah,Nasabah BRI gagal Transfer & terdebet ke Rek BRI Syariah,,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-ISSUER,,,,,,,,,,,,,,,8803
+26.0,8903,False,Resolution Center,All,All,All,Third Party Support,Komplain Antar Bank,Komplain Antar Bank,,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-CRC,,,,,,,,,,,,,,,8903
+262.0,8910,False,Funding & Retail Payment,Individu Umum,Savings,Giro (CA),Complaint - Transaction,Komplain Kliring di Teller,Komplain Kliring di Teller,,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,SRK-RTGKL,,,,,,,,,,,,,,,8910
+263.0,8911,False,Resolution Center,Individu Umum,Savings,Mobile Banking,Complaint - Transaction,Komplain BRImo Payment,Komplain BRImo Payment,,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-ISSUER,,,,,,,,,,,,,,,8911
+265.0,8914,False,Resolution Center,All,Savings,"Tabungan, Cash Management, Payment Solutions, Mobile Banking, Internet Banking",Platform & Device Support,Komplain Kios K (sunset channel),Komplain Kios K (sunset channel),,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-CRC,,,,,,,,,,,,,,,8914
+268.0,8918,False,Resolution Center,All,All,All,Products / Promotion Inquiry,Produk Kerjasama Lainnya,Produk Kerjasama Lainnya,,Yes,No,No,Proposed to delete,T2.1 - CRS,1.0,1.0,,,,2.0,1.0,Done,LCC-CRC,,,,,,,,,,,,,,,8918
+271.0,8926,False,Resolution Center,All,All,All,Customer Feedback / Sentiment Monitoring,Pengaduan di Media Cetak - terkait Pembayaran,Pengaduan di Media Cetak - terkait Pembayaran,,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-CRC,,,,,,,,,,,,,,,8926
+272.0,8928,False,Resolution Center,All,All,All,Customer Feedback / Sentiment Monitoring,Liputan Media Elektronik - terkait Pembayaran,Liputan Media Elektronik - terkait Pembayaran,,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-CRC,,,,,,,,,,,,,,,8928
+273.0,8929,False,Resolution Center,All,All,All,Customer Feedback / Sentiment Monitoring,Publikasi/Tulisan Di Tempat Umum - terkait Pembayaran,Publikasi/Tulisan Di Tempat Umum - terkait Pembayaran,,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-CRC,,,,,,,,,,,,,,,8929
+274.0,8930,False,Resolution Center,All,All,All,Customer Feedback / Sentiment Monitoring,Publikasi Negatif Lainnya - terkait Pembayaran,Publikasi Negatif Lainnya - terkait Pembayaran,,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-CRC,,,,,,,,,,,,,,,8930
+275.0,8931,False,Resolution Center,All,All,All,Customer Feedback / Sentiment Monitoring,Pengaduan di Media Cetak - tidak terkait Pembayaran,Pengaduan di Media Cetak - tidak terkait Pembayaran,,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-CRC,,,,,,,,,,,,,,,8931
+276.0,8933,False,Resolution Center,All,All,All,Customer Feedback / Sentiment Monitoring,Liputan Media Elektronik - tidak terkait Pembayaran,Liputan Media Elektronik - tidak terkait Pembayaran,,Yes,No,No,Proposed to delete,T2.1 - CRS,1.0,3.0,,,,4.0,3.0,Done,LCC-CRC,,,,,,,,,,,,,,,8933
+288.0,8981,False,Resolution Center,All,All,All,Third Party Support,Other Partners (propose to delete),Other Partners (propose to delete),,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-CRC,,,,,,,,,,,,,,,8981
+289.0,8982,False,Funding & Retail Payment,UMKM,Merchant Solutions,EDC/QRIS,Complaint - Transaction,Transaksi QRIS Laporan dari Merchant,Transaksi QRIS Laporan dari Merchant,,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,RPT-MCO,,,,,,,,,,,,,,,8982
+29.0,8983,False,Resolution Center,UMKM,Merchant Solutions,Payment Solutions,Request,Pembatalan Transaksi / Refund Merchant,Pembatalan Transaksi / Refund Merchant,,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-CCTCALL,,,,,,,,,,,,,,,8983
+291.0,8984,False,Resolution Center,UMKM,Merchant Solutions,Payment Solutions,Platform & Device Support,Status Mesin EDC tidak Bisa Digunakan,Status Mesin EDC tidak Bisa Digunakan,,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-CCTCALL,,,,,,,,,,,,,,,8984
+293.0,8986,False,Resolution Center,UMKM,Merchant Solutions,Payment Solutions,Complaint - Transaction,Pembayaran Settlement Merchant (gagal settlement),Pembayaran Settlement Merchant (gagal settlement),,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-CCTCALL,,,,,,,,,,,,,,,8986
+296.0,9001,False,Resolution Center,All,All,All,Products / Promotion Inquiry,BRI Agro,BRI Agro,,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-ACQ,,,,,,,,,,,,,,,9001
+301.0,9999,False,Resolution Center,Individu Umum,Savings,Electronic Money,Complaint - Transaction,Gagal Transaksi BRIZZI,Gagal Transaksi BRIZZI,,Yes,No,No,Proposed to delete,,1.0,,,,,1.0,,Done,LCC-ISSUER,,,,,,,,,,,,,,,9999
+353.0,999,True,Resolution Center,,,,,-,OOT - Interaksi Nasabah Melalui Sosial Media atau Email,,,,,,T1 - Agent CCT/Frontliner,1.0,,,,,1.0,,,,,,,,Regular Banking,,,,,,,,,,999

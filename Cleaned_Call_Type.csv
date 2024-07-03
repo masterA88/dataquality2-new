@@ -3908,26 +3908,6 @@ Terima kasih",8406
 293,8986,FALSE,Resolution Center,UMKM,Merchant Solutions,Payment Solutions,Complaint - Transaction,Pembayaran Settlement Merchant (gagal settlement),Pembayaran Settlement Merchant (gagal settlement),,Yes,No,No,Proposed to delete,,1,,,,,1,,Done,LCC-CCTCALL,,,,,,,,,,,,,,,8986
 296,9001,FALSE,Resolution Center,All,All,All,Products / Promotion Inquiry,BRI Agro,BRI Agro,,Yes,No,No,Proposed to delete,,1,,,,,1,,Done,LCC-ACQ,,,,,,,,,,,,,,,9001
 301,9999,FALSE,Resolution Center,Individu Umum,Savings,Electronic Money,Complaint - Transaction,Gagal Transaksi BRIZZI,Gagal Transaksi BRIZZI,,Yes,No,No,Proposed to delete,,1,,,,,1,,Done,LCC-ISSUER,,,,,,,,,,,,,,,9999
-304,1201,FALSE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Complaint - Non-Transaction,Komplain aplikasi Kartu Kredit Co Branding (pengajuan kartu kredit),Komplain aplikasi Kartu Kredit Co Branding (pengajuan kartu kredit),,Yes,Yes,No,Proposed to delete,,,,,,,1,,Done,KKD-MPP-PRN,,,,,,,,,,,,,,"Sudah ada hasil status pengajuan kartu kredit Co Branding di LOS :
- 
- Nasabah menanyakan status pengajuan aplikasi kartu kredit
- Pengajuan melalui apa:
- Pengajuan ditanggal berapa:
- Nomor KTP:
- Nomor Ponsel yang didaftarkan:
- Sudah infokan hasil pengajuan ( infokan sesuai LOS )
- ( Copy paste hasil pengecekan LOS )
- 
- 
- Complain kendala pada saat pengajuan Kartu Co Branding :
- Nasabah Complain tidak dapat pengajuan Co Branding :
- Jenis kartu Co Branding :
- Alasan :
- Respon yang muncul di aplikasi :
- Digital Sign : ( terima / tidak terima )
- Alamat email :
- No Hp yang terdaftar di aplikasi :
- Keterangan tambahan :",1201
 343,1733,FALSE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Complaint - Transaction,Poin kartu Infinite,Poin kartu Infinite,,Yes,Yes,No,Proposed to Delete,,1,,,,,1,,Done,KKD-PBK-KKPBK,,,,,,,,,,,,,,,1733
 346,4219,FALSE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Pendaftaran QRIS Kartu Kredit Pemerintah secara Manual,Pendaftaran QRIS Kartu Kredit Pemerintah secara Manual,,Yes,Yes,No,Proposed to delete,,1,,,,,1,,Done,KKD-PBK-KKPBK,,,,,,,,,,,,,,,4219
 347,4206,FALSE,"Card, Digital Lending & Assset",Individu Umum,Loans,Kartu Kredit,Request,Permintaan Kartu Kredit Baru Karena Pembayaran Tidak Lancar,Nasabah Mengajukan Kartu Kredit Baru Karena Pembayaran Tidak Lancar,1.0,Yes,Yes,No,Proposed to delete,,1,,,,,1,,Done,KKD-CRI-DATAM,,,,,,,,,,,,,,,4206
