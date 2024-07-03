@@ -1,0 +1,74 @@
+,Case Types,ERROR
+0,1100,"Customer Segment: bad value for restricted picklist field: Individu Umum, Individu Priority &amp; Private"
+1,1211,"Customer Segment: bad value for restricted picklist field: Individu Umum, Individu Priority &amp; Private"
+2,1708,"Customer Segment: bad value for restricted picklist field: Individu Umum, Individu Priority &amp; Private"
+3,1709,"Customer Segment: bad value for restricted picklist field: Individu Umum, Individu Priority &amp; Private"
+4,7979,bad value for restricted picklist field: Giro
+5,8105,Product: bad value for restricted picklist field: SBN
+6,8106,Product: bad value for restricted picklist field: DPLK
+7,8226,"Customer Segment: bad value for restricted picklist field: Individu Umum, Individu Priority &amp; Private"
+8,8418,bad value for restricted picklist field: Transaction Solution
+9,8419,bad value for restricted picklist field: Transaction Solution
+10,8501,"Customer Segment: bad value for restricted picklist field: Individu Umum, Individu Priority &amp; Private"
+11,8708,bad value for restricted picklist field: Transaction Solution
+12,8711,bad value for restricted picklist field: Transaction Solution
+13,8813,Product: bad value for restricted picklist field: KTA
+14,8900,bad value for restricted picklist field: Giro
+15,8906,Customer Segment: bad value for restricted picklist field: Individu
+16,8907,Customer Segment: bad value for restricted picklist field: Individu
+17,8939,Product: bad value for restricted picklist field: KTA
+18,9002,bad value for restricted picklist field: Giro
+19,9003,bad value for restricted picklist field: Giro
+20,9797,bad value for restricted picklist field: Giro
+21,8106-12,Product: bad value for restricted picklist field: DPLK
+22,8106-10,Product: bad value for restricted picklist field: DPLK
+23,8106-11,Product: bad value for restricted picklist field: DPLK
+24,8106-7,Product: bad value for restricted picklist field: DPLK
+25,8106-8,Product: bad value for restricted picklist field: DPLK
+26,8106-9,Product: bad value for restricted picklist field: DPLK
+27,8603-1,"Customer Segment: bad value for restricted picklist field: Individu Umum, UMKM"
+28,8106-1*,Product: bad value for restricted picklist field: DPLK
+29,8106-2*,Product: bad value for restricted picklist field: DPLK
+30,8106-3*,Product: bad value for restricted picklist field: DPLK
+31,8106-4*,Product: bad value for restricted picklist field: DPLK
+32,8106-5*,Product: bad value for restricted picklist field: DPLK
+33,8106-6*,Product: bad value for restricted picklist field: DPLK
+34,1102,Product Grouping: bad value for restricted picklist field: All
+35,8002,"Product Grouping: bad value for restricted picklist field: Savings, Transaction Banking"
+36,8206,Product: bad value for restricted picklist field: KUR
+37,8208,Product: bad value for restricted picklist field: Debit Card
+38,8219,Product: bad value for restricted picklist field: Debit Card
+39,8402,Product: bad value for restricted picklist field: Debit Card
+40,8417,Product: bad value for restricted picklist field: Debit Card
+41,8421,Product Grouping: bad value for restricted picklist field: All
+42,8444,"Product Grouping: bad value for restricted picklist field: Savings, Transaction Banking"
+43,8504,Product: bad value for restricted picklist field: Debit Card
+44,8601,bad value for restricted picklist field: Internet Banking
+45,8611,bad value for restricted picklist field: Merchant Solutions
+46,8617,bad value for restricted picklist field: Merchant Solutions
+47,8629,bad value for restricted picklist field: Merchant Solutions
+48,8703,Product: bad value for restricted picklist field: Debit Card
+49,8709,bad value for restricted picklist field: Cash Management
+50,8714,bad value for restricted picklist field: Electronic Money
+51,8716,bad value for restricted picklist field: Cash Management
+52,8803,"Product Grouping: bad value for restricted picklist field: Savings, Transaction Banking"
+53,8903,Product Grouping: bad value for restricted picklist field: All
+54,8910,bad value for restricted picklist field: Giro
+55,8911,bad value for restricted picklist field: Mobile Banking
+56,8914,"Product Grouping: bad value for restricted picklist field: Savings, Transaction Banking"
+57,8918,Product Grouping: bad value for restricted picklist field: All
+58,8926,Product Grouping: bad value for restricted picklist field: All
+59,8928,Product Grouping: bad value for restricted picklist field: All
+60,8929,Product Grouping: bad value for restricted picklist field: All
+61,8930,Product Grouping: bad value for restricted picklist field: All
+62,8931,Product Grouping: bad value for restricted picklist field: All
+63,8933,Product Grouping: bad value for restricted picklist field: All
+64,8981,Product Grouping: bad value for restricted picklist field: All
+65,8982,bad value for restricted picklist field: Merchant Solutions
+66,8983,bad value for restricted picklist field: Merchant Solutions
+67,8984,bad value for restricted picklist field: Merchant Solutions
+68,8986,bad value for restricted picklist field: Merchant Solutions
+69,9001,Product Grouping: bad value for restricted picklist field: All
+70,9999,bad value for restricted picklist field: Electronic Money
+71,1201,duplicate value found: External_Id__c duplicates value on record with id: a1IMg000000D4HIMA0
+72,999,Customer Segment: bad value for restricted picklist field: -
